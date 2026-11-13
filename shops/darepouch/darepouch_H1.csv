@@ -1,0 +1,707 @@
+id;title;handle;vendor;product_type;tags;variant_title;variant_available;variant_price;variant_compare_at_price;shop;product_category;language;currency
+8433880793267;R4VE Extra Strong - Juicy Apple;rave-juicy-apple-1;R4VE;Extra Strong;"10 cans -15%; Dare to Save; Extra Strong; Fruit; R4VE";19,5 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8433880727731;R4VE - Merry Cherry;rave-merry-cherry;R4VE;Normal;"10 cans -15%; Dare to Save; Fruit; Normal; R4VE";9,6 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8433880694963;R4VE Extra Strong - Skittler;rave-skittler-1;R4VE;Extra Strong;"10 cans -15%; Dare to Save; Extra Strong; Fruit; R4VE; Sweet";19,5 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8433880596659;R4VE Extra Strong - Frozen Citrus;rave-frozen-citrus-1;R4VE;Extra Strong;"10 cans -15%; Best Sellers; Citrus; Dare to Save; Extra Strong; Ice; R4VE";19,5 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8433880498355;R4VE - La Passion Fruit;rave-la-passion-fruit;R4VE;Normal;"10 cans -15%; Dare to Save; Fruit; Normal; R4VE";9,6 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8433880334515;R4VE - Juicy Apple;rave-juicy-apple;R4VE;Normal;"10 cans -15%; Dare to Save; Fruit; Normal; R4VE";9,6 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8433880301747;R4VE - Skittler;rave-skittler;R4VE;Normal;"10 cans -15%; Dare to Save; Fruit; Normal; R4VE; Sweet";9,6 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8433880072371;R4VE - Frozen Citrus;rave-frozen-citrus;R4VE;Normal;"10 cans -15%; Citrus; Dare to Save; Ice; Normal; R4VE";9,6 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8433879842995;R4VE - Cola Explosion;rave-cola-explosion;R4VE;Normal;"10 cans -15%; Cola; Dare to Save; new-arrival-auto; Normal; R4VE";9,6 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8433920278707;VELO Crispy Peppermint;velo-crispy-peppermint-1;VELO;Normal;"10 cans -15%; best-seller; Ice; Mint; Normal; VELO";10 mg/zakje;TRUE;8.18;;darepouch.com;pouch;nl;EUR
+8456209531059;SUPREME - Super Melon;supreme-super-melon;SUPREME;Extra Strong;"10 cans -15%; Dare to Save; Extra Strong; Fruit; New Arrivals; SUPREME";60 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433890787507;SUPREME - Passion Fruit;supreme-passion-fruit;SUPREME;Extra Strong;"10 cans -15%; Dare to Save; Extra Strong; Fruit; SUPREME";60 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433890754739;SUPREME - Raspberry;supreme-raspberry;SUPREME;Extra Strong;"10 cans -15%; Berries; Dare to Save; Extra Strong; SUPREME";60 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433890721971;SUPREME - Grape;supreme-grape;SUPREME;Extra Strong;"10 cans -15%; Dare to Save; Extra Strong; Fruit; SUPREME";60 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433890623667;SUPREME - Mint Lime;supreme-mint-lime;SUPREME;Extra Strong;"10 cans -15%; Citrus; Dare to Save; Extra Strong; Mint; SUPREME";60 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433890590899;SUPREME - Currant Mix;supreme-currant-mix;SUPREME;Extra Strong;"10 cans -15%; Berries; Dare to Save; Extra Strong; SUPREME";60 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433890525363;SUPREME - Fruit Juice;supreme-fruit-juice;SUPREME;Extra Strong;"10 cans -15%; Dare to Save; Extra Strong; Fruit; Ice; SUPREME";60 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433890492595;SUPREME - Banana Milkshake;supreme-banana-milkshake;SUPREME;Extra Strong;"10 cans -15%; Dare to Save; Extra Strong; Fruit; SUPREME; Sweet";60 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433890459827;SUPREME - Summer Explosion;supreme-summer-explosion;SUPREME;Extra Strong;"10 cans -15%; Dare to Save; Extra Strong; Fruit; SUPREME";60 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433520050355;ICEBERG Medium - Ice Cool;iceberg-cool-mint-20;ICEBERG;Strong;"10 cans -15%; Ice; ICEBERG; ICEBERG Medium; ICEBERG Strong; Mint; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433519591603;ICEBERG Energy - Black;iceberg-caffeine-pouches-black-150mg;ICEBERG;Energy Pouches;"10 cans -15%; energy pouches; Fruit; ICEBERG; ICEBERG Energy; Sweet";150 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8433889411251;SNOWMAN Strong - Fresh Mint;snowman-fresh-mint-12mg;SNOWMAN;Strong;"10 cans -15%; Mint; SNOWMAN; Strong";12 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8433889280179;SNOWMAN Strong - Citrus Boost;snowman-citrus-boost-12mg;SNOWMAN;Strong;"10 cans -15%; Citrus; New Arrivals; SNOWMAN; Strong";12 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8754837749939;NOR Ice Mint;nor-ice-mint;NOR;Strong;"Dare to Save; Ice; Mint; new-arrival-auto; NOR; Strong";16,2 mg/zakje;TRUE;4.49;;darepouch.com;pouch;nl;EUR
+8754837684403;NOR Watermelon;nor-watermelon;NOR;Strong;"Dare to Save; deals; Fruit; new-arrival-auto; NOR; Strong";12 mg/zakje;TRUE;4.49;4.99;darepouch.com;pouch;nl;EUR
+8754837651635;NOR Cool Mint;nor-cool-mint;NOR;Strong;"Dare to Save; Ice; Mint; new-arrival-auto; NOR; Strong";15 mg/zakje;TRUE;4.49;;darepouch.com;pouch;nl;EUR
+8433920311475;VELO Crispy Peppermint Mini;velo-crispy-peppermint-mini-1;VELO;Normal;"10 cans -15%; deals; Ice; Mint; Normal; VELO";8 mg/zakje;TRUE;7.92;10.56;darepouch.com;pouch;nl;EUR
+8433920213171;VELO Orange Spark;velo-orange-spark-1;VELO;Strong;"10 cans -15%; best-seller; Citrus; Strong; VELO";10,9 mg/zakje;TRUE;8.18;;darepouch.com;pouch;nl;EUR
+8433906811059;VELO Freezing Peppermint Max;velo-mighty-peppermint-max;VELO;Strong;"10 cans -15%; Best Sellers; best-seller; Ice; Mint; Strong; VELO";17 mg/zakje;TRUE;8.18;;darepouch.com;pouch;nl;EUR
+8433488363699;GARANT Extreme Mini - Original;garant-extreme-mini-1;GARANT;Extra Strong;"10 cans -15%; Extra Strong; GARANT; GARANT Extreme Mini; Ice; Mint";19,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754533597363;CUBA Limited Edition White - Ice Berry;cuba-white-ice-berry;CUBA;Extra Strong;"Berries; CUBA; CUBA Limited Edition; Dare to Save; Extra Strong; Ice; new-arrival-auto";30 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433445339315;CUBA Black - Blackcurrant;cuba-blackcurrant;CUBA;Extra Strong;"10 cans -15%; Berries; CUBA; CUBA Black; Dare to Save; Extra Strong";43 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433445241011;CUBA Black - Peach;cuba-black-peach;CUBA;Extra Strong;"10 cans -15%; CUBA; CUBA Black; Dare to Save; Extra Strong; Fruit";43 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433445208243;CUBA Black - Ice Spearmint;cuba-black-spearmint;CUBA;Extra Strong;"10 cans -15%; CUBA; CUBA Black; Dare to Save; Extra Strong; Ice; Mint";43 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433445077171;CUBA Black - Banana Hit;cuba-black-banana-hit;CUBA;Extra Strong;"10 cans -15%; CUBA; CUBA Black; Dare to Save; Extra Strong; Fruit";43 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433445011635;CUBA Black - Raspberry;cuba-3;CUBA;Extra Strong;"10 cans -15%; Berries; CUBA; CUBA Black; Dare to Save; Extra Strong";43 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433444978867;CUBA White - Apple Juice;cuba-white-apple-juice;CUBA;Strong;"10 cans -15%; CUBA; CUBA White; Dare to Save; Fruit; Strong";10,4 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433444815027;CUBA Black - Lollipop;cuba-2;CUBA;Extra Strong;"10 cans -15%; CUBA; CUBA Black; Dare to Save; Extra Strong; Sweet";43 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433444683955;CUBA Black - Grape;cuba-black-grape;CUBA;Extra Strong;"10 cans -15%; CUBA; CUBA Black; Dare to Save; Extra Strong; Fruit";43 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433444651187;CUBA Black - Blueberry;cuba-black-blueberry;CUBA;Extra Strong;"10 cans -15%; Berries; CUBA; CUBA Black; Dare to Save; Extra Strong";43 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433444585651;CUBA Black - Tropical Fruit;cuba-1;CUBA;Extra Strong;"10 cans -15%; CUBA; CUBA Black; Dare to Save; Extra Strong; Fruit";43 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433444520115;CUBA Black - Apple Juice;cuba-black-apple-juice;CUBA;Extra Strong;"10 cans -15%; CUBA; CUBA Black; Dare to Save; Extra Strong; Fruit";43 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433444389043;CUBA White - Cherry;coba-white-cherry;CUBA;Strong;"10 cans -15%; best-seller; CUBA; CUBA White; Dare to Save; Fruit; Strong";10,4 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433405460659;77 - Apple & Mint;77-apple-mint-1;77;Strong;"77; Fruit; Mint; Strong";10,4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433395564723;77 - Forest Fruits;77-forrest-fruits;77;Strong;"77; Berries; deals; Strong";10,4 mg/zakje;TRUE;5.54;6.93;darepouch.com;pouch;nl;EUR
+8433852416179;NOIS - Mint;nois-mint-1;NOIS;Normal;"10 cans -15%; deals; Mint; NOIS; Normal";10 mg/zakje;TRUE;5.54;6.52;darepouch.com;pouch;nl;EUR
+8433852022963;NOIS - Cool Strong;nois-cool-strong-1;NOIS;Strong;"10 cans -15%; Mint; NOIS; Strong";17,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433851760819;NOIS - Cherry Extreme;nois-extreme-cherry-1;NOIS;Extra Strong;"10 cans -15%; Extra Strong; Fruit; NOIS";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433851302067;NOIS - Cool Strong Extreme;nois-cool-strong-extreme-1;NOIS;Extra Strong;"10 cans -15%; Best Sellers; Extra Strong; Mint; NOIS";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433851105459;NOIS - Blueberry Extreme;nois-extreme-blueberry-1;NOIS;Extra Strong;"10 cans -15%; Berries; Extra Strong; New Arrivals; NOIS";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8547903307955;Edel - Cold;edel-cold;EDEL;Strong;"10 cans -15%; deals; EDEL; Ice; Mint; Strong";12 mg/zakje;TRUE;5.81;6.31;darepouch.com;pouch;nl;EUR
+8547903439027;Edel - Berry Ice;edel-berry-ice;EDEL;Strong;"10 cans -15%; Berries; EDEL; Ice; Strong";12 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8452883349683;SKRUF - No. 54 Fresh Mint;skruf-no-54-fresh-mint;SKRUF;Strong;"best-seller; Mint; New Arrivals; SKRUF; Skruf Superwhite; Strong";13 mg/zakje;TRUE;7.52;;darepouch.com;pouch;nl;EUR
+8433519984819;ICEBERG Energy - Sweet Mint;iceberg-caffeine-pouches-sweet-mint-150mg;ICEBERG;Energy Pouches;"10 cans -15%; energy pouches; ICEBERG; ICEBERG Energy; Mint; Sweet";150 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8433441964211;CAMO Black - Grape;camo-black-grape;CAMO;Extra Strong;"Berries; CAMO; Dare to Save; deals; Extra Strong; Fruit; New Arrivals";25 mg/zakje;TRUE;3.96;4.66;darepouch.com;pouch;nl;EUR
+8433441800371;CAMO - Peppermint;camo-peppermint;CAMO;Strong;"best-seller; CAMO; Dare to Save; Mint; Strong";12 mg/zakje;TRUE;3.96;;darepouch.com;pouch;nl;EUR
+8433401626803;ACE X Cosmic - Cool Mint;ace-x-cosmic;ACE;Strong;"10 cans -15%; ACE; Ice; Mint; Strong";11,5 mg/zakje;TRUE;7.13;;darepouch.com;pouch;nl;EUR
+8754839879859;DENSSI Energy - Berry Beast;denssi-energy-berry-beast;DENSSI;Energy Pouches;"Berries; DENSSI; energy pouches; new-arrival-auto";100 mg cafeïne/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8754839748787;77 - Cola Ice;77-cola-ice;77;Strong;"77; Cola; deals; Ice; new-arrival-auto; Strong";10,4 mg/zakje;TRUE;5.54;6.52;darepouch.com;pouch;nl;EUR
+8754839650483;KILLA Exclusive - Strawberry Watermelon;killa-exclusive-strawberry-watermelon;KILLA;Strong;"Berries; Dare to Save; Fruit; KILLA; new-arrival-auto; Strong";13,2 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8754839552179;DOSH - Strawberry Lush 16mg;dosh-strawberry-lush-16mg;DOSH;Strong;"Berries; DOSH; new-arrival-auto; Strong";16 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8754839519411;DOSH - Fresh Mint 35mg;dosh-fresh-mint-35mg;DOSH;Extra Strong;"DOSH; Extra Strong; Ice; Mint; new-arrival-auto";35 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8754839486643;MAGGIE Lite - Mr Blue;maggie-mr-blue-16mg;MAGGIE;Strong;"Berries; Fruit; MAGGIE; Strong";13,6 mg/zakje;TRUE;5.68;;darepouch.com;pouch;nl;EUR
+8754839453875;MAGGIE Lite - Fruit Punch;maggie-fruit-punch-16mg;MAGGIE;Strong;"Citrus; Fruit; MAGGIE; new-arrival-auto; Strong";13,6 mg/zakje;TRUE;5.68;;darepouch.com;pouch;nl;EUR
+8754839421107;MAGGIE Lite - Cherry Tonic Wine;maggie-cherry-tonic-wine-16mg;MAGGIE;Strong;"Berries; Fruit; MAGGIE; new-arrival-auto; Strong";13,6 mg/zakje;TRUE;5.68;;darepouch.com;pouch;nl;EUR
+8754839355571;WAKEY Boost - Frozen Berries;wakey-frozen-berries;WAKEY;Energy Pouches;"Berries; energy pouches; Ice; WAKEY";100 mg cafeïne/zakje;TRUE;6.20;;darepouch.com;pouch;nl;EUR
+8754839290035;WAKEY - White Peach;wakey-white-peach;WAKEY;Energy Pouches;"energy pouches; Fruit; new-arrival-auto; WAKEY";50 mg cafeïne/zakje;TRUE;6.20;;darepouch.com;pouch;nl;EUR
+8754839257267;WAKEY Zero - Blizzard Mint;wakey-zero-blizzard;WAKEY;Nicotine-Free;"Ice; Mint; new-arrival-auto; Nicotine-Free; WAKEY";0 mg/zakje;TRUE;6.20;;darepouch.com;pouch;nl;EUR
+8754839224499;SKRUF - No. 64 Fresh Apple;skruf-superwhite-no-64-fresh-apple;SKRUF;Strong;"Fruit; Mint; SKRUF; Strong";12 mg/zakje;TRUE;7.52;;darepouch.com;pouch;nl;EUR
+8754839191731;SKRUF - No. 62 Indigo Berry;skruf-superwhite-no-62-indigo-berry;SKRUF;Normal;"Berries; Mint; new-arrival-auto; Normal; SKRUF";6 mg/zakje;TRUE;7.52;;darepouch.com;pouch;nl;EUR
+8754839158963;SKRUF - No. 71 Purple Cassice;skruf-superwhite-no-71-purple-cassice;SKRUF;Normal;"Berries; new-arrival-auto; Normal; SKRUF";6 mg/zakje;TRUE;7.52;;darepouch.com;pouch;nl;EUR
+8754839126195;XQS - Raspberry Blackcurrant 8mg;xqs-raspberry-blackcurrant-8mg;XQS;Normal;"Berries; Normal; XQS";8 mg/zakje;TRUE;7.32;;darepouch.com;pouch;nl;EUR
+8754839093427;XQS - Hallonsoda 8mg;xqs-hallonsoda-8mg;XQS;Normal;"Berries; Normal; Sweet; XQS";8 mg/zakje;TRUE;7.32;;darepouch.com;pouch;nl;EUR
+8754839027891;XQS - Berrynana Twist 8mg;xqs-berrynana-twist-8mg;XQS;Normal;"Berries; Fruit; new-arrival-auto; Normal; XQS";8 mg/zakje;TRUE;7.32;;darepouch.com;pouch;nl;EUR
+8754838143155;KUMA Ultra Strong - Blood Orange;kuma-blood-orange-ultra-strong;KUMA;Strong;"Citrus; KUMA; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754838110387;KUMA Ultra Strong - Banana Toffee;kuma-banana-toffee-ultra-strong;KUMA;Strong;"Fruit; KUMA; Strong; Sweet";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754838044851;KUMA Ultra Strong - Ice Cool;kuma-ice-cool-ultra-strong;KUMA;Strong;"Ice; KUMA; Mint; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754838012083;KUMA Ultra Strong - Cherry;kuma-cherry-ultra-strong;KUMA;Strong;"Fruit; KUMA; new-arrival-auto; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837979315;KUMA Ultra Strong - Wintergreen;kuma-wintergreen-ultra-strong;KUMA;Strong;"KUMA; Mint; new-arrival-auto; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837946547;NOR Mint;nor-mint;NOR;Normal;"Dare to Save; deals; Mint; NOR; Normal";6 mg/zakje;TRUE;4.49;4.99;darepouch.com;pouch;nl;EUR
+8754837881011;NOR Strawberry;nor-strawberry;NOR;Normal;"Berries; Dare to Save; Fruit; NOR; Normal";9 mg/zakje;TRUE;4.49;;darepouch.com;pouch;nl;EUR
+8754837815475;NOR Cherry;nor-cherry;NOR;Strong;"Dare to Save; Fruit; NOR; Strong";15 mg/zakje;TRUE;4.49;;darepouch.com;pouch;nl;EUR
+8754837618867;NOR Black Grape;nor-black-grape;NOR;Strong;"Dare to Save; deals; Fruit; NOR; Strong";15 mg/zakje;TRUE;4.49;5.61;darepouch.com;pouch;nl;EUR
+8754837553331;ICEBERG Mini - Berries;iceberg-berries-mini;ICEBERG;Extra Strong;"Berries; Extra Strong; ICEBERG; ICEBERG Mini";20 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837487795;ICEBERG Mini - Watermelon;iceberg-watermelon-mini;ICEBERG;Extra Strong;"Extra Strong; Fruit; ICEBERG; ICEBERG Mini";20 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837422259;ICEBERG Mini - Sweet Mint;iceberg-sweet-mint-mini;ICEBERG;Extra Strong;"Extra Strong; ICEBERG; ICEBERG Mini; Mint; Sweet";20 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837356723;ICEBERG Mini - Sour Berries;iceberg-sour-berries-mini;ICEBERG;Extra Strong;"Berries; Extra Strong; ICEBERG; ICEBERG Mini";20 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837291187;ICEBERG Mini - Green Apple;iceberg-green-apple-mini;ICEBERG;Extra Strong;"Extra Strong; Fruit; ICEBERG; ICEBERG Mini";20 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837586099;ICEBERG Mini - Grape;iceberg-grape-mini;ICEBERG;Extra Strong;"Extra Strong; Fruit; ICEBERG; ICEBERG Mini";20 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837520563;ICEBERG Mini - Fruity Gum;iceberg-fruity-gum-mini;ICEBERG;Extra Strong;"Extra Strong; Fruit; ICEBERG; ICEBERG Mini; Sweet";20 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837455027;ICEBERG Mini - Energy;iceberg-energy-mini;ICEBERG;Extra Strong;"Energy; Extra Strong; ICEBERG; ICEBERG Mini";20 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837389491;ICEBERG Mini - Arctic Mint;iceberg-arctic-mint-mini;ICEBERG;Extra Strong;"Extra Strong; Ice; ICEBERG; ICEBERG Mini; Mint";20 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837323955;ICEBERG Mini - Apricot;iceberg-apricot-mini;ICEBERG;Extra Strong;"Extra Strong; Fruit; ICEBERG; ICEBERG Mini";20 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837225651;ICEBERG Light - Black Currant;iceberg-blackcurrant-6mg;ICEBERG;Light;"Berries; ICEBERG; ICEBERG Light; Light";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837160115;ICEBERG Light - Arctic Mint;iceberg-arctic-mint-6mg;ICEBERG;Light;"Ice; ICEBERG; ICEBERG Light; Light; Mint";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837094579;ICEBERG Light - Watermelon Mint Gum;iceberg-watermelon-mint-gum-6mg;ICEBERG;Light;"Fruit; ICEBERG; ICEBERG Light; Light; Mint; Sweet";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837029043;ICEBERG Light - Watermelon;iceberg-watermelon-6mg;ICEBERG;Light;"Fruit; ICEBERG; ICEBERG Light; Light";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754836963507;ICEBERG Light - Strawberry Mango Gum;iceberg-strawberry-mango-gum-6mg;ICEBERG;Light;"Berries; Fruit; ICEBERG; ICEBERG Light; Light; Sweet";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837258419;ICEBERG Light - Raspberry Gum;iceberg-raspberry-gum-6mg;ICEBERG;Light;"Berries; ICEBERG; ICEBERG Light; Light; Sweet";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754836897971;ICEBERG Light - Strawberry Banana Gum;iceberg-strawberry-banana-gum-6mg;ICEBERG;Light;"Berries; Fruit; ICEBERG; ICEBERG Light; Light; new-arrival-auto; Sweet";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837192883;ICEBERG Light - Energy;iceberg-energy-6mg;ICEBERG;Light;"Energy; ICEBERG; ICEBERG Light; Light";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837127347;ICEBERG Light - Cool Mint;iceberg-ice-cool-mint-6mg;ICEBERG;Light;"Ice; ICEBERG; ICEBERG Light; Light; Mint";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754837061811;ICEBERG Light - Cherry Apricot Gum;iceberg-cherry-apricot-gum-6mg;ICEBERG;Light;"Fruit; ICEBERG; ICEBERG Light; Light; Sweet";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754836996275;ICEBERG Light - Bubblegum;iceberg-bubblegum-6mg;ICEBERG;Light;"ICEBERG; ICEBERG Light; Light; Sweet";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754836930739;ICEBERG Light - Arasaka;iceberg-arasaka-6mg;ICEBERG;Light;"Fruit; ICEBERG; ICEBERG Light; Light; new-arrival-auto";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754534744243;GREATEST Energy 35mg Caffeine;greatest-energy;GREATEST;Energy Pouches;"energy pouches; GREATEST; Mint; new-arrival-auto";35 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8754534613171;GREATEST Cold Dry Zero;greatest-cold-dry-zero;GREATEST;Nicotine-Free;"GREATEST; Ice; Mint; new-arrival-auto; Nicotine-Free";0 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754533564595;CUBA Limited Edition White - Ice Fruit;cuba-white-ice-fruit;CUBA;Extra Strong;"CUBA; CUBA Limited Edition; Dare to Save; Extra Strong; Fruit; Ice";30 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8754533499059;CUBA Limited Edition White - Ice Mint;cuba-white-ice-mint;CUBA;Extra Strong;"CUBA; CUBA Limited Edition; Dare to Save; Extra Strong; Ice; Mint";30 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8754533433523;CUBA Limited Edition Black - Ice Fruit;cuba-black-ice-fruit;CUBA;Extra Strong;"CUBA; CUBA Limited Edition; Dare to Save; Extra Strong; Fruit; Ice; new-arrival-auto";30 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8754533367987;CUBA Limited Edition Black - Ice Mint;cuba-black-ice-mint;CUBA;Extra Strong;"CUBA; CUBA Limited Edition; Dare to Save; Extra Strong; Ice; Mint; new-arrival-auto";30 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8754532778163;VELO Bright Peppermint Zero;velo-bright-peppermint-zero;VELO;Nicotine-Free;"Mint; Nicotine-Free; VELO";0 mg/zakje;TRUE;8.18;;darepouch.com;pouch;nl;EUR
+8754531827891;GLICK Light - Triple Mint;glick-triple-mint-light-series;GLICK;Light;"GLICK; GLICK Light; Light; Mint";4 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8754531795123;GLICK Functional - Energy;glick-energy-functional-pouches;GLICK;Energy Pouches;"Energy; energy pouches; GLICK; GLICK Functional";100 mg cafeïne/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8754531729587;GLICK Functional - Cappuccino;glick-cappuccino-functional-pouches;GLICK;Energy Pouches;"Coffee; energy pouches; GLICK; GLICK Functional";100 mg cafeïne/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8754531664051;GLICK Functional - Black Currant;glick-black-currant-functional-pouches;GLICK;Energy Pouches;"Berries; energy pouches; GLICK; GLICK Functional";100 mg cafeïne/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8754531631283;GLICK Functional - Arctic;glick-arctic-functional-pouches;GLICK;Energy Pouches;"energy pouches; GLICK; GLICK Functional; Ice; Mint; new-arrival-auto";100 mg cafeïne/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8754531598515;GLICK Light - Ice Mint;glick-ice-mint-light-series;GLICK;Light;"GLICK; GLICK Light; Ice; Light; Mint; new-arrival-auto";4 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8754531303603;LAGOM Peach Mint Light;lagom-peach-mint-4mg;LAGOM;Light;"Fruit; LAGOM; Light; Mint";2,6 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8754531238067;LAGOM Peach Mint Extra Strong;lagom-peach-mint-16mg;LAGOM;Strong;"Fruit; LAGOM; Mint; Strong";10,4 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8754531106995;LAGOM Apple Mint Extra Strong;lagom-apple-mint-16mg;LAGOM;Strong;"Fruit; LAGOM; Mint; Strong";10,4 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8754531008691;LAGOM Apple Mint Strong;lagom-apple-mint-8mg;LAGOM;Light;"Fruit; LAGOM; Light; Mint";5,2 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8754530943155;LAGOM Fresh Mint Strong;lagom-fresh-mint-8mg;LAGOM;Light;"LAGOM; Light; Mint; new-arrival-auto";5,2 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8754530844851;LAGOM Fresh Mint Light;lagom-fresh-mint-4mg;LAGOM;Light;"LAGOM; Light; Mint; new-arrival-auto";2,6 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8754517835955;APRÈS Hyper Strong - Pink Spritz;apres-pink-spritz-hyper-strong;APRÈS;Strong;"APRÈS; APRÈS Hyper Strong; Berries; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754517770419;APRÈS Hyper Strong - Hugo Spritz;apres-hugo-spritz-hyper-strong;APRÈS;Strong;"APRÈS; APRÈS Hyper Strong; Citrus; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754517672115;APRÈS Extra Strong - Menthol;apres-menthol-extra-strong;APRÈS;Normal;"APRÈS; APRÈS Extra Strong; Ice; Mint; Normal";8,3 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754517606579;APRÈS Extra Strong - Cola;apres-cola-extra-strong;APRÈS;Normal;"APRÈS; APRÈS Extra Strong; Cola; Normal";8,3 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754517573811;APRÈS - Hugo Spritz;no-15-apres-hugo-spritz;APRÈS;Light;"APRÈS; APRÈS Normal; Citrus; Light; new-arrival-auto";4,4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754517475507;APRÈS - Pink Spritz;no-16-apres-pink-spritz;APRÈS;Light;"APRÈS; APRÈS Normal; Berries; Light; new-arrival-auto";4,4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754515935411;KELLY WHITE Mini - Sweet Melon Mint;kelly-white-sweet-melon-mint-mini;KELLY WHITE;Normal;"Fruit; KELLY WHITE; KELLY WHITE Mini; Mint; Normal; Sweet";6 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8754515869875;KELLY WHITE Mini - Sparkling Strawberry;kelly-white-sparkling-strawberry-mini;KELLY WHITE;Normal;"Berries; KELLY WHITE; KELLY WHITE Mini; Normal; Sweet";6 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8754515804339;KELLY WHITE Extra Strong - Sweet Peppermint;kelly-white-sweet-peppermint-extra-strong;KELLY WHITE;Normal;"KELLY WHITE; KELLY WHITE Extra Strong; Mint; Normal; Sweet";10 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8754515738803;KELLY WHITE Extra Strong - Raspberry Lemon;kelly-white-raspberry-lemon-extra-strong;KELLY WHITE;Normal;"Berries; Citrus; KELLY WHITE; KELLY WHITE Extra Strong; Normal";10 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8754515673267;KELLY WHITE Extra Strong - Minty Grape;kelly-white-minty-grape;KELLY WHITE;Normal;"Fruit; KELLY WHITE; KELLY WHITE Extra Strong; Mint; new-arrival-auto; Normal";10 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8754515607731;KELLY WHITE Extra Strong - Crispy Apple;kelly-white-crispy-apple-extra-strong;KELLY WHITE;Normal;"Fruit; Ice; KELLY WHITE; KELLY WHITE Extra Strong; new-arrival-auto; Normal";10 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8754513019059;KEEP Mint 20mg;keep-mint-20mg;KEEP;Extra Strong;"Dare to Save; Extra Strong; KEEP; Mint";20 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8754512756915;KEEP Spearmint 20mg;keep-spearmint-20mg;KEEP;Extra Strong;"Dare to Save; Extra Strong; KEEP; Mint";20 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8754512625843;KEEP Double Apple 20mg;keep-double-apple-20mg;KEEP;Extra Strong;"Dare to Save; Extra Strong; Fruit; KEEP";20 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8754512527539;KEEP Cherry Cola 20mg;keep-cherry-cola-20mg;KEEP;Extra Strong;"Cola; Dare to Save; Extra Strong; Fruit; KEEP";20 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8754512396467;KEEP Black Currant Raspberry 20mg;keep-black-currant-raspberry-20mg;KEEP;Extra Strong;"Berries; Dare to Save; Extra Strong; KEEP";20 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8754512298163;KEEP Strawberry Gum 20mg;keep-strawberry-gum-20mg;KEEP;Extra Strong;"Berries; Dare to Save; Extra Strong; KEEP; Sweet";20 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8754512134323;KEEP Citrus Blackberry 20mg;keep-citrus-blackberry-20mg;KEEP;Extra Strong;"Berries; Citrus; Dare to Save; Extra Strong; KEEP; new-arrival-auto";20 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8754511970483;KEEP Grape Raspberry 20mg;keep-grape-raspberry-20mg;KEEP;Extra Strong;"Berries; Dare to Save; Extra Strong; Fruit; KEEP; new-arrival-auto";20 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8754510332083;GARANT Prime Collection - Wintergreen;garant-prime-collection-wintergreen;GARANT;Strong;"GARANT; GARANT Prime Collection; Mint; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754510233779;GARANT Prime Collection - Extreme;garant-prime-collection-extreme;GARANT;Strong;"GARANT; GARANT Prime Collection; Ice; Mint; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754510135475;GARANT - Ice Cool Peppermint;garant-ice-cool-peppermint;GARANT;Strong;"GARANT; GARANT Classic; Ice; Mint; Strong";15,4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754510069939;GARANT Extreme Edition - Wintergreen;garant-extreme-edition-wintergreen;GARANT;Extra Strong;"Extra Strong; GARANT; GARANT Extreme Edition; Mint";24,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754509906099;GARANT Extreme Edition - Frost Berry;garant-extreme-edition-frost-berry;GARANT;Extra Strong;"Berries; Extra Strong; GARANT; GARANT Extreme Edition; Ice; new-arrival-auto";24,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754510397619;GARANT Extreme Edition - Ice Cool Peppermint;garant-extreme-edition-ice-cool-peppermint;GARANT;Extra Strong;"Extra Strong; GARANT; GARANT Extreme Edition; Ice; Mint";24,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754510299315;GARANT - Grape;garant-grape;GARANT;Normal;"Fruit; GARANT; GARANT Classic; Normal";10 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754510201011;GARANT Prime Collection - Ice Cool;garant-prime-collection-ice-cool;GARANT;Strong;"GARANT; GARANT Prime Collection; Ice; Mint; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754510102707;GARANT Prime Collection - Frost Berry;garant-prime-collection-frost-berry;GARANT;Strong;"Berries; GARANT; GARANT Prime Collection; Ice; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754510037171;GARANT Prime Collection - Arctic Frost;garant-prime-collection-arctic-frost;GARANT;Strong;"GARANT; GARANT Prime Collection; Ice; Mint; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8754509873331;GARANT Prime Collection - Ice Cool Peppermint;garant-prime-collection-ice-cool-peppermint;GARANT;Strong;"GARANT; GARANT Prime Collection; Ice; Mint; new-arrival-auto; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8753334485171;RUSH Pro - Banana Twist;rush-banana-twist-pro;RUSH;Strong;"Dare to Save; Fruit; RUSH; RUSH Pro; Strong; Sweet";11 mg/zakje;TRUE;4.69;;darepouch.com;pouch;nl;EUR
+8753334386867;RUSH Pro - Espressino;rush-espressino-pro;RUSH;Strong;"Coffee; Dare to Save; RUSH; RUSH Pro; Strong; Sweet";11 mg/zakje;TRUE;4.69;;darepouch.com;pouch;nl;EUR
+8753334288563;RUSH Pro - Green Apple;rush-green-apple-pro;RUSH;Strong;"Dare to Save; Fruit; RUSH; RUSH Pro; Strong";11 mg/zakje;TRUE;4.69;;darepouch.com;pouch;nl;EUR
+8753334091955;RUSH Light - Wintergreen;rush-wintergreen-light;RUSH;Light;"Dare to Save; Light; Mint; RUSH; RUSH Light";4 mg/zakje;TRUE;4.69;;darepouch.com;pouch;nl;EUR
+8753334026419;RUSH Light - Watermelon Ice;rush-watermelon-ice-light;RUSH;Light;"Dare to Save; Fruit; Ice; Light; RUSH; RUSH Light";4 mg/zakje;TRUE;4.69;;darepouch.com;pouch;nl;EUR
+8753333960883;RUSH Light - Peppermint Ice;rush-peppermint-ice-light;RUSH;Light;"Dare to Save; Ice; Light; Mint; RUSH; RUSH Light";4 mg/zakje;TRUE;4.69;;darepouch.com;pouch;nl;EUR
+8753334452403;RUSH Light - Grape Ice;rush-grape-ice-light;RUSH;Light;"Dare to Save; Fruit; Ice; Light; RUSH; RUSH Light";4 mg/zakje;TRUE;4.69;;darepouch.com;pouch;nl;EUR
+8753334354099;RUSH Light - Blueberry Ice;rush-blueberry-ice-light;RUSH;Light;"Berries; Dare to Save; Ice; Light; RUSH; RUSH Light";4 mg/zakje;TRUE;4.69;;darepouch.com;pouch;nl;EUR
+8753334124723;RUSH Pro - Classic Cola;rush-classic-cola-pro;RUSH;Strong;"Cola; Dare to Save; RUSH; RUSH Pro; Strong";11 mg/zakje;TRUE;4.69;5.22;darepouch.com;pouch;nl;EUR
+8753334059187;RUSH Pro - Peach Ice;rush-peach-ice-pro;RUSH;Strong;"Dare to Save; Fruit; Ice; RUSH; RUSH Pro; Strong";11 mg/zakje;TRUE;4.69;5.11;darepouch.com;pouch;nl;EUR
+8753333928115;RUSH Pro - Strawberry Ice;rush-strawberry-ice-pro;RUSH;Strong;"Berries; Dare to Save; Ice; new-arrival-auto; RUSH; RUSH Pro; Strong";11 mg/zakje;TRUE;4.69;;darepouch.com;pouch;nl;EUR
+8753333600435;RUSH Light - Mango Ice;rush-mango-ice-light;RUSH;Light;"Dare to Save; Fruit; Ice; Light; new-arrival-auto; RUSH; RUSH Light";4 mg/zakje;TRUE;4.69;5.52;darepouch.com;pouch;nl;EUR
+8753224679603;PABLO Silver Edition - Blue Raspberry;pablo-silver-edition-blue-raspberry;PABLO;Normal;"Berries; Dare to Save; Normal; PABLO; PABLO Silver";10,15 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8753224614067;PABLO Silver Edition - Blueberry Peach Ice;pablo-silver-edition-blueberry-peach-ice;PABLO;Normal;"Berries; Dare to Save; Fruit; Ice; Normal; PABLO; PABLO Silver";10,15 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8753224450227;PABLO Silver Edition - Pear;pablo-silver-edition-pear;PABLO;Normal;"Dare to Save; Fruit; Normal; PABLO; PABLO Silver";10,15 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8753224351923;PABLO Silver Edition - Spearmint;pablo-silver-edition-spearmint;PABLO;Normal;"Dare to Save; Mint; Normal; PABLO; PABLO Silver";10,15 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8753224155315;PABLO Silver Edition - Cold Mint;pablo-silver-edition-cold-mint;PABLO;Normal;"Dare to Save; Ice; Mint; Normal; PABLO; PABLO Silver";10,15 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8753223958707;PABLO Silver Edition - Kiwi;pablo-silver-edition-kiwi;PABLO;Normal;"Dare to Save; Fruit; new-arrival-auto; Normal; PABLO; PABLO Silver";10,15 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8753224712371;PABLO Silver Edition - Peppermint;pablo-silver-edition-peppermint;PABLO;Normal;"Dare to Save; Mint; Normal; PABLO; PABLO Silver";10,15 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8753224646835;PABLO Silver Edition - Pineapple;pablo-silver-edition-pineapple;PABLO;Normal;"Dare to Save; Fruit; Normal; PABLO; PABLO Silver";10,15 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8753224482995;PABLO Silver Edition - Grape Ice;pablo-silver-edition-grape-ice;PABLO;Normal;"Dare to Save; Fruit; Ice; Normal; PABLO; PABLO Silver";10,15 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8753224253619;PABLO Gold Edition - Pineapple;pablo-gold-edition-pineapple;PABLO;Strong;"Dare to Save; Fruit; PABLO; PABLO Gold; Strong";17 mg/zakje;TRUE;5.28;6.22;darepouch.com;pouch;nl;EUR
+8753224581299;PABLO Gold Edition - Strawberry Kiwi;pablo-gold-edition-strawberry-kiwi;PABLO;Strong;"Berries; Dare to Save; Fruit; PABLO; PABLO Gold; Strong";17 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8753224417459;PABLO Gold Edition - Cola;pablo-gold-edition-cola;PABLO;Strong;"Cola; Dare to Save; PABLO; PABLO Gold; Strong";17 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8753224319155;PABLO Gold Edition - Kiwi;pablo-gold-edition-kiwi;PABLO;Strong;"Dare to Save; Fruit; PABLO; PABLO Gold; Strong";17 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8753224220851;PABLO Gold Edition - Grape Ice;pablo-gold-edition-grape-ice;PABLO;Strong;"Dare to Save; Fruit; Ice; PABLO; PABLO Gold; Strong";17 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8753224089779;PABLO Gold Edition - Blue Raspberry;pablo-gold-edition-blue-raspberry;PABLO;Strong;"Berries; Dare to Save; PABLO; PABLO Gold; Strong";17 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8753220747443;VELO Blue Raspberry;velo-blue-raspberry;VELO;Normal;"Berries; deals; new-arrival-auto; Normal; VELO";8 mg/zakje;TRUE;8.18;9.64;darepouch.com;pouch;nl;EUR
+8753188602035;KURWA - Blue Raspberry;kurwa-blue-raspberry;KURWA;Strong;"Berries; KURWA; Strong; Sweet";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8753048846515;KURWA - Dark Berries;kurwa-dark-berries;KURWA;Strong;"Berries; KURWA; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8753048813747;KURWA - Strawberry Raspberry;kurwa-strawberry-raspberry;KURWA;Strong;"Berries; KURWA; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8753048649907;KURWA Energy - Fizzy Cherry;kurwa-energy-fizzy-cherry;KURWA;Energy Pouches;"energy pouches; Fruit; KURWA; KURWA Energy";100 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8753048551603;KURWA Energy - Blueberry;kurwa-energy-blueberry;KURWA;Energy Pouches;"Berries; energy pouches; KURWA; KURWA Energy";100 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8753047732403;KURWA - Cola Ice;kurwa-cola-ice;KURWA;Strong;"Cola; deals; Ice; KURWA; new-arrival-auto; Strong";12 mg/zakje;TRUE;5.54;6.03;darepouch.com;pouch;nl;EUR
+8753047830707;KURWA - Bubblegum 50mg;kurwa-bubblegum-50mg;KURWA;Extra Strong;"Extra Strong; KURWA; new-arrival-auto; Sweet";28,6 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8752996253875;SYX Slim Peppermint 12mg;syx-slim-peppermint-12mg;SYX;Strong;"Dare to Save; Mint; Strong; SYX";12 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752996188339;SYX Mini Freeze 7mg;syx-mini-freeze-7mg;SYX;Normal;"Dare to Save; Ice; Mint; Normal; SYX";7 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752996122803;SYX Mini Freeze 3mg;syx-mini-freeze-3mg;SYX;Light;"Dare to Save; Ice; Light; Mint; SYX";3 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752996024499;SYX Slim Freeze 20mg;syx-slim-freeze-20mg;SYX;Extra Strong;"Dare to Save; Extra Strong; Ice; Mint; SYX";20 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752995991731;SYX Slim Freeze 12mg;syx-slim-freeze-12mg;SYX;Strong;"Dare to Save; Ice; Mint; Strong; SYX";12 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752995926195;SYX Mini Cool Mint 7mg;syx-mini-cool-mint-7mg;SYX;Normal;"Dare to Save; Ice; Mint; Normal; SYX";7 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752995893427;SYX Mini Cool Mint 3mg;syx-mini-cool-mint-3mg;SYX;Light;"Dare to Save; Ice; Light; Mint; SYX";3 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752995664051;SYX Slim Cool Mint 12mg;syx-slim-cool-mint-12mg;SYX;Strong;"Dare to Save; Ice; Mint; new-arrival-auto; Strong; SYX";12 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752995795123;SYX Slim Cool Mint 20mg;syx-slim-cool-mint-20mg;SYX;Extra Strong;"Dare to Save; Extra Strong; Ice; Mint; new-arrival-auto; SYX";20 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752997400755;SYX Slim Apple Sour 12mg;syx-slim-apple-sour-12mg;SYX;Strong;"Dare to Save; Fruit; Strong; SYX";12 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752996712627;SYX Slim Forest Fruits 20mg;syx-slim-forest-fruits-20mg;SYX;Extra Strong;"Berries; Dare to Save; Extra Strong; Fruit; SYX";20 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752998645939;SYX Mini Salty Caramel 7mg;syx-mini-salty-caramel-7mg;SYX;Normal;"Dare to Save; Normal; Sweet; SYX";7 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752997236915;SYX Mini Forest Fruits 7mg;syx-mini-forest-fruits-7mg;SYX;Normal;"Berries; Dare to Save; Fruit; Normal; SYX";7 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752998777011;SYX Mini Wintergreen 3mg;syx-mini-wintergreen-3mg;SYX;Light;"Dare to Save; Light; Mint; SYX";3 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752998482099;SYX Mini Salty Caramel 3mg;syx-mini-salty-caramel-3mg;SYX;Light;"Dare to Save; Light; Sweet; SYX";3 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752997466291;SYX Slim Forest Fruits 12mg;syx-slim-forest-fruits-12mg;SYX;Strong;"Berries; Dare to Save; Fruit; Strong; SYX";12 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752997007539;SYX Mini Forest Fruits 3mg;syx-mini-forest-fruits-3mg;SYX;Light;"Berries; Dare to Save; Fruit; Light; SYX";3 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752997335219;SYX Mini Wild Cherry 7mg;syx-mini-wild-cherry-7mg;SYX;Normal;"Dare to Save; Fruit; Normal; SYX";7 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752998219955;SYX Slim Salty Caramel 12mg;syx-slim-salty-caramel-12mg;SYX;Strong;"Dare to Save; Strong; Sweet; SYX";12 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752998875315;SYX Mini Spearmint 7mg;syx-mini-spearmint-7mg;SYX;Normal;"Dare to Save; deals; Mint; Normal; SYX";7 mg/zakje;TRUE;4.88;5.75;darepouch.com;pouch;nl;EUR
+8752998809779;SYX Mini Spearmint 3mg;syx-mini-spearmint-3mg;SYX;Light;"Dare to Save; Light; Mint; SYX";3 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752997138611;SYX Mini Wild Cherry 3mg;syx-mini-wild-cherry-3mg;SYX;Light;"Dare to Save; Fruit; Light; SYX";3 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752998580403;SYX Slim Spearmint 20mg;syx-slim-spearmint-20mg;SYX;Extra Strong;"Dare to Save; Extra Strong; Mint; SYX";20 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752998383795;SYX Slim Spearmint 12mg;syx-slim-spearmint-12mg;SYX;Strong;"Dare to Save; Mint; Strong; SYX";12 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752998613171;SYX Slim Icy Cola 20mg;syx-slim-icy-cola-20mg;SYX;Extra Strong;"Cola; Dare to Save; Extra Strong; Ice; SYX";20 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752998285491;SYX Mini Icy Cola 7mg;syx-mini-icy-cola-7mg;SYX;Normal;"Cola; Dare to Save; Ice; Normal; SYX";7 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752998744243;SYX Mini Icy Cola 3mg;syx-mini-icy-cola-3mg;SYX;Light;"Cola; Dare to Save; Ice; Light; SYX";3 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752998449331;SYX Slim Icy Cola 12mg;syx-slim-icy-cola-12mg;SYX;Strong;"Cola; Dare to Save; Ice; Strong; SYX";12 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752998351027;SYX Mini Apple Sour 7mg;syx-mini-apple-sour-7mg;SYX;Normal;"Dare to Save; Fruit; Normal; SYX";7 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752998252723;SYX Mini Apple Sour 3mg;syx-mini-apple-sour-3mg;SYX;Light;"Dare to Save; Fruit; Light; SYX";3 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752996778163;SYX Slim Wild Cherry 12mg;syx-slim-wild-cherry-12mg;SYX;Strong;"Dare to Save; Fruit; Strong; SYX";12 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752996942003;SYX Slim Wild Cherry 20mg;syx-slim-wild-cherry-20mg;SYX;Extra Strong;"Dare to Save; Extra Strong; Fruit; SYX";20 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752997499059;SYX Mini Apple Mint 7mg;syx-mini-apple-mint-7mg;SYX;Normal;"Dare to Save; Fruit; Mint; Normal; SYX";7 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752997302451;SYX Mini Apple Mint 3mg;syx-mini-apple-mint-3mg;SYX;Light;"Dare to Save; Fruit; Light; Mint; SYX";3 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752997105843;SYX Slim Apple Mint 20mg;syx-slim-apple-mint-20mg;SYX;Extra Strong;"Dare to Save; Extra Strong; Fruit; Mint; SYX";20 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752996679859;SYX Mini Tropical 7mg;syx-mini-tropical-7mg;SYX;Normal;"Dare to Save; Fruit; Normal; SYX";7 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752997433523;SYX Mini Tropical 3mg;syx-mini-tropical-3mg;SYX;Light;"Dare to Save; Fruit; Light; SYX";3 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752997073075;SYX Slim Tropical 12mg;syx-slim-tropical-12mg;SYX;Strong;"Dare to Save; Fruit; Strong; SYX";12 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752996843699;SYX Mini Blueberry 7mg;syx-mini-blueberry-7mg;SYX;Normal;"Berries; Dare to Save; Normal; SYX";7 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752996647091;SYX Mini Blueberry 3mg;syx-mini-blueberry-3mg;SYX;Light;"Berries; Dare to Save; Light; SYX";3 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752997564595;SYX Slim Blueberry 20mg;syx-slim-blueberry-20mg;SYX;Extra Strong;"Berries; Dare to Save; Extra Strong; SYX";20 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752997367987;SYX Slim Blueberry 12mg;syx-slim-blueberry-12mg;SYX;Strong;"Berries; Dare to Save; Strong; SYX";12 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752997204147;SYX Mini Peppermint 7mg;syx-mini-peppermint-7mg;SYX;Normal;"Dare to Save; Mint; Normal; SYX";7 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752996974771;SYX Mini Peppermint 3mg;syx-mini-peppermint-3mg;SYX;Light;"Dare to Save; Light; Mint; SYX";3 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8752996745395;SYX Slim Peppermint 20mg;syx-slim-peppermint-20mg;SYX;Extra Strong;"Dare to Save; Extra Strong; Mint; SYX";20 mg/zakje;TRUE;4.88;;darepouch.com;pouch;nl;EUR
+8547844817075;Juice Head - Peach Pineapple Super Strong;juice-head-peach-pineapple-super-strong-1;JUICE HEAD;Strong;"10 cans -15%; Fruit; JUICE HEAD; Strong";14 mg/zakje;TRUE;6.97;;darepouch.com;pouch;nl;EUR
+8547844587699;Juice Head - Blueberry Lemon Super Strong;juice-head-blueberry-lemon-super-strong;JUICE HEAD;Strong;"10 cans -15%; Berries; Citrus; JUICE HEAD; Strong";14 mg/zakje;TRUE;6.97;;darepouch.com;pouch;nl;EUR
+8547844292787;Juice Head - Watermelon Strawberry Regular;juice-head-watermelon-strawberry-regular;JUICE HEAD;Normal;"10 cans -15%; Berries; Fruit; JUICE HEAD; Normal";6 mg/zakje;TRUE;6.97;;darepouch.com;pouch;nl;EUR
+8547844194483;Juice Head - Spicy Pineapple Super Strong;juice-head-spicy-pineapple-super-strong;JUICE HEAD;Strong;"10 cans -15%; Fruit; JUICE HEAD; Spicy; Strong";14 mg/zakje;TRUE;6.97;;darepouch.com;pouch;nl;EUR
+8433814732979;KILLA - Strawberry Lychee;killa-strawberry-lychee-1;KILLA;Strong;"Berries; Dare to Save; Fruit; KILLA; Strong";12,8 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433444290739;CUBA Black - Watermelon;coba-black-watermelon;CUBA;Extra Strong;"10 cans -15%; CUBA; CUBA Black; Dare to Save; Extra Strong; Fruit";43 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433444159667;CUBA Black - Cola;coba-black-cola;CUBA;Extra Strong;"10 cans -15%; Best Sellers; Cola; CUBA; CUBA Black; Dare to Save; Extra Strong";43 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8750363934899;IT'S Watermelon 20mg;its-watermelon-20mg;IT'S;Extra Strong;"Extra Strong; Fruit; IT'S";20 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8750363902131;IT'S Strawberry Kiwi Fusion 20mg;its-strawberry-kiwi-fusion-20mg;IT'S;Extra Strong;"Berries; Extra Strong; Fruit; IT'S";20 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8750363869363;IT'S Mango 20mg;its-mango-20mg;IT'S;Extra Strong;"Extra Strong; Fruit; IT'S";20 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8750363836595;IT'S Ice Mint 20mg;its-ice-mint-20mg;IT'S;Extra Strong;"Extra Strong; Ice; IT'S; Mint";20 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8750363803827;IT'S Fresh Mint 20mg;its-fresh-mint-20mg;IT'S;Extra Strong;"Extra Strong; IT'S; Mint; new-arrival-auto";20 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8750364131507;IT'S Watermelon 8.5mg;its-watermelon-8-5mg;IT'S;Normal;"Fruit; IT'S; Normal";8,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8750363771059;IT'S Blackcurrant 20mg;its-blackcurrant-20mg;IT'S;Extra Strong;"Berries; Extra Strong; IT'S; new-arrival-auto";20 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8750364098739;IT'S Strawberry Kiwi Fusion 8.5mg;its-strawberry-kiwi-fusion-8-5mg;IT'S;Normal;"Berries; Fruit; IT'S; Normal";8,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8750364065971;IT'S Mango 8.5mg;its-mango-8-5mg;IT'S;Normal;"Fruit; IT'S; Normal";8,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8750364033203;IT'S Ice Mint 8.5mg;its-ice-mint-8-5mg;IT'S;Normal;"Ice; IT'S; Mint; Normal";8,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8750364000435;IT'S Fresh Mint 8.5mg;its-fresh-mint-8-5mg;IT'S;Normal;"IT'S; Mint; Normal";8,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8750363967667;IT'S Blackcurrant 8.5mg;its-blackcurrant-8-5mg;IT'S;Normal;"Berries; IT'S; Normal";8,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433889083571;SNOWMAN - Raspberry Blast;snowman-raspberry-blast-9mg;SNOWMAN;Normal;"10 cans -15%; Berries; deals; Normal; SNOWMAN";9 mg/zakje;TRUE;5.79;6.29;darepouch.com;pouch;nl;EUR
+8433887314099;RUSH Pro - Mango Ice;rush-mango-ice-pro;RUSH;Strong;"10 cans -15%; Dare to Save; Fruit; Ice; RUSH; RUSH Pro; Strong";11 mg/zakje;TRUE;4.69;;darepouch.com;pouch;nl;EUR
+8388373676211;OutDare - Nicotine pouches Rad mint;nicotine-pouches-rad-mint-6-mg;OUTDARE;Normal;"10 cans -15%; best-seller; Dare to Save; europe; Mint; Normal; OUTDARE";6 mg/zakje;TRUE;5.39;;darepouch.com;pouch;nl;EUR
+8433443995827;CUBA White - Watermelon;coba-white-watermelon;CUBA;Strong;"10 cans -15%; Best Sellers; CUBA; CUBA White; Dare to Save; Fruit; Strong";10,4 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8518259933363;KEEP Citrus Berries 10.4mg;keep-citrus-berries;KEEP;Strong;"10 cans -15%; Berries; Citrus; Dare to Save; KEEP; Strong";10,4 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8518259703987;KEEP Black Currant Raspberry 10.4mg;keep-black-currant-raspberry;KEEP;Strong;"10 cans -15%; Berries; Dare to Save; KEEP; Strong";10,4 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8433918869683;ZEUS - True North;zeus-true-north;ZEUS;Extra Strong;"Dare to Save; Extra Strong; Ice; Mint; ZEUS";25 mg/zakje;TRUE;4.62;;darepouch.com;pouch;nl;EUR
+8433918804147;ZEUS - Frozen Citrus;zeus-frozen-citrus;ZEUS;Extra Strong;"Citrus; Dare to Save; Extra Strong; Ice; ZEUS";25 mg/zakje;TRUE;4.62;;darepouch.com;pouch;nl;EUR
+8433918771379;ZEUS - Epic Berry;zeus-epic-berry;ZEUS;Extra Strong;"Berries; Dare to Save; Extra Strong; Fruit; ZEUS";25 mg/zakje;TRUE;4.62;;darepouch.com;pouch;nl;EUR
+8433821614259;MAGGIE - Summer Fruits;maggie-summerfruits-60mg;MAGGIE;Extra Strong;"Berries; Extra Strong; Fruit; MAGGIE";45 mg/zakje;TRUE;5.68;;darepouch.com;pouch;nl;EUR
+8433821450419;MAGGIE - Fruit Punch;maggie-fruit-punch-60-mg;MAGGIE;Extra Strong;"Citrus; Extra Strong; Fruit; MAGGIE; New Arrivals";45 mg/zakje;TRUE;5.68;;darepouch.com;pouch;nl;EUR
+8433821352115;MAGGIE - Cherry Tonic Wine;mage-cherry-tonic-wine-60-mg;MAGGIE;Extra Strong;"Berries; Extra Strong; Fruit; MAGGIE";45 mg/zakje;TRUE;5.68;;darepouch.com;pouch;nl;EUR
+8433821319347;MAGGIE - Mr Blue;maggie-mr-blue-60-mg;MAGGIE;Extra Strong;"Berries; Extra Strong; Fruit; MAGGIE";45 mg/zakje;TRUE;5.68;;darepouch.com;pouch;nl;EUR
+8456220049587;APRÈS Hyper Strong - Raspberry Licorice;apres-no-8-raspberry-licorice-hyper-strong;APRÈS;Strong;"10 cans -15%; APRÈS; APRÈS Hyper Strong; Berries; Licorice; New Arrivals; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433403035827;APRÈS Hyper Strong - Tangerine Spritz;no-10-apres-tangerine-spritz-hyper-strong;APRÈS;Strong;"10 cans -15%; APRÈS; APRÈS Hyper Strong; Citrus; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433921228979;WHITE FOX - Peppered Mint;white-fox-peppered-mint-1;WHITE FOX;Strong;"Mint; Spicy; Strong; WHITE FOX";12 mg/zakje;TRUE;7.13;;darepouch.com;pouch;nl;EUR
+8433401430195;ACE - Spearmint;ace-spearmint;ACE;Normal;"10 cans -15%; ACE; Fruit; Mint; Normal";6 mg/zakje;TRUE;7.13;;darepouch.com;pouch;nl;EUR
+8547901702323;Aroma Essence - Spearmint;aroma-essence-spearmint;AROMA;Strong;"10 cans -15%; AROMA; Dare to Save; Mint; Strong";13 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8547901669555;Aroma Attention - Lime Fresh;aroma-attention-lime-fresh;AROMA;Extra Strong;"10 cans -15%; AROMA; Citrus; Dare to Save; deals; Extra Strong";35 mg/zakje;TRUE;5.28;5.87;darepouch.com;pouch;nl;EUR
+8547901636787;Aroma Essence - Peppermint;aroma-essence-peppermint;AROMA;Strong;"10 cans -15%; AROMA; Dare to Save; deals; Mint; Strong";13 mg/zakje;TRUE;5.28;5.87;darepouch.com;pouch;nl;EUR
+8433908187315;VELO Freezing Peppermint;velo-mighty-peppermint;VELO;Strong;"10 cans -15%; best-seller; Ice; Mint; Strong; VELO";10,9 mg/zakje;TRUE;8.18;;darepouch.com;pouch;nl;EUR
+8433887150259;RUSH Pro - Watermelon Ice;rush-watermelon-ice-pro;RUSH;Strong;"10 cans -15%; Dare to Save; Fruit; Ice; RUSH; RUSH Pro; Strong";11 mg/zakje;TRUE;4.69;;darepouch.com;pouch;nl;EUR
+8452881186995;KILLA - Pineapple;killa-pineapple;KILLA;Strong;"Best Sellers; Dare to Save; Exotic; Fruit; KILLA; Strong";12,8 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433470210227;DENSSI - Mango Freeze;denssi-mango-freeze-2;DENSSI;Strong;"deals; DENSSI; Fruit; Ice; Strong";11,2 mg/zakje;TRUE;6.47;7.04;darepouch.com;pouch;nl;EUR
+8433470046387;DENSSI - Spearmint;denssi-spearmint-2;DENSSI;Strong;"deals; DENSSI; Mint; Strong";11,2 mg/zakje;TRUE;6.47;7.19;darepouch.com;pouch;nl;EUR
+8433470013619;DENSSI - Blueberry Freeze;denssi-blueberry-freeze-2;DENSSI;Strong;"Berries; DENSSI; Ice; New Arrivals; Strong";11,2 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8433453007027;DENSSI - Cold Mint;denssi-cold-mint-1;DENSSI;Strong;"DENSSI; Ice; Mint; Strong";11,2 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8433806639283;KELLY WHITE Strong - Cool Mint;kelly-white-cool-mint;KELLY WHITE;Normal;"10 cans -15%; deals; Ice; KELLY WHITE; KELLY WHITE Strong; Mint; Normal";8 mg/zakje;TRUE;6.34;7.04;darepouch.com;pouch;nl;EUR
+8433441931443;CAMO Black - Mango Melon Berries;camo-black-mango-melon-berries;CAMO;Extra Strong;"Berries; CAMO; Dare to Save; deals; Extra Strong; Fruit";25 mg/zakje;TRUE;3.96;4.95;darepouch.com;pouch;nl;EUR
+8433441865907;CAMO - Wild Mint;camo-wild-mint;CAMO;Strong;"best-seller; CAMO; Dare to Save; Eucalyptus; Mint; New Arrivals; Strong";12 mg/zakje;TRUE;3.96;;darepouch.com;pouch;nl;EUR
+8433441833139;CAMO - Spicy Citrus;camo-spicy-citrus;CAMO;Strong;"best-seller; CAMO; Citrus; Dare to Save; Spicy; Strong";12 mg/zakje;TRUE;3.96;;darepouch.com;pouch;nl;EUR
+8433441767603;CAMO - Zesty Orange;camo-zesty-orange;CAMO;Strong;"CAMO; Citrus; Dare to Save; Fruit; Strong; Sweet";12 mg/zakje;TRUE;3.96;;darepouch.com;pouch;nl;EUR
+8433441702067;CAMO - Green Apple;camo-green-apple;CAMO;Strong;"best-seller; CAMO; Dare to Save; deals; Fruit; Strong";12 mg/zakje;TRUE;3.96;4.95;darepouch.com;pouch;nl;EUR
+8452888035507;ICE - Sweet Mint;ice-sweet-mint-12mg;ICE;Strong;"10 cans -15%; ICE; Mint; Strong";11,55 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8433604264115;ICE - Jalapeno Lime;ice-jalapeno-lime-16-5-mg;ICE;Strong;"10 cans -15%; Citrus; ICE; Spicy; Strong";11,55 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8433913659571;WAKEY - Blizzard Mint;wakey-blizzard-mint;WAKEY;Energy Pouches;"energy pouches; Ice; Mint; WAKEY";50 mg cafeïne/zakje;TRUE;6.20;;darepouch.com;pouch;nl;EUR
+8433913397427;WAKEY Boost - Blizzard Mint;boost-blizzard;WAKEY;Energy Pouches;"energy pouches; Ice; Mint; WAKEY";100 mg cafeïne/zakje;TRUE;6.20;;darepouch.com;pouch;nl;EUR
+8433445142707;CUBA White - Grape;cuba-white-grape;CUBA;Strong;"10 cans -15%; CUBA; CUBA White; Dare to Save; Fruit; Strong";10,4 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433444913331;CUBA Ninja - Orange;cuba-ninja-orange-slim;CUBA;Strong;"10 cans -15%; Citrus; CUBA; CUBA Ninja; Dare to Save; Strong";15,6 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433444487347;CUBA Black - Cherry;cuba-black-cherry;CUBA;Extra Strong;"10 cans -15%; CUBA; CUBA Black; Dare to Save; Extra Strong; Fruit";43 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433444454579;CUBA White - Forest Berries;cuba-white-forest-berries;CUBA;Strong;"10 cans -15%; Berries; CUBA; CUBA White; Dare to Save; deals; Strong";10,4 mg/zakje;TRUE;5.27;6.20;darepouch.com;pouch;nl;EUR
+8433454547123;GARANT Mini - Ice Cool;grant-ice-cool-mini;GARANT;Strong;"10 cans -15%; best-seller; deals; GARANT; GARANT Mini; Ice; Mint; Strong";13,7 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433888133299;RUSH Extreme - Grape Ice;rush-grape-ice-extreme-1;RUSH;Extra Strong;"10 cans -15%; Dare to Save; Extra Strong; Fruit; Ice; RUSH; RUSH Extreme";20 mg/zakje;TRUE;4.69;5.11;darepouch.com;pouch;nl;EUR
+8433454973107;GARANT Extreme Edition - Ice Peach;grant-ice-ice-peach-extreme;GARANT;Extra Strong;"10 cans -15%; Extra Strong; Fruit; GARANT; GARANT Extreme Edition; GRANT; Ice";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433454776499;GARANT Extreme - Original;grant-extreme-edition-slim;GARANT;Extra Strong;"10 cans -15%; Extra Strong; GARANT; GARANT Extreme; GRANT; Ice; Mint";22 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433887019187;RUSH Extreme - Cherry Ice;rush-cherry-ice-extreme;RUSH;Extra Strong;"10 cans -15%; Dare to Save; deals; Extra Strong; Fruit; Ice; New Arrivals; RUSH; RUSH Extreme";20 mg/zakje;TRUE;4.69;;darepouch.com;pouch;nl;EUR
+8433907335347;VELO Freezing Peppermint Ultra;velo-peppermint-mighty-ultra;VELO;Strong;"10 cans -15%; best-seller; Ice; Mint; Strong; VELO";14 mg/zakje;TRUE;8.18;;darepouch.com;pouch;nl;EUR
+8433470144691;DENSSI - Watermelon Freeze;denssi-watermelon-freeze-2;DENSSI;Strong;"DENSSI; Fruit; Ice; Strong";11,2 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8433470079155;DENSSI - Brain Freeze;denssi-brain-freeze-2;DENSSI;Strong;"deals; DENSSI; Ice; Mint; Strong";11,2 mg/zakje;TRUE;6.47;7.04;darepouch.com;pouch;nl;EUR
+8433793695923;ICEBERG Extreme - Strawberry Banana Gum;iceberg-strawberry-banana-gum-1;ICEBERG;Extra Strong;"10 cans -15%; Berries; Extra Strong; Fruit; ICEBERG; ICEBERG Extreme; Sweet";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433793302707;ICEBERG Extreme - Raspberry Gum;iceberg-raspberry-gum-1;ICEBERG;Extra Strong;"10 cans -15%; Berries; Extra Strong; ICEBERG; ICEBERG Extreme; Sweet";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8452884037811;LAGOM Apple Mint Light;lagom-apple-mint-4mg;LAGOM;Light;"10 cans -15%; Fruit; LAGOM; Light; Mint; New Arrivals";2,6 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8547904880819;LEO - Strawberry Kiwi Lime;leo-strawberry-kiwi-lime;LEO;Strong;"Berries; Citrus; Fruit; LEO; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8547902750899;Chainpop - Pomegranate Melon;chainpop-pomegranate-melon;CHAINPOP;Normal;"10 cans -15%; CHAINPOP; Fruit; Normal";9 mg/zakje;TRUE;6.26;;darepouch.com;pouch;nl;EUR
+8452880662707;NOIS - Cool Strong 4mg;nois-cool-strong-4mg;NOIS;Light;"10 cans -15%; Best Sellers; Ice; Light; Mint; NOIS";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433455628467;FEDRS Strong - Citrus;fedrs-ice-cool-strong-citrus;FEDRS;Extra Strong;"10 cans -15%; Citrus; Extra Strong; FEDRS";20 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433454579891;GARANT Extreme Edition - Pineapple;garant-extreme-pineapple;GARANT;Extra Strong;"10 cans -15%; Extra Strong; Fruit; GARANT; GARANT Extreme Edition";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433441734835;CAMO - Ice Cold Mint;camo-ice-cold-mint;CAMO;Strong;"best-seller; CAMO; Dare to Save; Eucalyptus; Ice; Mint; Strong";12 mg/zakje;TRUE;3.96;;darepouch.com;pouch;nl;EUR
+8433521623219;ICEBERG Ultra - Arasaka;iceb-2;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; Fruit; ICEBERG; ICEBERG Ultra";56 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433521590451;ICEBERG Ultra - Sour Berries;iceb-9;ICEBERG;Extra Strong;"10 cans -15%; Berries; Extra Strong; ICEBERG; ICEBERG Ultra";56 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433521557683;ICEBERG Ultra - Black;iceb-8;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; Fruit; ICEBERG; ICEBERG Ultra; Sweet";56 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433521492147;ICEBERG Ultra - Energy;iceb-7;ICEBERG;Extra Strong;"10 cans -15%; Energy; Extra Strong; ICEBERG; ICEBERG Ultra";56 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433521459379;ICEBERG Ultra - Watermelon Mint Gum;iceb;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; Fruit; ICEBERG; ICEBERG Ultra; Mint; Sweet";56 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433521426611;ICEBERG Ultra - Grape;iceb-6;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; Fruit; ICEBERG; ICEBERG Ultra";56 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433521000627;ICEBERG Medium - Kiwi Strawberry;iceberg-kiwi-strawberry-20;ICEBERG;Strong;"10 cans -15%; Berries; Fruit; ICEBERG; ICEBERG Medium; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8547904815283;LEO - Blue Razz Ice;leo-blue-razz-ice;LEO;Strong;"Berries; Ice; LEO; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8547904749747;LEO - Watermelon Ice;leo-watermelon-ice;LEO;Strong;"Fruit; Ice; LEO; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8452883284147;SKRUF - No. 63 Purple Cassice;skruf-superwhite-no-63-purple-cassice-strong;SKRUF;Normal;"Berries; Normal; SKRUF; Skruf Superwhite";9 mg/zakje;TRUE;7.52;;darepouch.com;pouch;nl;EUR
+8433470111923;DENSSI - Strawberry Freeze;denssi-strawberry-freeze-2;DENSSI;Strong;"Berries; DENSSI; Ice; Strong";11,2 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8433911726259;X-BOOSTER - Cool Mint;x-booster-energy-cool-mint;X-BOOSTER;Energy Pouches;"energy pouches; Mint; New Arrivals; X-BOOSTER";80 mg cafeïne/zakje;TRUE;6.20;;darepouch.com;pouch;nl;EUR
+8433911660723;X-BOOSTER - Coffee & Caramel;x-booster-energy-pouches-coffee-caramel;X-BOOSTER;Energy Pouches;"Coffee; energy pouches; Sweet; X-BOOSTER";80 mg cafeïne/zakje;TRUE;6.20;;darepouch.com;pouch;nl;EUR
+8433911595187;X-BOOSTER - Bubble Gum;x-booster-energy-pouches-bubble-gum;X-BOOSTER;Energy Pouches;"energy pouches; Sweet; X-BOOSTER";80 mg cafeïne/zakje;TRUE;6.20;;darepouch.com;pouch;nl;EUR
+8433440817331;BJORN Strong - Frozen Mint;bjorn-frozen-mint-strong-1;BJORN;Extra Strong;"10 cans -15%; BJORN; Dare to Save; Extra Strong; Ice; Mint";19,5 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433440784563;BJORN Medium - Cola Ice;bjorn-cola-ice-medium-1;BJORN;Normal;"10 cans -15%; BJORN; Cola; Dare to Save; Ice; Normal";9,1 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433440751795;BJORN Medium - Frozen Mint;bjorn-frozen-mint-medium-1;BJORN;Normal;"10 cans -15%; BJORN; Dare to Save; Ice; Mint; Normal";9,1 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433440719027;BJORN Strong - Blueberry;bjorn-blueberry-strong-1;BJORN;Extra Strong;"10 cans -15%; Berries; BJORN; Dare to Save; Extra Strong";19,5 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433440686259;BJORN Strong - Watermelon;bjorn-watermelon-strong;BJORN;Extra Strong;"10 cans -15%; BJORN; Dare to Save; Extra Strong; Fruit";19,5 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433440653491;BJORN Medium - Watermelon;bjorn-watermelon-medium;BJORN;Normal;"10 cans -15%; BJORN; Dare to Save; Fruit; Normal";9,1 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433440620723;BJORN Medium - Blueberry;bjorn-blueberry-medium-1;BJORN;Normal;"10 cans -15%; Berries; BJORN; Dare to Save; Normal";9,1 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433440587955;BJORN Strong - Cola Ice;bjorn-cola-ice-strong-1;BJORN;Extra Strong;"10 cans -15%; BJORN; Cola; Dare to Save; Extra Strong; Ice; New Arrivals";19,5 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433402773683;BJORN Medium - Rhubarb & Elder Punch;bjorn-rhubarb-elderflower-medium;BJORN;Normal;"10 cans -15%; Berries; BJORN; Dare to Save; Fruit; Normal";9,1 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433402740915;BJORN Strong - Rhubarb & Elder Punch;bjorn-rhuharb-elderflower-strong;BJORN;Extra Strong;"10 cans -15%; Berries; BJORN; Dare to Save; Extra Strong; Fruit";19,5 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433806803123;KELLY WHITE Mini - Raspberry Lemon;kelly-white-raspberry-lemon;KELLY WHITE;Light;"10 cans -15%; Berries; Citrus; KELLY WHITE; KELLY WHITE Mini; Light";5,5 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8666905772211;OutDare iPhone 16 Pro Max Case - Green;outdare-iphone-16-pro-max-case-green;OUTDARE;Accessories;"Accessories; Green; iPhone 16 Pro Max; Merch; OutDare; Phone Case; Pouch Accessories";Default Title;FALSE;29.00;;darepouch.com;pouch;nl;EUR
+8666905641139;OutDare iPhone 16 Pro Max Case - Black;outdare-iphone-16-pro-max-case-black;OUTDARE;Accessories;"Accessories; Black; iPhone 16 Pro Max; Merch; OutDare; Phone Case; Pouch Accessories";Default Title;FALSE;29.00;;darepouch.com;pouch;nl;EUR
+8527688270003;DOSH - Spearmint Fresh 35mg;dosh-spearmint-fresh-35mg;DOSH;Extra Strong;"DOSH; Extra Strong; Mint";35 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8658521194675;ALP Cherries & Berries 6mg;alp-cherries-berries-6mg;ALP;Normal;"ALP; Berries; Normal";6 mg/zakje;TRUE;10.16;;darepouch.com;pouch;nl;EUR
+8658521096371;ALP Cherries & Berries 12mg;alp-cherries-berries-12mg-1;ALP;Strong;"ALP; Berries; Strong";12 mg/zakje;TRUE;10.16;;darepouch.com;pouch;nl;EUR
+8658520998067;ALP Mountain Wintergreen 6mg;alp-mountain-wintergreen-6mg;ALP;Normal;"ALP; Mint; Normal";6 mg/zakje;TRUE;10.16;;darepouch.com;pouch;nl;EUR
+8658520899763;ALP Mountain Wintergreen 12mg;alp-mountain-wintergreen-12mg-1;ALP;Strong;"ALP; Mint; Strong";12 mg/zakje;TRUE;10.16;;darepouch.com;pouch;nl;EUR
+8658520801459;ALP Chilled Mint 6mg;alp-chilled-mint-6mg;ALP;Normal;"ALP; Ice; Mint; Normal";6 mg/zakje;TRUE;10.16;;darepouch.com;pouch;nl;EUR
+8658521161907;ALP Grape Ice 6mg;alp-grape-ice-6mg;ALP;Normal;"ALP; Fruit; Ice; Normal";6 mg/zakje;TRUE;10.16;;darepouch.com;pouch;nl;EUR
+8658520637619;ALP Chilled Mint 12mg;alp-chilled-mint-12mg;ALP;Strong;"ALP; Ice; Mint; Strong";12 mg/zakje;TRUE;10.16;;darepouch.com;pouch;nl;EUR
+8658520768691;ALP Sweet Mint 6mg;alp-sweet-mint-6mg;ALP;Normal;"ALP; Mint; Normal";6 mg/zakje;TRUE;10.16;;darepouch.com;pouch;nl;EUR
+8658520604851;ALP Sweet Mint 12mg;alp-sweet-mint-12mg;ALP;Strong;"ALP; Mint; Strong";12 mg/zakje;TRUE;10.16;;darepouch.com;pouch;nl;EUR
+8658521129139;ALP Spearmint 6mg;alp-spearmint-6mg;ALP;Normal;"ALP; Mint; Normal";6 mg/zakje;TRUE;10.16;;darepouch.com;pouch;nl;EUR
+8658521030835;ALP Spearmint 12mg;alp-spearmint-12mg;ALP;Strong;"ALP; Mint; Strong";12 mg/zakje;TRUE;10.16;;darepouch.com;pouch;nl;EUR
+8658520932531;ALP Tropical Fruit 6mg;alp-tropical-fruit-6mg;ALP;Normal;"ALP; Fruit; Normal";6 mg/zakje;TRUE;10.16;;darepouch.com;pouch;nl;EUR
+8658520834227;ALP Tropical Fruit 12mg;alp-tropical-fruit-12mg;ALP;Strong;"ALP; Fruit; Strong";12 mg/zakje;TRUE;10.16;;darepouch.com;pouch;nl;EUR
+8658358370483;VELO Purple Grape Zero;velo-purple-grape-zero;VELO;Nicotine-Free;"10 cans -15%; best-seller; Fruit; Nicotine-Free; VELO";0 mg/zakje;TRUE;8.18;;darepouch.com;pouch;nl;EUR
+8433490493619;GOAT - Apple Mint;goat-apple-mint;GOAT;Strong;"10 cans -15%; Dare to Save; deals; Fruit; GOAT; Mint; Strong";11,5 mg/zakje;TRUE;4.62;5.03;darepouch.com;pouch;nl;EUR
+8433490428083;GOAT - Double Apple;goat-double-apple;GOAT;Strong;"10 cans -15%; Dare to Save; Fruit; GOAT; New Arrivals; Strong";11,5 mg/zakje;TRUE;4.62;;darepouch.com;pouch;nl;EUR
+8433490297011;GOAT - Blueberry;goat-blueberry;GOAT;Strong;"10 cans -15%; Berries; Dare to Save; GOAT; Strong";11,5 mg/zakje;TRUE;4.62;;darepouch.com;pouch;nl;EUR
+8433453531315;DOPE Strong Edition - Ice Cool;dope-ice-cool;DOPE;Strong;"10 cans -15%; Dare to Save; DOPE; DOPE Strong Edition; Ice; Strong";11,2 mg/zakje;TRUE;4.62;;darepouch.com;pouch;nl;EUR
+8433405886643;77 - Cola & Vanilla;77-cola-vanilla-1;77;Strong;"77; Cola; deals; Strong; Sweet";10,4 mg/zakje;TRUE;5.54;6.16;darepouch.com;pouch;nl;EUR
+8433405690035;77 - Raspberry Ice;77-raspberry-1;77;Strong;"77; Berries; Ice; Strong";10,4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433405624499;77 - Peach & Mint;77-peach-mint-1;77;Strong;"77; best-seller; Fruit; Mint; Strong";10,4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433405526195;77 - Strawberry;77-strawberry-1;77;Strong;"77; Berries; Strong";10,4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433405165747;77 - Blueberry Ice;77-blueberry-medium-1;77;Strong;"77; Berries; Ice; Strong";10,4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433394450611;77 - Watermelon Ice;77-watermelon-ice-medium;77;Strong;"77; Fruit; Ice; Strong";10,4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8452888428723;ICE - Cool Mint 11.55mg;ice-cool-mint-5p;ICE;Strong;"10 cans -15%; ICE; Mint; Strong";11,55 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8433401397427;ACE - Cool Mint;ace-cool-mint;ACE;Normal;"10 cans -15%; ACE; Ice; Mint; Normal";6 mg/zakje;TRUE;7.13;;darepouch.com;pouch;nl;EUR
+8388373774515;OutDare - Sleep Pouches;outdare-sleep-pouches-cbd-melatonin;OUTDARE;Sleep Pouches;"10 cans -15%; best-seller; caffeine-free; CBD; cbd pouches; deals; dp-pick-sleep; europe; Melatonin; Mint; new-arrival-auto; nicotine-free; OUTDARE; Sleep; sleep pouches; thc-free; tobacco-free";20 mg CBD/zakje;TRUE;10.89;13.62;darepouch.com;pouch;nl;EUR
+8433521819827;ICEBERG Ultra - Kiwi Strawberry;iceb-5;ICEBERG;Extra Strong;"10 cans -15%; Berries; Best Sellers; deals; Extra Strong; Fruit; ICEBERG; ICEBERG Ultra";56 mg/zakje;TRUE;5.54;6.16;darepouch.com;pouch;nl;EUR
+8433916379315;XQS - Blueberry Mint 4mg;xqs-blueberry-mint-light;XQS;Light;"Berries; Light; Mint; XQS";4 mg/zakje;TRUE;7.32;;darepouch.com;pouch;nl;EUR
+8433915789491;XQS - Wintergreen 4mg;xqs-wintergreen-light;XQS;Light;"Light; Mint; XQS";4 mg/zakje;TRUE;7.32;;darepouch.com;pouch;nl;EUR
+8433521754291;ICEBERG Ultra - Sweet Mint;iceb-4;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; ICEBERG; ICEBERG Ultra; Mint; Sweet";56 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433521524915;ICEBERG Ultra - Strawberry Banana Gum;iceb-1;ICEBERG;Extra Strong;"10 cans -15%; Berries; Extra Strong; Fruit; ICEBERG; ICEBERG Ultra; Sweet";56 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433394548915;77 VB Edition - Arctic Mint;77-vb-edition-nicotine-pouches-arctic-mint;77;Strong;"77; 77 VB Edition; Best Sellers; Ice; Mint; Strong";10,4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433394483379;77 VB Edition - Arctic Berry;77-arctic-berry-medium;77;Strong;"77; Berries; Mint; Strong";10,4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8452880695475;NOIS - Extreme 4mg;nois-extreme-4mg;NOIS;Light;"10 cans -15%; Ice; Light; Mint; New Arrivals; NOIS";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8452888527027;ICE - Cool Mint 6mg;ice-cool-mint-12mg;ICE;Normal;"10 cans -15%; ICE; Mint; Normal";6 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8452888461491;ICE - Lemon Berry X;ice-lemon-berry-38mg;ICE;Extra Strong;"10 cans -15%; Berries; Citrus; Extra Strong; ICE; New Arrivals";26,6 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8452888002739;ICE - Freeze XL 19.5mg;ice-freeze-xl-20mg;ICE;Extra Strong;"10 cans -15%; Extra Strong; Ice; Mint; New Arrivals";19,5 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8433889214643;SNOWMAN - Citrus Boost;snowman-citrus-boost-9mg;SNOWMAN;Normal;"10 cans -15%; Citrus; Normal; SNOWMAN";9 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8433489608883;GLICK Hazard - Black Currant;glick-black-currant-hazard-series;GLICK;Extra Strong;"10 cans -15%; Berries; Extra Strong; GLICK; GLICK Hazard";25 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8616230486195;OutDare Pack — 60 blikjes;outdare-pack-60-cans;OUTDARE;Pack;OUTDARE-PACK;Default Title;TRUE;199.00;294.00;darepouch.com;pouch;nl;EUR
+8616230453427;OutDare Pack — 30 blikjes;outdare-pack-30-cans;OUTDARE;Pack;OUTDARE-PACK;Default Title;TRUE;109.00;147.00;darepouch.com;pouch;nl;EUR
+8433878040755;PUFF & POUCH Strong - Citrus;puff-pouch-citrus-12mg;PUFF & POUCH;Strong;"10 cans -15%; Citrus; Dare to Save; PUFF & POUCH; Strong";12 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433877942451;PUFF & POUCH Strong - Ice;puff-pouch-ice;PUFF & POUCH;Strong;"10 cans -15%; Dare to Save; Ice; Mint; PUFF & POUCH; Strong";12 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433877549235;PUFF & POUCH Strong - Berries;puff-pouch-berries;PUFF & POUCH;Strong;"10 cans -15%; Berries; Dare to Save; PUFF & POUCH; Strong";12 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433490919603;GREATEST Cold Dry Easy 4mg;greatest-cold-dry-4mg;GREATEST;Light;"10 cans -15%; best-seller; GREATEST; Ice; Light; Mint";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433453662387;DOPE Strong Edition - Lime Smash;dope-lime-smash;DOPE;Strong;"10 cans -15%; Citrus; Dare to Save; DOPE; DOPE Strong Edition; Strong";11,2 mg/zakje;TRUE;4.62;;darepouch.com;pouch;nl;EUR
+8433453367475;DOPE Strong Edition - Freeze;dope-freeze;DOPE;Strong;"10 cans -15%; Best Sellers; Dare to Save; DOPE; DOPE Strong Edition; Mint; Strong";11,2 mg/zakje;TRUE;4.62;;darepouch.com;pouch;nl;EUR
+8433819615411;KURWA - Strong Mint;kurwa-7;KURWA;Strong;"10 cans -15%; Best Sellers; KURWA; Mint; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433453891763;GARANT Extreme - Freeze;garant-extreme-freeze;GARANT;Extra Strong;"10 cans -15%; Extra Strong; GARANT; GARANT Extreme; Ice; Mint";30,8 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433454284979;GARANT Extreme Edition - Grape;garant-extreme-grape;GARANT;Extra Strong;"10 cans -15%; Extra Strong; Fruit; GARANT; GARANT Extreme Edition";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433444880563;CUBA White - Cold Dry;cuba-white-cold-dry-1;CUBA;Strong;"10 cans -15%; CUBA; CUBA White; Dare to Save; Ice; Mint; Strong";10,4 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433444126899;CUBA Black - Pineapple;cuba-black-pineapple;CUBA;Extra Strong;"10 cans -15%; CUBA; CUBA Black; Dare to Save; Extra Strong; Fruit";43 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433443897523;CUBA Black - Double Fresh;cuba-black;CUBA;Extra Strong;"10 cans -15%; CUBA; CUBA Black; Dare to Save; deals; Extra Strong; Ice; Mint";43 mg/zakje;TRUE;5.27;6.59;darepouch.com;pouch;nl;EUR
+8433887281331;RUSH Pro - Blueberry Ice;rush-blueberry-ice-pro;RUSH;Strong;"10 cans -15%; Berries; Best Sellers; Dare to Save; Ice; RUSH; RUSH Pro; Strong";11 mg/zakje;TRUE;4.69;;darepouch.com;pouch;nl;EUR
+8433887183027;RUSH Pro - Grape Ice;rush-grape-ice-pro;RUSH;Strong;"10 cans -15%; Dare to Save; Fruit; Ice; RUSH; RUSH Pro; Strong";11 mg/zakje;TRUE;4.69;;darepouch.com;pouch;nl;EUR
+8433886953651;RUSH Pro - Spearmint;rush-spearmint-pro;RUSH;Strong;"10 cans -15%; Dare to Save; Mint; New Arrivals; RUSH; RUSH Pro; Strong";11 mg/zakje;TRUE;4.69;5.22;darepouch.com;pouch;nl;EUR
+8547901538483;Aroma Attention - Ice Blueberry;aroma-attention-ice-blueberry;AROMA;Extra Strong;"10 cans -15%; AROMA; Berries; Dare to Save; Extra Strong; Ice";35 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433443831987;CUBA White - Cola;coba-white-cola;CUBA;Strong;"10 cans -15%; Cola; CUBA; CUBA White; Dare to Save; Strong";10,4 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433878007987;PUFF & POUCH Light - Citrus;puff-pouch-citrus-4mg-1;PUFF & POUCH;Light;"10 cans -15%; best-seller; Citrus; Dare to Save; deals; Light; PUFF & POUCH";4 mg/zakje;TRUE;5.28;6.60;darepouch.com;pouch;nl;EUR
+8433877778611;PUFF & POUCH Light - Ice;puff-pouch-ice-4mg-1;PUFF & POUCH;Light;"10 cans -15%; Dare to Save; Ice; Light; Mint; PUFF & POUCH";4 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8452880728243;NOIS - Cherry Ice 4mg;nois-cherry-ice-4mg;NOIS;Light;"10 cans -15%; Fruit; Ice; Light; NOIS";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8452880629939;NOIS - Mango Ice 4mg;nois-ice-mango-4mg;NOIS;Light;"10 cans -15%; Fruit; Light; NOIS";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8452880597171;NOIS - Blueberry Ice 4mg;nois-blueberry-ice-4mg;NOIS;Light;"10 cans -15%; Berries; Fruit; Ice; Light; New Arrivals; NOIS";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433851695283;NOIS Mini - Extreme;nois-extreme-mini-1;NOIS;Strong;"10 cans -15%; Mint; NOIS; Strong";15 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433851564211;NOIS Mini - Cool Strong;nois-cool-strong-mini-1;NOIS;Strong;"10 cans -15%; Mint; New Arrivals; NOIS; Strong";10,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433850974387;NOIS - Eucalypt;nois-eucalypt-1;NOIS;Strong;"10 cans -15%; Eucalyptus; Mint; NOIS; Strong";12,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433913331891;WAKEY - Citrus Blast;citrus-blast;WAKEY;Energy Pouches;"Citrus; energy pouches; Fruit; WAKEY";50 mg cafeïne/zakje;TRUE;6.20;;darepouch.com;pouch;nl;EUR
+8433444323507;CUBA White - Pineapple;cuba-white-pineapple;CUBA;Strong;"10 cans -15%; CUBA; CUBA White; Dare to Save; Fruit; Strong";10,4 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433443963059;CUBA White - Peach;cuba-white-peach;CUBA;Strong;"10 cans -15%; best-seller; CUBA; CUBA White; Dare to Save; deals; Fruit; Strong";10,4 mg/zakje;TRUE;5.27;6.59;darepouch.com;pouch;nl;EUR
+8547906584755;Zone - Watermelon Ice Ultra;zone-watermelon-ice-ultra;ZONE;Strong;"10 cans -15%; Fruit; Ice; Strong; ZONE";11 mg/zakje;TRUE;6.66;;darepouch.com;pouch;nl;EUR
+8547906551987;Zone - Juicy Peach Ultra;zone-juicy-peach-ultra;ZONE;Strong;"10 cans -15%; Fruit; Strong; ZONE";11 mg/zakje;TRUE;6.66;;darepouch.com;pouch;nl;EUR
+8547906519219;Zone - Sweet Mint Ultra;zone-sweet-mint-ultra;ZONE;Strong;"10 cans -15%; Mint; Strong; ZONE";11 mg/zakje;TRUE;6.66;;darepouch.com;pouch;nl;EUR
+8547906486451;Zone - Berry Blast Ultra;zone-berry-blast-ultra;ZONE;Strong;"10 cans -15%; Berries; Strong; ZONE";11 mg/zakje;TRUE;6.66;;darepouch.com;pouch;nl;EUR
+8547906420915;Zone - Cool Mint Ultra;zone-cool-mint-ultra;ZONE;Strong;"10 cans -15%; Mint; Strong; ZONE";11 mg/zakje;TRUE;6.66;;darepouch.com;pouch;nl;EUR
+8547905831091;Voss - Mojito Lime;voss-mojito-lime;VOSS;Extra Strong;"10 cans -15%; Citrus; Dare to Save; Extra Strong; Mint; VOSS";30 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8547905798323;Voss - Mango Punch;voss-mango-punch;VOSS;Extra Strong;"10 cans -15%; Dare to Save; Extra Strong; Fruit; VOSS";30 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8547905700019;Voss - Grape Escape;voss-grape-escape;VOSS;Extra Strong;"10 cans -15%; Dare to Save; Extra Strong; Fruit; VOSS";30 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8547905667251;Voss - Cherry Pop;voss-cherry-pop;VOSS;Extra Strong;"10 cans -15%; Dare to Save; Extra Strong; Fruit; VOSS";30 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8547905634483;Voss - Cosmic Mint;voss-cosmic-mint;VOSS;Extra Strong;"10 cans -15%; Dare to Save; Extra Strong; Mint; VOSS";30 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8547905044659;LEO - Dubai Chocolate;leo-dubai-chocolate;LEO;Strong;"LEO; Strong; Sweet";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8547904979123;LEO - Freeze Ice;leo-freeze;LEO;Strong;"Ice; LEO; Mint; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8547904946355;LEO - Freeze Ice Max;leo-freeze-max;LEO;Strong;"Ice; LEO; Mint; Strong";16 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8547904848051;LEO - Black Cherry;leo-black-cherry;LEO;Strong;"Berries; Fruit; LEO; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8547904782515;LEO - Sour Peach;leo-sour-peach;LEO;Strong;"Fruit; LEO; Strong; Sweet";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8547904454835;Klar - Blueberry Mint Strong;klar-blueberry-mint-strong-mini;KLAR;Normal;"10 cans -15%; Berries; KLAR; Mint; Normal";6 mg/zakje;TRUE;7.39;;darepouch.com;pouch;nl;EUR
+8547904422067;Klar - Strawberry Basil Strong;klar-strawberry-basil-strong-mini;KLAR;Normal;"10 cans -15%; Berries; KLAR; Normal";6 mg/zakje;TRUE;7.39;;darepouch.com;pouch;nl;EUR
+8547904356531;Klar - Afterglow Extra Strong;klar-afterglow-extra-strong-slim;KLAR;Normal;"10 cans -15%; Fruit; KLAR; Normal";9 mg/zakje;TRUE;7.39;;darepouch.com;pouch;nl;EUR
+8547904323763;Klar - Blank Extra Strong;klar-blank-extra-strong-slim;KLAR;Normal;"10 cans -15%; KLAR; Normal";9 mg/zakje;TRUE;7.39;;darepouch.com;pouch;nl;EUR
+8547904290995;Klar - Mint Extra Strong;klar-mint-extra-strong-slim;KLAR;Normal;"10 cans -15%; KLAR; Mint; Normal";9 mg/zakje;TRUE;7.39;;darepouch.com;pouch;nl;EUR
+8547904258227;Klar - Blank Strong;klar-blank-strong-mini;KLAR;Normal;"10 cans -15%; KLAR; Normal";6 mg/zakje;TRUE;7.39;;darepouch.com;pouch;nl;EUR
+8547904225459;Klar - Mint Strong;klar-mint-strong-mini;KLAR;Normal;"10 cans -15%; KLAR; Mint; Normal";6 mg/zakje;TRUE;7.39;;darepouch.com;pouch;nl;EUR
+8547904192691;Klar - Blank Regular;klar-blank-regular-mini;KLAR;Light;"10 cans -15%; deals; KLAR; Light";3 mg/zakje;TRUE;7.39;8.70;darepouch.com;pouch;nl;EUR
+8547903406259;Edel - Melon;edel-melon;EDEL;Normal;"10 cans -15%; EDEL; Fruit; Normal";9 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8547903340723;Edel - Onyx;edel-onyx;EDEL;Strong;"10 cans -15%; EDEL; Mint; Strong";15 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8547902947507;Chainpop - Mint & Mellow;chainpop-mint-mellow;CHAINPOP;Light;"10 cans -15%; CHAINPOP; Light; Mint";5 mg/zakje;TRUE;6.26;;darepouch.com;pouch;nl;EUR
+8547902914739;Chainpop - Peppermint & Ice;chainpop-peppermint-ice;CHAINPOP;Strong;"10 cans -15%; CHAINPOP; Ice; Mint; Strong";11,4 mg/zakje;TRUE;6.26;;darepouch.com;pouch;nl;EUR
+8547902881971;Chainpop - Cherry & Chili;chainpop-cherry-chili;CHAINPOP;Normal;"10 cans -15%; CHAINPOP; Fruit; Normal; Spicy";9 mg/zakje;TRUE;6.26;;darepouch.com;pouch;nl;EUR
+8547902783667;Chainpop - Violet Cactus;chainpop-violet-cactus;CHAINPOP;Light;"10 cans -15%; CHAINPOP; Light";5 mg/zakje;TRUE;6.26;;darepouch.com;pouch;nl;EUR
+8547902685363;Chainpop - Raspberry Lemon;chainpop-raspberry-lemon;CHAINPOP;Light;"10 cans -15%; Berries; CHAINPOP; Citrus; Light";5 mg/zakje;TRUE;6.26;;darepouch.com;pouch;nl;EUR
+8547902619827;Chainpop - Apple Cinnamon;chainpop-apple-cinnamon;CHAINPOP;Normal;"10 cans -15%; CHAINPOP; Fruit; Normal; Sweet";9 mg/zakje;TRUE;6.26;;darepouch.com;pouch;nl;EUR
+8547901571251;Aroma Essence - Hot Peach;aroma-essence-hot-peach;AROMA;Strong;"10 cans -15%; AROMA; Dare to Save; Fruit; Spicy; Strong";13 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8547901472947;Aroma Essence - Lime Fresh;aroma-essence-lime-fresh;AROMA;Strong;"10 cans -15%; AROMA; Citrus; Dare to Save; Strong";13 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8547901800627;Aroma Essence - Ice Blueberry;aroma-essence-ice-blueberry;AROMA;Strong;"10 cans -15%; AROMA; Berries; Dare to Save; Ice; Strong";13 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8547901735091;Aroma Attention - Hot Peach;aroma-attention-hot-peach;AROMA;Extra Strong;"10 cans -15%; AROMA; Dare to Save; Extra Strong; Fruit; Spicy";35 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8547901407411;Aroma Essence - Bubblegum;aroma-essence-bubblegum;AROMA;Strong;"10 cans -15%; AROMA; Dare to Save; deals; Strong; Sweet";13 mg/zakje;TRUE;5.28;5.87;darepouch.com;pouch;nl;EUR
+8547901604019;Aroma Attention - Peppermint;aroma-attention-peppermint;AROMA;Extra Strong;"10 cans -15%; AROMA; Dare to Save; Extra Strong; Mint";35 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8547901440179;Aroma Attention - Bubblegum;aroma-attention-bubblegum;AROMA;Extra Strong;"10 cans -15%; AROMA; Dare to Save; Extra Strong; Sweet";35 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8547901374643;Aroma Attention - Spearmint;aroma-attention-spearmint;AROMA;Extra Strong;"10 cans -15%; AROMA; Dare to Save; Extra Strong; Mint";35 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8547844849843;Juice Head - Spicy Pineapple Regular;juice-head-spicy-pineapple-regular;JUICE HEAD;Normal;"10 cans -15%; Fruit; JUICE HEAD; Normal; Spicy";6 mg/zakje;TRUE;6.97;;darepouch.com;pouch;nl;EUR
+8547844620467;Juice Head - Peach Pineapple Strong;juice-head-peach-pineapple-strong;JUICE HEAD;Normal;"10 cans -15%; Fruit; JUICE HEAD; Normal";9 mg/zakje;TRUE;6.97;;darepouch.com;pouch;nl;EUR
+8547844522163;Juice Head - Watermelon Strawberry Strong;juice-head-watermelon-strawberry-strong;JUICE HEAD;Normal;"10 cans -15%; Berries; Fruit; JUICE HEAD; Normal";9 mg/zakje;TRUE;6.97;;darepouch.com;pouch;nl;EUR
+8547844423859;Juice Head - Watermelon Strawberry Super Strong;juice-head-watermelon-strawberry-super-strong;JUICE HEAD;Strong;"10 cans -15%; Berries; Fruit; JUICE HEAD; Strong";14 mg/zakje;TRUE;6.97;;darepouch.com;pouch;nl;EUR
+8547844784307;Juice Head - Peach Pineapple Regular;juice-head-peach-pineapple-regular;JUICE HEAD;Normal;"10 cans -15%; Fruit; JUICE HEAD; Normal";6 mg/zakje;TRUE;6.97;;darepouch.com;pouch;nl;EUR
+8547844489395;Juice Head - Blueberry Lemon Regular;juice-head-blueberry-lemon-regular;JUICE HEAD;Normal;"10 cans -15%; Berries; Citrus; JUICE HEAD; Normal";6 mg/zakje;TRUE;6.97;;darepouch.com;pouch;nl;EUR
+8547844358323;Juice Head - Arctic Mint Super Strong;juice-head-arctic-mint-super-strong-1;JUICE HEAD;Strong;"10 cans -15%; Ice; JUICE HEAD; Mint; Strong";14 mg/zakje;TRUE;6.97;;darepouch.com;pouch;nl;EUR
+8547844227251;Juice Head - Arctic Mint Regular;juice-head-arctic-mint-regular;JUICE HEAD;Normal;"10 cans -15%; Ice; JUICE HEAD; Mint; Normal";6 mg/zakje;TRUE;6.97;;darepouch.com;pouch;nl;EUR
+8433454481587;GARANT - Ice Peach;garant-ice-peach;GARANT;Normal;"10 cans -15%; Fruit; GARANT; GARANT Classic; Ice; Normal";10 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433887084723;RUSH Pro - Nordic Peppermint;rush-nordic-peppermint-pro;RUSH;Strong;"10 cans -15%; Dare to Save; Ice; Mint; New Arrivals; RUSH; RUSH Pro; Strong";11 mg/zakje;TRUE;4.69;;darepouch.com;pouch;nl;EUR
+8433886986419;RUSH Pro - Peppermint Ice;rush-peppermint-ice-pro;RUSH;Strong;"10 cans -15%; Dare to Save; Ice; Mint; RUSH; RUSH Pro; Strong";11 mg/zakje;TRUE;4.69;5.22;darepouch.com;pouch;nl;EUR
+8433886920883;RUSH Extreme - Peppermint Ice;rush-peppermint-ice-extreme;RUSH;Extra Strong;"10 cans -15%; best-seller; Dare to Save; Extra Strong; Ice; Mint; RUSH; RUSH Extreme";20 mg/zakje;TRUE;4.69;;darepouch.com;pouch;nl;EUR
+8433819451571;KURWA - Triple Mango;kurwa-6;KURWA;Strong;"10 cans -15%; Fruit; KURWA; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8456268644531;CAFERO - Vanilla Latte;cafero-vanilla-latte;CAFERO;Energy Pouches;"10 cans -15%; Cafero; Coffee; energy pouches; Sweet";80 mg cafeïne/zakje;TRUE;5.94;;darepouch.com;pouch;nl;EUR
+8433833672883;MAVERICK - Berry Valley;maverick-berry-valley;MAVERICK;Strong;"10 cans -15%; Berries; MAVERICK; Strong";12,5 mg/zakje;TRUE;6.20;;darepouch.com;pouch;nl;EUR
+8433457103027;FEDRS Medium - Ultra Mint;fedrs-ice-cool-medium-ultra-mint;FEDRS;Strong;"10 cans -15%; FEDRS; Mint; Strong";15 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433792254131;ICE - Grape X;ice-grape-x;ICE;Extra Strong;"10 cans -15%; Best Sellers; Extra Strong; Fruit; ICE";26,6 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8433444847795;CUBA - Coca Leaf;cuba-coca-leaf;CUBA;Extra Strong;"10 cans -15%; CUBA; Dare to Save; Extra Strong; Wood";50 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8527688237235;DOSH - Fresh Mint 16mg;dosh-fresh-mint-16mg;DOSH;Strong;"DOSH; Ice; Mint; Strong";16 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8527688138931;DOSH - Cola 16mg;dosh-cola-16mg;DOSH;Strong;"Cola; DOSH; Strong";16 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8527688073395;DOSH - Watermelon 16mg;dosh-watermelon-16mg;DOSH;Strong;"DOSH; Fruit; Strong";16 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8527688204467;DOSH - Citrus 9mg;dosh-citrus-9mg;DOSH;Normal;"Citrus; DOSH; Normal";9 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8527688171699;DOSH - Watermelon 6mg;dosh-watermelon-6mg;DOSH;Normal;"DOSH; Fruit; Normal";6 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8527688106163;DOSH - Lemon Crush 3mg;dosh-lemon-crush-3mg;DOSH;Light;"Citrus; DOSH; Light";3 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8527688040627;DOSH - Cola 3mg;dosh-cola-3mg;DOSH;Light;"Cola; DOSH; Light";3 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8527688007859;DOSH - Strawberry Lush 9mg;dosh-strawberry-lush-9mg;DOSH;Normal;"Berries; DOSH; Normal";9 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8527687975091;DOSH - Spearmint Fresh 3mg;dosh-spearmint-fresh-3mg;DOSH;Light;"DOSH; Light; Mint";3 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8433519952051;ICEBERG Medium - Black Currant;iceberg-black-currant-20mg;ICEBERG;Strong;"10 cans -15%; Berries; ICEBERG; ICEBERG Medium; ICEBERG Strong; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433488429235;GARANT Extreme Mini - Cherry;garant-extreme-cherry-mini-1;GARANT;Extra Strong;"10 cans -15%; Extra Strong; Fruit; GARANT; GARANT Extreme Mini";19,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433454710963;GARANT Extreme Edition - Cherry;garant-extreme-cherry;GARANT;Extra Strong;"10 cans -15%; Extra Strong; Fruit; GARANT; GARANT Extreme Edition";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8518259867827;KEEP Cherry Cola 10.4mg;keep-cherry-cola;KEEP;Strong;"10 cans -15%; Cola; Dare to Save; Fruit; KEEP; Strong";10,4 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8518259802291;KEEP Grape Raspberry 10.4mg;keep-grape-raspberry;KEEP;Strong;"10 cans -15%; Berries; Dare to Save; Fruit; KEEP; Strong";10,4 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8518259736755;KEEP Citrus Blackberry 10.4mg;keep-citrus-blackberry;KEEP;Strong;"10 cans -15%; Berries; Citrus; Dare to Save; KEEP; Strong";10,4 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8518260031667;KEEP Mint 10.4mg;keep-mint;KEEP;Strong;"10 cans -15%; Dare to Save; KEEP; Mint; Strong";10,4 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8518259966131;KEEP Strawberry Gum 10.4mg;keep-strawberry-gum;KEEP;Strong;"10 cans -15%; Berries; Dare to Save; KEEP; Strong; Sweet";10,4 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8518259900595;KEEP Fruit Mix 10.4mg;keep-fruit-mix;KEEP;Strong;"10 cans -15%; Dare to Save; Fruit; KEEP; Strong";10,4 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8518259835059;KEEP Spearmint 10.4mg;keep-spearmint;KEEP;Strong;"10 cans -15%; Dare to Save; KEEP; Mint; Strong";10,4 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8518259769523;KEEP Mango Coconut 10.4mg;keep-mango-coconut;KEEP;Strong;"10 cans -15%; Dare to Save; Fruit; KEEP; Strong";10,4 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8518259671219;Jixx - Grape;jixx-grape;JIXX;Normal;"10 cans -15%; Fruit; JIXX; Normal";10 mg/zakje;TRUE;5.94;;darepouch.com;pouch;nl;EUR
+8518259605683;Jixx - Ice Cold;jixx-ice-cold;JIXX;Strong;"10 cans -15%; Ice; JIXX; Strong";10,5 mg/zakje;TRUE;5.94;;darepouch.com;pouch;nl;EUR
+8518259572915;Jixx - Watermelon;jixx-watermelon;JIXX;Normal;"10 cans -15%; Fruit; JIXX; Normal";10 mg/zakje;TRUE;5.94;;darepouch.com;pouch;nl;EUR
+8518259507379;Jixx - Bubblegum;jixx-bubblegum;JIXX;Extra Strong;"10 cans -15%; Extra Strong; JIXX; Sweet";30 mg/zakje;TRUE;5.94;;darepouch.com;pouch;nl;EUR
+8518259441843;Jixx - Freeze Max;jixx-freeze-max;JIXX;Extra Strong;"10 cans -15%; Extra Strong; Ice; JIXX";30 mg/zakje;TRUE;5.94;;darepouch.com;pouch;nl;EUR
+8518259278003;Poke - Watermelon;poke-watermelon;POKE;Strong;"10 cans -15%; Dare to Save; Fruit; POKE; Strong";12 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8518259245235;Poke - Mango;poke-mango;POKE;Strong;"10 cans -15%; Dare to Save; Fruit; POKE; Strong";12 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8518259212467;Poke - Blue Raspberry;poke-blue-raspberry;POKE;Strong;"10 cans -15%; Berries; Dare to Save; POKE; Strong";12 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8518259179699;Poke - Freeze Mint;poke-freeze-mint;POKE;Strong;"10 cans -15%; Dare to Save; Ice; Mint; POKE; Strong";12 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8452880761011;NOIS - Wintergreen 4mg;nois-wintergreen-4mg;NOIS;Light;"10 cans -15%; Light; Mint; NOIS";4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433852350643;NOIS - Spearmint;nois-spearmint-1;NOIS;Normal;"10 cans -15%; Best Sellers; Fruit; Mint; NOIS; Normal";10 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433852121267;NOIS - Mango Ice;nois-mango-ice;NOIS;Normal;"10 cans -15%; Fruit; Ice; Mint; NOIS; Normal";6 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433839997107;NOIS Mini - Blueberry;nois-blueberry-mini;NOIS;Strong;"10 cans -15%; Berries; Best Sellers; NOIS; Strong";15 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433839210675;NOIS Mini - Cherry;nois-cherry-extreme-mini-55-mg;NOIS;Strong;"10 cans -15%; Fruit; NOIS; Strong";16,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433491017907;GREATEST Wasted Mango 11.6mg;greatest-wasted-mango;GREATEST;Strong;"10 cans -15%; best-seller; Fruit; GREATEST; New Arrivals; Strong";11,6 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8513454276787;OutDare - Metal Can Brown;outdare-metal-can-brown;OUTDARE;Accessories;"Accessories; Brown; europe; Metal Can; OUTDARE";Default Title;FALSE;29.90;;darepouch.com;pouch;nl;EUR
+8513454211251;OutDare - Metal Can Green;outdare-metal-can-green;OUTDARE;Accessories;"Accessories; europe; Green; Metal Can; OUTDARE";Default Title;FALSE;29.90;;darepouch.com;pouch;nl;EUR
+8513454112947;OutDare - Metal Can Silver;outdare-metal-can-silver;OUTDARE;Accessories;"Accessories; europe; Metal Can; OUTDARE; Silver";Default Title;FALSE;29.90;;darepouch.com;pouch;nl;EUR
+8456246657203;GARANT Extreme Edition - Fresh Mint;grant-fresh-mint-extreme;GARANT;Extra Strong;"10 cans -15%; Extra Strong; GARANT; GARANT Extreme Edition; GRANT; Ice; Mint; New Arrivals";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8452888363187;ICE - Frost 2.0;ice-frost-2-0;ICE;Strong;"10 cans -15%; best-seller; Ice; Mint; Strong";11,55 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8452887969971;ICE - Cola Slush 11.55mg;ice-cola-slush;ICE;Strong;"10 cans -15%; Cola; Ice; Strong";11,55 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8433792221363;ICE - Freeze Reaper;ice-freeze-reaper-16-5mg;ICE;Strong;"10 cans -15%; Ice; Spicy; Strong";11,55 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8433792188595;ICE - Freeze;ice-freeze-16-5mg;ICE;Strong;"10 cans -15%; ICE; Mint; Strong";11,55 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8433604985011;ICE - Reaper XL;ice-reaper-xl;ICE;Strong;"10 cans -15%; Ice; Spicy; Strong";16,5 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8433454809267;GARANT - Ice Cool;grant-ice-cool-slim-extra-strong;GARANT;Strong;"10 cans -15%; GARANT; GARANT Classic; GRANT; Ice; Mint; Strong";15,4 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433445175475;CUBA Black - Blackberry;cuba-4;CUBA;Extra Strong;"10 cans -15%; Berries; best-seller; CUBA; CUBA Black; Dare to Save; Extra Strong";43 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433445109939;CUBA Ninja - Bubblegum;coba-ninja-bubblegum-slim;CUBA;Strong;"10 cans -15%; Best Sellers; CUBA; CUBA Ninja; Dare to Save; Strong; Sweet";15,6 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433444094131;CUBA White - Blackcurrant;cuba-white-blackcurrant;CUBA;Strong;"10 cans -15%; Berries; CUBA; CUBA White; Dare to Save; Strong";10,4 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433519722675;ICEBERG Medium - Berries;iceberg-berries-20mg;ICEBERG;Strong;"10 cans -15%; Berries; Best Sellers; ICEBERG; ICEBERG Medium; ICEBERG Strong; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433519427763;ICEBERG Energy - Sour Berries;iceberg-caffeine-pouches-sour-berries-75mg;ICEBERG;Energy Pouches;"10 cans -15%; Berries; energy pouches; ICEBERG; ICEBERG Energy";75 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8433488396467;GARANT Extreme Mini - Ice Peach;garant-extreme-ice-peach-mini-1;GARANT;Extra Strong;"10 cans -15%; Extra Strong; Fruit; GARANT; GARANT Extreme Mini; Ice";19,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433454940339;GARANT Extreme Edition - Ice Cool;grant-ice-ice-cool-extreme;GARANT;Extra Strong;"10 cans -15%; Extra Strong; GARANT; GARANT Extreme Edition; GRANT; Ice; Mint";25 mg/zakje;TRUE;5.54;6.16;darepouch.com;pouch;nl;EUR
+8433454907571;GARANT Extreme Edition - Ice Blueberry;grant-ice-blueberry-extreme;GARANT;Extra Strong;"10 cans -15%; Berries; Extra Strong; GARANT; GARANT Extreme Edition; GRANT; Ice";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433453826227;GARANT Extreme Edition - Raspberry;garant-extreme-raspberry;GARANT;Extra Strong;"10 cans -15%; Berries; Extra Strong; GARANT; GARANT Extreme Edition";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433444782259;CUBA White - Blueberry;cuba-white-blueberry;CUBA;Strong;"10 cans -15%; Berries; CUBA; CUBA White; Dare to Save; Strong";10,4 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8452888395955;ICE - Freeze 15.4mg;ice-freeze;ICE;Strong;"10 cans -15%; Ice; Mint; Strong";15,4 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8433444356275;CUBA Black - Cold Dry;cuba-black-cold-dry;CUBA;Extra Strong;"10 cans -15%; CUBA; CUBA Black; Dare to Save; Extra Strong; Ice; Mint";43 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433811226803;KELLY WHITE Mini - Sweet Peppermint;kelly-white-sweet-peppermint-mini-1;KELLY WHITE;Normal;"10 cans -15%; KELLY WHITE; KELLY WHITE Mini; Mint; Normal; Sweet";6 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8433806835891;KELLY WHITE Strong - Sweet Peach;kelly-white-sweet-peach-strong;KELLY WHITE;Normal;"10 cans -15%; Best Sellers; Fruit; KELLY WHITE; KELLY WHITE Strong; Normal; Sweet";8 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8433806704819;KELLY WHITE Mini - Cucumber Mint;kelly-white-cucumber-mint;KELLY WHITE;Light;"10 cans -15%; KELLY WHITE; KELLY WHITE Mini; Light; Mint";5 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8433806606515;KELLY WHITE Mini - Strawberry Lime;kelly-white-strawberry-lime;KELLY WHITE;Light;"10 cans -15%; Berries; best-seller; Citrus; KELLY WHITE; KELLY WHITE Mini; Light";5 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8433889116339;SNOWMAN Strong - Arctic Kick;snowman-arctic-kick-12mg;SNOWMAN;Strong;"10 cans -15%; Best Sellers; best-seller; Ice; SNOWMAN; Strong";12 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8433489772723;GLICK Extreme - Ice Mint;glick-ice-mint-extreme-series;GLICK;Normal;"10 cans -15%; GLICK; GLICK Extreme; Ice; Mint; Normal";10 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8433489445043;GLICK Hazard - Pink Fusion;glick-pink-fusion-hazard-series;GLICK;Extra Strong;"10 cans -15%; Berries; Extra Strong; GLICK; GLICK Hazard; New Arrivals; Sweet";25 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8433489412275;GLICK Extreme - Citrine Grape;glick-citrine-grape-extreme-series;GLICK;Normal;"10 cans -15%; Citrus; Fruit; GLICK; GLICK Extreme; New Arrivals; Normal";10 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8433807196339;KILLA Dry - Blueberry;killa-dry-blueberry;KILLA;Normal;"Berries; Dare to Save; Fruit; KILLA; KILLA Dry; Normal";9,6 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433880826035;R4VE - Minty Berry;rave-minty-berry;R4VE;Normal;"10 cans -15%; Berries; Dare to Save; Mint; Normal; R4VE";9,6 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8433394876595;77 Ghost Mini - Original;77-ghost-mini-original;77;Extra Strong;"77; 77 Ghost Mini; Extra Strong; Mint";20 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433836654771;PABLO Exclusive - Mocca;pablo-exclusive-mocca;PABLO;Extra Strong;"10 cans -15%; Best Sellers; Coffee; Dare to Save; Extra Strong; PABLO; PABLO Exclusive";30 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433814896819;KILLA - Bubblegum;killa-bubblegum-1;KILLA;Strong;"Dare to Save; KILLA; Strong; Sweet";12,8 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433807786163;KILLA - Melon;killa-extreme-melon;KILLA;Strong;"Dare to Save; Fruit; KILLA; Strong";12,8 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8468897431731;OutDare - Energy Pouches — Heldere focus. Nicotinevrij.;outdare-energy-pouches-clean-focus-zero-nicotine;OUTDARE;Energy Pouches;"10 cans -15%; best-seller; Dare to Save; deal-pinned; deals; dp-pick-energy; Energy; energy pouches; europe; Mint; OUTDARE";75 mg cafeïne/zakje;TRUE;5.39;7.70;darepouch.com;pouch;nl;EUR
+8456268578995;CAFERO - Americano;cafero-americano;CAFERO;Energy Pouches;"10 cans -15%; Cafero; Coffee; energy pouches";80 mg cafeïne/zakje;TRUE;5.94;;darepouch.com;pouch;nl;EUR
+8433851400371;NOIS - Grape Ice;nois-grape-ice-1;NOIS;Strong;"10 cans -15%; Fruit; Ice; NOIS; Strong";12,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433489346739;GLICK Extreme - Pink Fusion;glick-pink-fusion-extreme-series;GLICK;Normal;"10 cans -15%; Berries; Best Sellers; GLICK; GLICK Extreme; Normal; Sweet";10 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8452884136115;LAGOM Peach Mint Zero;lagom-peach-mint-zero;LAGOM;Nicotine-Free;"10 cans -15%; Fruit; LAGOM; Mint; New Arrivals; Nicotine-Free";0 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8456220115123;APRÈS Hyper Strong - Mochaccino;apres-no-13-mochaccino-hyper-strong;APRÈS;Strong;"10 cans -15%; APRÈS; APRÈS Hyper Strong; Best Sellers; Coffee; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8456220082355;APRÈS Hyper Strong - Cactus Lime;apres-no-9-cactus-lime-hyper-strong;APRÈS;Strong;"10 cans -15%; APRÈS; APRÈS Hyper Strong; Citrus; New Arrivals; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8452888494259;ICE - Freeze X;ice-freeze-x;ICE;Extra Strong;"10 cans -15%; Best Sellers; Extra Strong; Ice; Mint; New Arrivals";26,6 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8452888330419;Hypno - Coffee Mocca;hypno-coffee-mocca;HYPNO;Energy Pouches;"10 cans -15%; Coffee; energy pouches; Hypno; New Arrivals";100 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8452888297651;Hypno - Watermelon Ice;hypno-watermelon-ice;HYPNO;Energy Pouches;"10 cans -15%; energy pouches; Fruit; Hypno; Ice";100 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8452888264883;Hypno - Strawberry Champagne;hypno-strawberry-champagne;HYPNO;Energy Pouches;"10 cans -15%; Berries; energy pouches; Fruit; Hypno";100 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8452888232115;Hypno - Pink Lemonade;hypno-pink-lemonade;HYPNO;Energy Pouches;"10 cans -15%; Citrus; energy pouches; Hypno; New Arrivals";100 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8452888199347;Hypno - Mango;hypno-mango;HYPNO;Energy Pouches;"10 cans -15%; energy pouches; Fruit; Hypno";100 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8452888166579;Hypno - Tropical Punch;hypno-tropical-punch;HYPNO;Energy Pouches;"10 cans -15%; energy pouches; Exotic; Fruit; Hypno";100 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8452887773363;Paz - Cool Mint +;paz-2;PAZ;Strong;"10 cans -15%; Ice; Mint; New Arrivals; Paz; Strong";16,8 mg/zakje;TRUE;5.68;;darepouch.com;pouch;nl;EUR
+8452887707827;Paz - X-Freeze +;paz-1;PAZ;Strong;"10 cans -15%; Ice; Mint; Paz; Strong";16,8 mg/zakje;TRUE;5.68;;darepouch.com;pouch;nl;EUR
+8452886790323;POP - Cola Cherry;pop-cola-cherry;POP;Energy Pouches;"10 cans -15%; Cola; energy pouches; Fruit; New Arrivals; Pop";100 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8452886757555;POP - Strawberry Watermelon;pop-strawberry-watermelon;POP;Energy Pouches;"10 cans -15%; Berries; energy pouches; Fruit; Pop";100 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8452886692019;POP - Bubble Gum;pop-bubble-gum;POP;Energy Pouches;"10 cans -15%; energy pouches; Pop; Sweet";100 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8452886659251;POP - Blueberry Mint;pop-blueberry-mint;POP;Energy Pouches;"10 cans -15%; Berries; energy pouches; Mint; Pop";100 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8452886626483;POP - Citrus Chill;pop-citrus-chill;POP;Energy Pouches;"10 cans -15%; Citrus; energy pouches; Ice; New Arrivals; Pop";100 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8452885643443;TOGO - Pomie Orange;togo-pomie-orange;TOGO;Normal;"10 cans -15%; Citrus; Fruit; Normal; TOGO";8 mg/zakje;TRUE;6.60;;darepouch.com;pouch;nl;EUR
+8452885708979;TOGO - Mighty Sour;togo-mighty-sour;TOGO;Normal;"10 cans -15%; Citrus; Normal; TOGO";8 mg/zakje;TRUE;6.60;;darepouch.com;pouch;nl;EUR
+8452885577907;TOGO - Straw Melonade;togo-straw-melonade;TOGO;Normal;"10 cans -15%; Berries; Fruit; New Arrivals; Normal; TOGO";8 mg/zakje;TRUE;6.60;;darepouch.com;pouch;nl;EUR
+8452884005043;LAGOM Fresh Mint Extra Strong;lagom-fresh-mint-16mg;LAGOM;Strong;"10 cans -15%; LAGOM; Mint; Strong";10,4 mg/zakje;TRUE;6.34;;darepouch.com;pouch;nl;EUR
+8452881580211;DENSSI Energy - Tropical Fury;denssi-energy-tropical-fury;DENSSI;Energy Pouches;"Citrus; DENSSI; DENSSI Energy; energy pouches; Fruit; New Arrivals";100 mg cafeïne/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8452881514675;DENSSI Energy - Chaos Cola;denssi-energy-chaos-cola;DENSSI;Energy Pouches;"Cola; DENSSI; DENSSI Energy; energy pouches; Ice";100 mg cafeïne/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8452881612979;DENSSI Energy - Viking Energy;denssi-energy-viking-energy;DENSSI;Energy Pouches;"DENSSI; DENSSI Energy; Energy; energy pouches";100 mg cafeïne/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8452881547443;DENSSI Energy - Southern Boost;denssi-energy-southern-boost;DENSSI;Energy Pouches;"DENSSI; DENSSI Energy; energy pouches; Fruit; New Arrivals; Tea";100 mg cafeïne/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8433819320499;KURWA Max - Blueberry Ice;kurwa-5;KURWA;Extra Strong;"10 cans -15%; Berries; Extra Strong; Ice; KURWA; KURWA Max";43 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433457463475;FEDRS Light - Frosty Grape;fedrs-ice-cool-light-frosty-grape;FEDRS;Normal;"10 cans -15%; FEDRS; Fruit; Ice; Normal";10 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433456119987;FEDRS Energy - Citrus;fedrs-energy-pouches-citrus;FEDRS;Energy Pouches;"10 cans -15%; Citrus; energy pouches; FEDRS; FEDRS Energy";65 mg cafeïne/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433455825075;FEDRS Extreme - Mango;fedrs-ice-cool-mango-hard;FEDRS;Extra Strong;"10 cans -15%; Extra Strong; FEDRS; Fruit";32,5 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433455464627;FEDRS Energy - Energy;fedrs-ice-cool-energy-hard;FEDRS;Extra Strong;"10 cans -15%; Energy; Extra Strong; FEDRS; New Arrivals";32,5 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433455399091;FEDRS Strong - Cola;fedrs-ice-cool-strong-cola;FEDRS;Extra Strong;"10 cans -15%; Cola; Extra Strong; FEDRS";20 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433455235251;FEDRS Strong - Bubble Gum;fedrs-ice-cool-strong-bubble-gum;FEDRS;Extra Strong;"10 cans -15%; Extra Strong; FEDRS; Sweet";20 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433851957427;NOIS - Blackcurrant Ice;nois-blackcurrant-ice;NOIS;Normal;"10 cans -15%; Berries; Ice; New Arrivals; NOIS; Normal";8 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433851498675;NOIS - Cherry Ice;nois-cherry-ice-1;NOIS;Strong;"10 cans -15%; Best Sellers; Fruit; Ice; NOIS; Strong";12,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433851203763;NOIS - Mango Extreme;nois-extreme-mango-1;NOIS;Extra Strong;"10 cans -15%; Extra Strong; Fruit; NOIS";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433839374515;NOIS - Watermelon Extreme;nois-extreme-watermelon-ice;NOIS;Extra Strong;"10 cans -15%; deals; Extra Strong; Fruit; NOIS";25 mg/zakje;TRUE;5.54;6.52;darepouch.com;pouch;nl;EUR
+8433839014067;NOIS Strong - Watermelon Ice;nois-watermelon;NOIS;Strong;"10 cans -15%; Fruit; Ice; New Arrivals; NOIS; Strong";12,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433889345715;SNOWMAN - Fresh Mint;snowman-fresh-mint-9mg;SNOWMAN;Normal;"10 cans -15%; Mint; Normal; SNOWMAN";9 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8433889050803;SNOWMAN - Arctic Kick;snowman-arctic-kick-9mg;SNOWMAN;Normal;"10 cans -15%; Ice; Normal; SNOWMAN";9 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8433877876915;PUFF & POUCH Light - Berries;puff-pouch-berries-4mg-1;PUFF & POUCH;Light;"10 cans -15%; Berries; Dare to Save; Light; PUFF & POUCH";4 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433455005875;GARANT Extreme Edition - Mango Lime;grant-mango-lime-extreme;GARANT;Extra Strong;"10 cans -15%; Citrus; Extra Strong; Fruit; GARANT; GARANT Extreme Edition; GRANT";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433454874803;GARANT - Mint;grant-mint-slim-extra-strong;GARANT;Normal;"10 cans -15%; GARANT; GARANT Classic; GRANT; Mint; Normal";8 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433454842035;GARANT - Wild Berry;grant-wild-berry-slim-extra-strong;GARANT;Strong;"10 cans -15%; Berries; GARANT; GARANT Classic; GRANT; Strong";12,5 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433913594035;WAKEY - Melon Wave;melon-wave;WAKEY;Energy Pouches;"energy pouches; Fruit; WAKEY";50 mg cafeïne/zakje;TRUE;6.20;;darepouch.com;pouch;nl;EUR
+8433889312947;SNOWMAN - Watermelon Breeze;snowman-watermelon-breeze-9mg;SNOWMAN;Normal;"10 cans -15%; Fruit; New Arrivals; Normal; SNOWMAN";9 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8433889149107;SNOWMAN Strong - Raspberry Blast;snowman-raspberry-blast-12mg;SNOWMAN;Strong;"10 cans -15%; Berries; New Arrivals; SNOWMAN; Strong";12 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8433889378483;SNOWMAN Strong - Watermelon Breeze;snowman-watermelon-breeze-12mg;SNOWMAN;Strong;"10 cans -15%; Fruit; SNOWMAN; Strong";12 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8433889181875;SNOWMAN - Tropical Punch;snowman-tropical-punch-9mg;SNOWMAN;Normal;"10 cans -15%; Fruit; Normal; SNOWMAN";9 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8433889247411;SNOWMAN Strong - Tropical Punch;snowman-tropical-punch-12mg;SNOWMAN;Strong;"10 cans -15%; Fruit; SNOWMAN; Strong";12 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8433886331059;REBEL - Cherry;rebel-cherry-intense-1;REBEL;Strong;"10 cans -15%; Fruit; REBEL; Strong";12 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8433886232755;REBEL - Mango;rebel-mango-intense-1;REBEL;Strong;"10 cans -15%; Fruit; REBEL; Strong";12 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8433880563891;R4VE Energy - Skiddler;rave-energy-skittler;R4VE;Energy Pouches;"10 cans -15%; Best Sellers; energy pouches; Fruit; R4VE; Sweet";80 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8433880203443;R4VE Extra Strong - Minty Berry;rave-minty-berry-1;R4VE;Extra Strong;"10 cans -15%; Berries; Dare to Save; Extra Strong; Mint; R4VE";19,5 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8433879974067;R4VE Extra Strong - La Passion Fruit;rave-la-passion-fruit-1;R4VE;Extra Strong;"10 cans -15%; Dare to Save; Extra Strong; Fruit; R4VE";19,5 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8433880400051;R4VE Energy - Minty Berry;rave-energy-minty-berry;R4VE;Energy Pouches;"10 cans -15%; Berries; energy pouches; Mint; R4VE";80 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8433880006835;R4VE Extra Strong - Merry Cherry;rave-merry-cherry-1;R4VE;Extra Strong;"10 cans -15%; Dare to Save; Extra Strong; Fruit; R4VE";19,5 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8433880760499;R4VE Energy - Mango Django;rave-energy-mango-django;R4VE;Energy Pouches;"10 cans -15%; energy pouches; Fruit; R4VE";80 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8433880367283;R4VE Extra Strong - Lemoncello;rave-lemoncello-1;R4VE;Extra Strong;"10 cans -15%; Citrus; Dare to Save; Extra Strong; R4VE";19,5 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8433880531123;R4VE Extra Strong - Mango Django;rave-mango-django-1;R4VE;Extra Strong;"10 cans -15%; Dare to Save; Extra Strong; Fruit; R4VE";19,5 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8433880465587;R4VE Extra Strong - Cola Explosion;rave-cola-explosion-1;R4VE;Extra Strong;"10 cans -15%; Cola; Dare to Save; Extra Strong; R4VE";19,5 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8433879908531;R4VE - Lemoncello;rave-lemoncello;R4VE;Normal;"10 cans -15%; Citrus; Dare to Save; Normal; R4VE";9,6 mg/zakje;TRUE;5.02;;darepouch.com;pouch;nl;EUR
+8433877975219;PUFF & POUCH - Peppermint;puff-pouch-peppermint;PUFF & POUCH;Strong;"10 cans -15%; Dare to Save; deals; Mint; PUFF & POUCH; Spicy; Strong";12 mg/zakje;TRUE;5.28;5.87;darepouch.com;pouch;nl;EUR
+8433877745843;PUFF & POUCH - Grape;puff-pouch-grape-12mg;PUFF & POUCH;Strong;"10 cans -15%; Dare to Save; Fruit; PUFF & POUCH; Strong";12 mg/zakje;TRUE;5.28;;darepouch.com;pouch;nl;EUR
+8433852252339;NOIS - Extreme;nois-extreme-1;NOIS;Extra Strong;"10 cans -15%; Extra Strong; Mint; NOIS";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433851891891;NOIS - Grape Extreme;nois-extreme-grape-1;NOIS;Extra Strong;"10 cans -15%; Extra Strong; Fruit; NOIS";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433821581491;MAGGIE Lite - Summer Fruits;maggie-summerfruits;MAGGIE;Strong;"Berries; Fruit; MAGGIE; Strong";13,6 mg/zakje;TRUE;5.68;;darepouch.com;pouch;nl;EUR
+8433821515955;MAGGIE Lite - Sweet Plantain;maggie-sweet-plantain-16mg-1;MAGGIE;Strong;"Fruit; MAGGIE; Strong; Sweet";13,6 mg/zakje;TRUE;5.68;;darepouch.com;pouch;nl;EUR
+8433821483187;MAGGIE Lite - Grape Soda;maggie-grape-soda-16mg-1;MAGGIE;Strong;"Fruit; MAGGIE; New Arrivals; Strong; Sweet";13,6 mg/zakje;TRUE;5.68;;darepouch.com;pouch;nl;EUR
+8433821417651;MAGGIE - Sweet Plantain;maggie-sweet-plantain-60mg-1;MAGGIE;Extra Strong;"Extra Strong; Fruit; MAGGIE; Sweet";45 mg/zakje;TRUE;5.68;;darepouch.com;pouch;nl;EUR
+8433821384883;MAGGIE - Jamaican Kola;maggie-jamaican-kola-60-mg;MAGGIE;Extra Strong;"Cola; Extra Strong; MAGGIE; Spicy; Sweet";45 mg/zakje;TRUE;5.68;;darepouch.com;pouch;nl;EUR
+8433793794227;ICEBERG Extreme - Cola;iceberg-cola-1;ICEBERG;Extra Strong;"10 cans -15%; Cola; deals; Extra Strong; ICEBERG; ICEBERG Extreme";40 mg/zakje;TRUE;5.54;6.93;darepouch.com;pouch;nl;EUR
+8433793728691;ICEBERG Extreme - Cherry Apricot Gum;iceberg-cherry-apricot-gum-1;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; Fruit; ICEBERG; ICEBERG Extreme; Sweet";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433793663155;ICEBERG Extreme - Strawberry Mango Gum;iceberg-strawberry-mango-gum-1;ICEBERG;Extra Strong;"10 cans -15%; Berries; Extra Strong; Fruit; ICEBERG; ICEBERG Extreme; Sweet";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433793564851;ICEBERG Extreme - Sour Berries;iceberg-sour-berries-1;ICEBERG;Extra Strong;"10 cans -15%; Berries; Extra Strong; ICEBERG; ICEBERG Extreme";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433793466547;ICEBERG Extreme - Bubblegum;iceberg-bubblegum-1;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; ICEBERG; ICEBERG Extreme; Sweet";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433793433779;ICEBERG Extreme - Grape;iceberg-grape-1;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; Fruit; ICEBERG; ICEBERG Extreme";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433793401011;ICEBERG Extreme - Green Apple;iceberg-emerald-1;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; Fruit; ICEBERG; ICEBERG Extreme";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433793335475;ICEBERG Extreme - Energy;iceberg-energy-1;ICEBERG;Extra Strong;"10 cans -15%; Energy; Extra Strong; ICEBERG; ICEBERG Extreme; New Arrivals";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433793237171;ICEBERG Extreme - Grape Gum;iceberg-grape-gum-1;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; Fruit; ICEBERG; ICEBERG Extreme; Sweet";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433793204403;ICEBERG Extreme - Kiwi Strawberry;iceberg-kiwi-strawberry-1;ICEBERG;Extra Strong;"10 cans -15%; Berries; Extra Strong; Fruit; ICEBERG; ICEBERG Extreme";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433793171635;ICEBERG Extreme - Guava Lime;iceberg-guava-lime-1;ICEBERG;Extra Strong;"10 cans -15%; Citrus; Extra Strong; Fruit; ICEBERG; ICEBERG Extra Strong; ICEBERG Extreme";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433793073331;ICEBERG Extreme - Cherry;iceberg-cherry-1;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; Fruit; ICEBERG; ICEBERG Extreme";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433793040563;ICEBERG Extreme - Dragon Fruit;iceberg-dragon-fruit-1;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; Fruit; ICEBERG; ICEBERG Extreme";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433793007795;ICEBERG Extreme - Fruity Gum;iceberg-black-2;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; Fruit; ICEBERG; ICEBERG Extreme; Sweet";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433792975027;ICEBERG Extreme - Watermelon Mint Gum;iceberg-watermelon-mint-gum-1;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; Fruit; ICEBERG; ICEBERG Extreme; Mint; Sweet";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433792909491;ICEBERG Extreme - Crazy Mix;iceberg-crazy-mix-1;ICEBERG;Extra Strong;"10 cans -15%; Citrus; Extra Strong; Fruit; ICEBERG; ICEBERG Extra Strong; ICEBERG Extreme";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433792876723;ICEBERG Extreme - Apricot;iceberg-arasaka-1;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; Fruit; ICEBERG; ICEBERG Extreme";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433792843955;ICEBERG Extreme - Watermelon Lime;iceberg-watermelon-lime-1;ICEBERG;Extra Strong;"10 cans -15%; Citrus; Extra Strong; Fruit; ICEBERG; ICEBERG Extreme";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433788584115;ICE Light - Freeze;ice-freeze-6mg;ICE;Light;"10 cans -15%; ICE; Light; Mint; New Arrivals";6 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8433604231347;ICE - Frost;ice-frost;ICE;Strong;"10 cans -15%; ICE; Mint; Strong";15,4 mg/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8433603707059;ICE Energy Strong - Jalapeno Lime;ice-caffeine-pouch-jalapeno-lime-50mg;ICE;Energy Pouches;"10 cans -15%; Citrus; energy pouches; ICE; ICE Energy; Spicy";50 mg cafeïne/zakje;TRUE;5.81;;darepouch.com;pouch;nl;EUR
+8433524080819;ICEBERG Extreme - Wild Berries;iceberg-wild-berries;ICEBERG;Extra Strong;"10 cans -15%; Berries; Extra Strong; ICEBERG; ICEBERG Extra Strong; ICEBERG Extreme";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433525063859;ICEBERG Extreme - Strawberry Pomegranate;iceberg-strawberry-pomegranate;ICEBERG;Extra Strong;"10 cans -15%; Berries; Extra Strong; Fruit; ICEBERG; ICEBERG Extreme";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433520607411;ICEBERG Energy - Strawberry Mango;iceberg-caffeine-pouches-strawberry-mango-75mg;ICEBERG;Energy Pouches;"10 cans -15%; Berries; energy pouches; Fruit; ICEBERG; ICEBERG Energy";75 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8433520443571;ICEBERG Medium - Bubblegum;iceberg-bubble-gum-20;ICEBERG;Strong;"10 cans -15%; ICEBERG; ICEBERG Medium; Strong; Sweet";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433520836787;ICEBERG Energy - Menthol;iceberg-caffeine-pouches-menthol-75mg;ICEBERG;Energy Pouches;"10 cans -15%; energy pouches; Ice; ICEBERG; ICEBERG Energy; Mint; New Arrivals";75 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8433520574643;ICEBERG Medium - Watermelon;iceberg-watermelon-20;ICEBERG;Strong;"10 cans -15%; Fruit; ICEBERG; ICEBERG Medium; ICEBERG Strong; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433519689907;ICEBERG Extreme - Black Currant;iceberg-black-currant;ICEBERG;Extra Strong;"10 cans -15%; Berries; Extra Strong; ICEBERG; ICEBERG Extra Strong; ICEBERG Extreme";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433524408499;ICEBERG Extreme - Sweet Mint;iceberg-sweet-mint;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; ICEBERG; ICEBERG Extreme; Mint; Sweet";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433519820979;ICEBERG Energy - Emerald;iceberg-caffeine-pouches-emerald-150mg;ICEBERG;Energy Pouches;"10 cans -15%; energy pouches; Fruit; ICEBERG; ICEBERG Energy";150 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8433520672947;ICEBERG Energy - Mango;iceberg-caffeine-pouches-energy-mango-75mg;ICEBERG;Energy Pouches;"10 cans -15%; energy pouches; Fruit; ICEBERG; ICEBERG Energy";75 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8433524736179;ICEBERG Extreme - Frosty Mint;iceberg-frosty-mint;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; Ice; ICEBERG; ICEBERG Extreme; Mint";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433519919283;ICEBERG Medium - Cherry;iceberg-cherry-20mg;ICEBERG;Strong;"10 cans -15%; Fruit; ICEBERG; ICEBERG Medium; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433521131699;ICEBERG Medium - Black Mint;iceberg-black-mint-20;ICEBERG;Strong;"10 cans -15%; Ice; ICEBERG; ICEBERG Medium; ICEBERG Strong; Mint; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433521688755;ICEBERG Ultra - Emerald;iceb-3;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; Fruit; ICEBERG; ICEBERG Ultra";56 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433519657139;ICEBERG Medium - Energy;iceberg-energy-20;ICEBERG;Strong;"10 cans -15%; Energy; ICEBERG; ICEBERG Medium; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433520378035;ICEBERG Energy - Arasaka;iceberg-caffeine-pouches-arasaka-150mg;ICEBERG;Energy Pouches;"10 cans -15%; best-seller; energy pouches; Fruit; ICEBERG; ICEBERG Energy";150 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8433519394995;ICEBERG Extreme - Mint Explosion;iceberg-mint-explosion;ICEBERG;Extra Strong;"10 cans -15%; Extra Strong; ICEBERG; ICEBERG Extreme; Mint";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433521033395;ICEBERG Extreme - Black Mint;iceberg-black-mint;ICEBERG;Extra Strong;"10 cans -15%; Best Sellers; Extra Strong; Ice; ICEBERG; ICEBERG Extra Strong; ICEBERG Extreme; Mint";40 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433520935091;ICEBERG Medium - Watermelon Mint Gum;iceberg-watermelon-mint-gum-20mg;ICEBERG;Strong;"10 cans -15%; Fruit; ICEBERG; ICEBERG Medium; Mint; Strong; Sweet";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433520738483;ICEBERG Medium - Black;iceberg-black-20;ICEBERG;Strong;"10 cans -15%; Fruit; ICEBERG; ICEBERG Medium; Strong; Sweet";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433520902323;ICEBERG Medium - Arasaka;iceberg-arasaka-20;ICEBERG;Strong;"10 cans -15%; Fruit; ICEBERG; ICEBERG Medium; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433519362227;ICEBERG Medium - Menthol;iceberg-menthol-20mg;ICEBERG;Strong;"10 cans -15%; deals; Ice; ICEBERG; ICEBERG Medium; Mint; Strong";12 mg/zakje;TRUE;5.54;6.03;darepouch.com;pouch;nl;EUR
+8433519526067;ICEBERG Medium - Peppermint;iceberg-mint-explosion-20;ICEBERG;Strong;"10 cans -15%; ICEBERG; ICEBERG Medium; ICEBERG Strong; Mint; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433520181427;ICEBERG Energy - Watermelon Mint;iceberg-caffeine-pouches-watermelon-mint-150mg;ICEBERG;Energy Pouches;"10 cans -15%; energy pouches; Fruit; ICEBERG; ICEBERG Energy; Mint";150 mg cafeïne/zakje;TRUE;5.72;;darepouch.com;pouch;nl;EUR
+8433519460531;ICEBERG Medium - Cola;iceberg-cola-20;ICEBERG;Strong;"10 cans -15%; Cola; ICEBERG; ICEBERG Medium; Strong";12 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433489543347;GLICK Hazard - Citrine Grape;glick-citrine-grape-hazard-series;GLICK;Extra Strong;"10 cans -15%; Citrus; Extra Strong; Fruit; GLICK; GLICK Hazard";25 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8433489379507;GLICK Hazard - Lemonberry;glick-lemonberry-hazard-series;GLICK;Extra Strong;"10 cans -15%; Berries; Citrus; Extra Strong; GLICK; GLICK Hazard";25 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8433489313971;GLICK Hazard - Ice Mint;glick-ice-mint-hazard-series;GLICK;Extra Strong;"10 cans -15%; Extra Strong; GLICK; GLICK Hazard; Ice; Mint";25 mg/zakje;TRUE;5.79;;darepouch.com;pouch;nl;EUR
+8433456382131;FEDRS Energy - Mango;fedrs-energy-pouches-mango;FEDRS;Energy Pouches;"10 cans -15%; energy pouches; FEDRS; FEDRS Energy; Fruit";65 mg cafeïne/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433455923379;FEDRS Energy - Energy Drink;fedrs-energy-pouches-energy-drink;FEDRS;Energy Pouches;"10 cans -15%; Energy; energy pouches; FEDRS; FEDRS Energy; New Arrivals";65 mg cafeïne/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433457004723;FEDRS Energy - Cola;fedrs-energy-pouches-cola;FEDRS;Energy Pouches;"10 cans -15%; Cola; energy pouches; FEDRS; FEDRS Energy";65 mg cafeïne/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433456611507;FEDRS Extreme - Bubble Gum;fedrs-ice-cool-bubble-gum-hard;FEDRS;Extra Strong;"10 cans -15%; Extra Strong; FEDRS; Sweet";32,5 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433456906419;FEDRS Medium - Blueberry;fedrs-ice-cool-medium-blueberry;FEDRS;Strong;"10 cans -15%; Berries; FEDRS; Strong";15 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433456644275;FEDRS Strong - Mint;fedrs-ice-cool-strong-mint;FEDRS;Extra Strong;"10 cans -15%; Extra Strong; FEDRS; Mint";20 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433455268019;FEDRS Extreme - Evilberry;fedrs-ice-cool-evilberry;FEDRS;Extra Strong;"10 cans -15%; Berries; Extra Strong; FEDRS";32,5 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433456087219;FEDRS Medium - Bubble Gum;fedrs-ice-cool-medium-bubble-gum;FEDRS;Strong;"10 cans -15%; FEDRS; Strong; Sweet";15 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433456775347;FEDRS Extreme - Cola Vanilla;fedrs-ice-cool-cola-vanilla-hard;FEDRS;Extra Strong;"10 cans -15%; Cola; Extra Strong; FEDRS; Sweet";32,5 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433456677043;FEDRS Energy - Blueberry;fedrs-energy-pouches-blueberry;FEDRS;Energy Pouches;"10 cans -15%; Berries; deals; energy pouches; FEDRS; FEDRS Energy";65 mg cafeïne/zakje;TRUE;6.05;7.13;darepouch.com;pouch;nl;EUR
+8433457135795;FEDRS Extra Strong - Cola;fedrs-ice-cool-x-strong-cola;FEDRS;Extra Strong;"10 cans -15%; Cola; Extra Strong; FEDRS";25 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433455595699;FEDRS Extra Strong - Mint;fedrs-ice-cool-x-strong-mint;FEDRS;Extra Strong;"10 cans -15%; Extra Strong; FEDRS; Mint";25 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433456447667;FEDRS Extreme - Lime;fedrs-ice-cool-lime-hard;FEDRS;Extra Strong;"10 cans -15%; Citrus; Extra Strong; FEDRS";32,5 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433456545971;FEDRS Energy - Mint;fedrs-energy-pouches-mint;FEDRS;Energy Pouches;"10 cans -15%; energy pouches; FEDRS; FEDRS Energy; Mint; New Arrivals";65 mg cafeïne/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433454055603;GARANT Extreme Edition - Licorice;garant-extreme-licorice;GARANT;Extra Strong;"10 cans -15%; Best Sellers; Extra Strong; GARANT; GARANT Extreme Edition; Licorice";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433455431859;FEDRS Extra Strong - Freeze Mint;fedrs-ice-cool-x-strong-freeze-mint;FEDRS;Extra Strong;"10 cans -15%; Extra Strong; FEDRS; Ice; Mint";25 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433454448819;GARANT Extreme Edition - Citrus;garant-extreme-citrus;GARANT;Extra Strong;"10 cans -15%; Citrus; Extra Strong; GARANT; GARANT Extreme Edition";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433457397939;FEDRS Medium - Mint;fedrs-ice-cool-medium-mint;FEDRS;Strong;"10 cans -15%; Best Sellers; FEDRS; Mint; Strong";15 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433455759539;FEDRS Extreme - Mint;fedrs-ice-cool-mint-hard-1;FEDRS;Extra Strong;"10 cans -15%; Extra Strong; FEDRS; Mint";32,5 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433453924531;GARANT - Ice Blueberry;grant-ice-blueberry;GARANT;Normal;"10 cans -15%; Berries; Best Sellers; GARANT; GARANT Classic; Ice; Normal";10 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433457594547;FEDRS Extra Strong - Blueberry;fedrs-ice-cool-x-strong-blueberry;FEDRS;Extra Strong;"10 cans -15%; Berries; Extra Strong; FEDRS";25 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433456840883;FEDRS Energy - Coffee;fedrs-energy-pouches-coffee;FEDRS;Energy Pouches;"10 cans -15%; Coffee; energy pouches; FEDRS; FEDRS Energy";65 mg cafeïne/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433457529011;FEDRS Extra Strong - Mango;fedrs-ice-cool-x-strong-mango;FEDRS;Extra Strong;"10 cans -15%; Extra Strong; FEDRS; Fruit";25 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433454121139;GARANT Extreme Edition - Ice Guava;garant-extreme-ice-guava;GARANT;Extra Strong;"10 cans -15%; Extra Strong; Fruit; GARANT; GARANT Extreme Edition; Ice";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433455792307;FEDRS Extreme - Raspberry;fedrs-ice-cool-raspberry-hard;FEDRS;Extra Strong;"10 cans -15%; Berries; Extra Strong; FEDRS";32,5 mg/zakje;TRUE;6.05;;darepouch.com;pouch;nl;EUR
+8433454088371;GARANT Extreme Edition - Energy Drink;grant-extreme-energy-drink;GARANT;Extra Strong;"10 cans -15%; Energy; Extra Strong; GARANT; GARANT Extreme Edition";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433454186675;GARANT Extreme Edition - Ice Apricot;garant-extreme-ice-apricot;GARANT;Extra Strong;"10 cans -15%; Extra Strong; Fruit; GARANT; GARANT Extreme Edition; Ice";25 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433453695155;DOPE Crazy Strong - Ice Mango;dope-ice-mango-1;DOPE;Extra Strong;"10 cans -15%; Dare to Save; DOPE; DOPE Crazy Strong; Extra Strong; Fruit; Ice";20 mg/zakje;TRUE;4.62;;darepouch.com;pouch;nl;EUR
+8433453433011;DOPE #50 - Blueberry;dope-blueberry;DOPE;Extra Strong;"10 cans -15%; Berries; Dare to Save; DOPE; DOPE #50; Extra Strong";35 mg/zakje;TRUE;4.62;;darepouch.com;pouch;nl;EUR
+8433453596851;DOPE #50 - Icy Mint;dope-icy-mint;DOPE;Extra Strong;"10 cans -15%; Dare to Save; DOPE; DOPE #50; Extra Strong; Mint";35 mg/zakje;TRUE;4.62;;darepouch.com;pouch;nl;EUR
+8433453498547;DOPE #50 - Cherry Ice;dope-cherry-ice;DOPE;Extra Strong;"10 cans -15%; Dare to Save; DOPE; DOPE #50; Extra Strong; Fruit; Ice";35 mg/zakje;TRUE;4.62;;darepouch.com;pouch;nl;EUR
+8433453465779;DOPE Strong Edition - Ice Mango;dope-ice-mango;DOPE;Strong;"10 cans -15%; Dare to Save; DOPE; DOPE Strong Edition; Fruit; Ice; Strong";11,2 mg/zakje;TRUE;4.62;;darepouch.com;pouch;nl;EUR
+8433453203635;DENSSI Zeronic - Spearmint;denssi-spearmint-zeronic;DENSSI;Nicotine-Free;"DENSSI; DENSSI Zeronic; Mint; New Arrivals; Nicotine-Free";0 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8433453138099;DENSSI Zeronic - Watermelon Freeze;denssi-watermelon-freeze-zeronic;DENSSI;Nicotine-Free;"Best Sellers; DENSSI; DENSSI Zeronic; Fruit; Ice; Nicotine-Free";0 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8433453072563;DENSSI Zeronic - Brain Freeze;denssi-brain-freeze-zeronic;DENSSI;Nicotine-Free;"DENSSI; DENSSI Zeronic; Ice; Mint; New Arrivals; Nicotine-Free";0 mg/zakje;TRUE;6.47;;darepouch.com;pouch;nl;EUR
+8433444225203;CUBA White - Double Fresh;cuba-white-double-fresh;CUBA;Strong;"10 cans -15%; CUBA; CUBA White; Dare to Save; Ice; Mint; Strong";10,4 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433445404851;CUBA White - Banana Hit;cuba-white-banana-hit;CUBA;Strong;"10 cans -15%; CUBA; CUBA White; Dare to Save; Fruit; Strong";10,4 mg/zakje;TRUE;5.27;;darepouch.com;pouch;nl;EUR
+8433403232435;APRÈS Hyper Strong - Blueberry;no-12-apres-blueberry-hyper-strong;APRÈS;Strong;"10 cans -15%; APRÈS; APRÈS Hyper Strong; Berries; New Arrivals; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433403003059;APRÈS Hyper Strong - Menthol;no-1-apres-menthol-hyper-strong;APRÈS;Strong;"10 cans -15%; APRÈS; APRÈS Hyper Strong; Ice; Mint; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433403199667;APRÈS Hyper Strong - Bananas;no-11-apres-bananas-hyper-strong;APRÈS;Strong;"10 cans -15%; APRÈS; APRÈS Hyper Strong; Fruit; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433403134131;APRÈS Hyper Strong - Ice Tea Peach;no-5-apres-ice-tea-peach-hyper-strong;APRÈS;Strong;"10 cans -15%; APRÈS; APRÈS Hyper Strong; Fruit; Strong; Tea";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433403068595;APRÈS Hyper Strong - Lemon Curd;no-3-apres-lemon-curd-hyper-strong;APRÈS;Strong;"10 cans -15%; APRÈS; APRÈS Hyper Strong; Citrus; Strong; Sweet";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433403101363;APRÈS Hyper Strong - Cola;no-4-apres-cola-hyper-strong;APRÈS;Strong;"10 cans -15%; APRÈS; APRÈS Hyper Strong; Cola; Strong";11 mg/zakje;TRUE;5.54;;darepouch.com;pouch;nl;EUR
+8433401987251;BARON - Eucalyptus;baron-eucalyptus;BARON;Extra Strong;"10 cans -15%; BARON; Dare to Save; deals; Eucalyptus; Extra Strong; Mint; New Arrivals";50 mg/zakje;TRUE;5.02;5.58;darepouch.com;pouch;nl;EUR
+8388373708979;OutDare - Nicotine pouches Rad mint;nicotine-pouches-rad-mint-12-mg;OUTDARE;Strong;"10 cans -15%; Best Sellers; best-seller; Dare to Save; europe; Mint; OUTDARE; Strong";12 mg/zakje;TRUE;5.39;;darepouch.com;pouch;nl;EUR
