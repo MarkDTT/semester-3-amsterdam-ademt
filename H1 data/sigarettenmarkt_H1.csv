@@ -1,0 +1,149 @@
+id;brand;product_category;title;price;old_price;flavour;nicotine_mg;tar_mg;url;quantity;in_stock;language;currency;shop;notes
+1;Rothmans;cigarette;Rothmans Blue;58.50;;Traditionele smaak;0.7;7;https://sigarettenmarkt.com/rothmans-/125-rothmans-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+2;Rothmans;cigarette;Rothmans Demi Click;62.60;;Citrus;0.6;6;https://sigarettenmarkt.com/rothmans-/129-rothmans-demi-click-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+3;Rothmans;cigarette;Rothmans Silver;58.50;;Klassieke lichtsmaak;0.4;4;https://sigarettenmarkt.com/rothmans-/130-rothmans-silver-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+4;Rothmans;cigarette;Rothmans Demi Blue;62.60;;Citrus;0.6;6;https://sigarettenmarkt.com/rothmans-/160-rothmans-demi-blue.html;200;TRUE;nl;EUR;sigarettenmarkt.com;"Verzameld op 13-11-2026 (Europe/Amsterdam). De bron beschrijft een citruscapsule ondanks de productnaam Demi Blue; overgenomen zoals vermeld."
+5;Rothmans;cigarette;Rothmans Red Click;63.10;;Watermeloen;0.6;6;https://sigarettenmarkt.com/rothmans-/200-rothmans-red-click-sigaretten.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+6;Sobranie;cigarette;Sobranie Black Refine;64.00;;Modern geraffineerde smaak;0.7;8;https://sigarettenmarkt.com/sobranie/132-sobranie-black-refine-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+7;Sobranie;cigarette;Sobranie Black Russian;160.70;;Klassieke rijke smaak;0.7;7;https://sigarettenmarkt.com/sobranie/133-sobranie-black-russian-.html;200;FALSE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+8;Sobranie;cigarette;Sobranie Cocktail;160.70;;Traditionele milde smaak;0.5;5;https://sigarettenmarkt.com/sobranie/135-sobranie-cocktail-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam). De pagina vermeldt expreslevering binnen 14 dagen (onbevestigde verkopersclaim).
+9;Vogue;cigarette;Vogue Blue;92.30;;Klassieke smaak;0.7;7;https://sigarettenmarkt.com/vogue/136-vogue-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam). De pagina vermeldt expreslevering binnen 14 dagen (onbevestigde verkopersclaim).
+10;Vogue;cigarette;Vogue Lilas;92.30;;Lichtsmaak;0.4;4;https://sigarettenmarkt.com/vogue/137-vogue-lilas-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam). De pagina vermeldt expreslevering binnen 14 dagen (onbevestigde verkopersclaim).
+11;Vogue;cigarette;Vogue Menthe;92.30;;Menthol;0.7;7;https://sigarettenmarkt.com/vogue/138--vogue-menthe-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam). De pagina vermeldt expreslevering binnen 14 dagen (onbevestigde verkopersclaim).
+12;West;cigarette;West Blue;58.50;;Lichtsmaak;0.4;4;https://sigarettenmarkt.com/west/139--west-blue-.html;200;FALSE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+13;West;cigarette;West Duo;61.30;;Menthol;0.5;6;https://sigarettenmarkt.com/west/140-west-duo-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+14;West;cigarette;West Fusion Black;59.00;;;0.7;7;https://sigarettenmarkt.com/west/141-west-fusion-black-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+15;West;cigarette;West Fusion Silver;59.00;;;0.5;5;https://sigarettenmarkt.com/west/142-west-fusion-silver-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+16;West;cigarette;West Fusion White;59.00;;;0.3;3;https://sigarettenmarkt.com/west/143-west-fusion-white-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+17;West;cigarette;West Red;58.50;;Klassieke sterke smaak;0.8;10;https://sigarettenmarkt.com/west/144-west-red-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+18;Winston;cigarette;Winston Blue;61.30;;Klassieke smaak;0.5;6;https://sigarettenmarkt.com/winston/145-winston-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+19;Winston;cigarette;Winston Compact Impulse;61.50;;Druiven;0.5;6;https://sigarettenmarkt.com/winston/146-winston-compact-impulse-.html;200;FALSE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+20;Winston;cigarette;Winston Shiny Mix;62.20;;Peer;0.4;4;https://sigarettenmarkt.com/winston/147-winston-shiny-mix-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+21;Winston;cigarette;Winston Silver;61.30;;Licht smaak;0.3;4;https://sigarettenmarkt.com/winston/148-winston-silver-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+22;Winston;cigarette;Winston Summer Mix;62.20;;Tropisch;0.4;4;https://sigarettenmarkt.com/winston/149-winston-summer-mix-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+23;Winston;cigarette;Winston White;61.30;;Ultra lichte smaak;0.1;1;https://sigarettenmarkt.com/winston/150-winston-white-.html;200;FALSE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+24;Winston;cigarette;Winston White Super Slims;55.20;;Ultra lichte smaak;0.1;1;https://sigarettenmarkt.com/winston/151-winston-white-super-slims-.html;200;FALSE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+25;Winston;cigarette;Winston XStyle Blue;61.50;;Moderne smaak;0.5;6;https://sigarettenmarkt.com/winston/152-winston-xstyle-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+26;Winston;cigarette;Winston XStyle Dual;62.20;;;0.4;6;https://sigarettenmarkt.com/winston/153-winston-xstyle-dual-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+27;Winston;cigarette;Winston XStyle Silver;61.50;;Licht smaak;0.3;4;https://sigarettenmarkt.com/winston/154-winston-xstyle-silver-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+28;Winston;cigarette;Winston Silver Super Slims;55.20;;Licht smaak;0.3;4;https://sigarettenmarkt.com/winston/156-winston-silver-super-slims-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+29;Winston;cigarette;Winston Violet Super Slims;61.10;;Bloemen;0.1;1;https://sigarettenmarkt.com/winston/169-winston-violet-super-slims.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+30;Winston;cigarette;Winston Green Super Slims;61.10;;Menthol;0.1;1;https://sigarettenmarkt.com/winston/170-winston-green-super-slims.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+31;Winston;cigarette;Winston XStyle Slim;62.00;;Moderne, evenwichtige smaak;0.5;6;https://sigarettenmarkt.com/winston/204-winston-xstyle-slim-sigaretten.html;200;TRUE;nl;EUR;sigarettenmarkt.com;Verzameld op 13-11-2026 (Europe/Amsterdam).
+32;TEREA;heated tobacco;Terea Amber;64.10;;Rijke smaak;;;https://sigarettenmarkt.com/terea/134-terea-amber.html;200;TRUE;nl;EUR;sigarettenmarkt.com;"Verzameld op 13-11-2026 (Europe/Amsterdam). Verhitte tabak voor IQOS ILUMA; de bron vermeldt geen numerieke nicotine- of teerwaarde."
+33;TEREA;heated tobacco;Terea Yellow;64.10;;Lichte smaak;;;https://sigarettenmarkt.com/terea/115-terea-yellow.html;200;TRUE;nl;EUR;sigarettenmarkt.com;"Verzameld op 13-11-2026 (Europe/Amsterdam). Verhitte tabak voor IQOS ILUMA; de bron vermeldt geen numerieke nicotine- of teerwaarde."
+34;TEREA;heated tobacco;Terea Zing;64.10;;Citrus;;;https://sigarettenmarkt.com/terea/124-terea-zing.html;200;TRUE;nl;EUR;sigarettenmarkt.com;"Verzameld op 13-11-2026 (Europe/Amsterdam). Verhitte tabak voor IQOS ILUMA; de bron vermeldt geen numerieke nicotine- of teerwaarde."
+35;TEREA;heated tobacco;Terea Purple;64.10;;Bessen;;;https://sigarettenmarkt.com/terea/166-terea-purple.html;200;TRUE;nl;EUR;sigarettenmarkt.com;"Verzameld op 13-11-2026 (Europe/Amsterdam). Verhitte tabak voor IQOS ILUMA; de bron vermeldt geen numerieke nicotine- of teerwaarde."
+36;TEREA;heated tobacco;Terea Summer;64.10;;Fruitig;;;https://sigarettenmarkt.com/terea/167-terea-summer.html;200;TRUE;nl;EUR;sigarettenmarkt.com;"Verzameld op 13-11-2026 (Europe/Amsterdam). Verhitte tabak voor IQOS ILUMA; de bron vermeldt geen numerieke nicotine- of teerwaarde."
+37;TEREA;heated tobacco;Terea Turquoise;64.10;;Menthol;;;https://sigarettenmarkt.com/terea/168-terea-turquoise.html;200;TRUE;nl;EUR;sigarettenmarkt.com;"Verzameld op 13-11-2026 (Europe/Amsterdam). Verhitte tabak voor IQOS ILUMA; de bron vermeldt geen numerieke nicotine- of teerwaarde."
+38;TEREA;heated tobacco;Terea Silver;64.10;;Rijke smaak;;;https://sigarettenmarkt.com/terea/172-terea-silver.html;200;TRUE;nl;EUR;sigarettenmarkt.com;"Verzameld op 13-11-2026 (Europe/Amsterdam). Verhitte tabak voor IQOS ILUMA; de bron vermeldt geen numerieke nicotine- of teerwaarde."
+39;TEREA;heated tobacco;Terea Twilight Pearl;64.10;;Bessen;;;https://sigarettenmarkt.com/terea/174-terea-twilight-pearl.html;200;TRUE;nl;EUR;sigarettenmarkt.com;"Verzameld op 13-11-2026 (Europe/Amsterdam). Verhitte tabak voor IQOS ILUMA; de korte brontekst vermeldt geen numerieke nicotine- of teerwaarde. De korte tekst bovenaan noemt Terea Purple Wave; de volledige tekst onder Beschrijving is afzonderlijk overgenomen."
+40;TEREA;heated tobacco;Terea Provence Pearl;64.10;;Bessen;;;https://sigarettenmarkt.com/terea/175-terea-provence-pearl.html;200;TRUE;nl;EUR;sigarettenmarkt.com;"Verzameld op 13-11-2026 (Europe/Amsterdam). Verhitte tabak voor IQOS ILUMA; de bron vermeldt geen numerieke nicotine- of teerwaarde. Het tabblad Beschrijving ontbreekt; description is daarom leeg. De korte tekst bovenaan noemt Terea Purple Wave; de smaaklabel is uit die korte brontekst overgenomen."
+41;Richmond;cigarette;Richmond Cherry Superslim;69.3;;Kersen;0.5;5;https://sigarettenmarkt.com/richmond/122-richmond-cherry-superslim-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+42;Richmond;cigarette;Richmond Coffee Superslim;69.3;;Koffie;0.4;5;https://sigarettenmarkt.com/richmond/123-richmond-coffee-superslim-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+43;Richmond;cigarette;Richmond Gold Edition;69.8;;Klassiek milde;0.5;5;https://sigarettenmarkt.com/richmond/196-richmond-gold-edition-sigaretten.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+44;Richmond;cigarette;Richmond Royal Edition;69.8;;Koffie;0.4;5;https://sigarettenmarkt.com/richmond/198-richmond-royal-edition-sigaretten.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+45;Richmond;cigarette;Richmond Sunset Edition;69.8;;Exotische;0.4;5;https://sigarettenmarkt.com/richmond/199-richmond-sunset-edition-sigaretten.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+46;Parliament;cigarette;Parliament Exotic Cruise;63.3;;Bessen-munt;0.5;5;https://sigarettenmarkt.com/parliament/112-parliament-exotic-cruise-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+47;Parliament;cigarette;Parliament Night Blue;67.1;;Sterke klassieke;0.6;8;https://sigarettenmarkt.com/parliament/113-parliament-night-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+48;Parliament;cigarette;Parliament Platinum Blue;67.1;;Ultra licht;0.1;1;https://sigarettenmarkt.com/parliament/114--parliament-platinum-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+49;Parliament;cigarette;Parliament Sea Cruise;63.3;;Licht;0.5;5;https://sigarettenmarkt.com/parliament/117-parliament-sea-cruise-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+50;Parliament;cigarette;Parliament Silver Blue;67.1;;Super licht;0.3;3;https://sigarettenmarkt.com/parliament/118-parliament-silver-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+51;Parliament;cigarette;Parliament Super Slims;64.9;;Licht;0.4;4;https://sigarettenmarkt.com/parliament/119-parliament-super-slims.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+52;Parliament;cigarette;Parliament Aqua Blue;67.1;;Licht;0.4;5;https://sigarettenmarkt.com/parliament/157-parliament-aqua-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+53;Parliament;cigarette;Parliament Super Slims Winter Fuse;64.9;;Menthol;0.4;4;https://sigarettenmarkt.com/parliament/163-parliament-super-slims-winter-fuse.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+54;Parliament;cigarette;Parliament Super Slims Fuse;64.9;;Menthol;0.4;4;https://sigarettenmarkt.com/parliament/173-parliament-super-slims-fuse.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+55;Pall Mall;cigarette;Pall Mall Blue;64.1;;Klassiek;0.7;7;https://sigarettenmarkt.com/pall-mall/102-pall-mall-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+56;Pall Mall;cigarette;Pall Mall DemiSlims;62.5;;Licht;0.4;4;https://sigarettenmarkt.com/pall-mall/103-pall-mall-demislims-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+57;Pall Mall;cigarette;Pall Mall Dubai Nights;62.7;;Oranje;0.4;4;https://sigarettenmarkt.com/pall-mall/104-pall-mall-dubai-nights-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+58;Pall Mall;cigarette;Pall Mall Hawaii Nights;62.7;;Appel;0.4;4;https://sigarettenmarkt.com/pall-mall/105--pall-mall-hawaii-nights-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+59;Pall Mall;cigarette;Pall Mall Miami Sunset;62.7;;Oranje;0.4;4;https://sigarettenmarkt.com/pall-mall/106-pall-mall-miami-sunset-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+60;Pall Mall;cigarette;Pall Mall Nanokings Blue;61.4;;Klassieke sterke smaak;0.7;7;https://sigarettenmarkt.com/pall-mall/107-pall-mall-nanokings-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+61;Pall Mall;cigarette;Pall Mall SuperSlims Blue;62.7;;Klassieke sterke smaak;0.7;7;https://sigarettenmarkt.com/pall-mall/108-pall-mall-superslims-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+62;Pall Mall;cigarette;Pall Mall SuperSlims White;62.7;;Klassieke sterke smaak;0.4;4;https://sigarettenmarkt.com/pall-mall/109-pall-mall-superslims-white-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+63;Pall Mall;cigarette;Pall Mall Vegas Nights;62.7;;Exotische;0.4;4;https://sigarettenmarkt.com/pall-mall/110-pall-mall-vegas-nights-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+64;Pall Mall;cigarette;Pall Mall Value Line;64.6;;Milde;0.6;7;https://sigarettenmarkt.com/pall-mall/212-pall-mall-value-line-sigaretten.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+65;Marlboro;cigarette;Marlboro Double Mix;77.9;;Menthol en bes;0.4;5;https://sigarettenmarkt.com/marlboro-/95-marlboro-double-mix-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+66;Marlboro;cigarette;Marlboro Filter Plus;65.3;;Klassieke sterke smaak;0.2;3;https://sigarettenmarkt.com/marlboro-/96-marlboro-filter-plus-.html;200;FALSE;nl;EUR;sigarettenmarkt.com;13-11-2026
+67;Marlboro;cigarette;Marlboro Fine Touch;62.6;;Nieuwe moderne smaak;0.3;4;https://sigarettenmarkt.com/marlboro-/97-marlboro-fine-touch-.html;200;FALSE;nl;EUR;sigarettenmarkt.com;13-11-2026
+68;Marlboro;cigarette;Marlboro Red;65.3;;Klassieke sterke smaak;0.7;9;https://sigarettenmarkt.com/marlboro-/99-marlboro-red-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+69;Marlboro;cigarette;Marlboro Touch;62.6;;Nieuwe moderne smaak;0.5;6;https://sigarettenmarkt.com/marlboro-/100-marlboro-touch-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+70;Marlboro;cigarette;Marlboro Gold;65.3;;Klassiek licht;0.5;6;https://sigarettenmarkt.com/marlboro-/158-marlboro-gold.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+71;Marlboro;cigarette;Marlboro Touch Mix;64.9;;Bessen;0.4;5;https://sigarettenmarkt.com/marlboro-/162-marlboro-touch-mix-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+72;Marlboro;cigarette;Marlboro Vista Garden Zing;62.9;;Fruitige/kruiden;0.4;5;https://sigarettenmarkt.com/marlboro-/171-marlboro-vista-garden-zing.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+73;Marlboro;cigarette;Marlboro Summer Fusion;65.8;;Fruitig en tropisch (watermeloen, perzik, menthol);0.4;5;https://sigarettenmarkt.com/marlboro-/190-marlboro-summer-fusion-sigaretten.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+74;Mevius;cigarette;Mevius Compact;63.7;;Klassiek;0.6;6;https://sigarettenmarkt.com/mevius/89-mevius-compact-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+75;Mevius;cigarette;Mevius Option;65;;Milde;0.5;5;https://sigarettenmarkt.com/mevius/90-mevius-option-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+76;Mevius;cigarette;Mevius Sky Blue;63.7;;Klassiek milde;0.5;6;https://sigarettenmarkt.com/mevius/92-mevius-sky-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+77;Mevius;cigarette;Mevius Wind Blue;63.7;;Klassiek milde;0.4;4;https://sigarettenmarkt.com/mevius/94-mevius-wind-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+78;L&M;cigarette;L&M Loft Mix;61.3;;Watermeloen;0.5;6;https://sigarettenmarkt.com/lm/87-lm-loft-mix-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+79;L&M;cigarette;L&M Loft Blue;59.8;;Moderne;0.5;6;https://sigarettenmarkt.com/lm/86-lm-loft-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+80;L&M;cigarette;L&M Blue Label;60.3;;Lichte klassieke;0.5;6;https://sigarettenmarkt.com/lm/187-lm-blue-label-sigaretten.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+81;L&M;cigarette;L&M Loft 2 in 1;61.2;;Onbekend;0.5;6;https://sigarettenmarkt.com/lm/188-lm-loft-2-in-1-sigaretten.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+82;LD;cigarette;LD Blue;58.5;;Klassieke lichtsmaak;0.4;6;https://sigarettenmarkt.com/-ld-/74-ld-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+83;LD;cigarette;LD Club Black;59;;Moderne;0.6;7;https://sigarettenmarkt.com/-ld-/75-ld-club-black-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+84;LD;cigarette;LD Club Blue;59;;Lichte;0.4;4;https://sigarettenmarkt.com/-ld-/76-ld-club-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+85;LD;cigarette;LD Club White;59;;Ultra licht;0.1;1;https://sigarettenmarkt.com/-ld-/78-ld-club-white-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+86;LD;cigarette;LD Impulse Super Slims;60;;Lichte;0.4;4;https://sigarettenmarkt.com/-ld-/79-ld-impulse-super-slims-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+87;LD;cigarette;LD Option Club;59;;Bessen;0.4;4;https://sigarettenmarkt.com/-ld-/80-ld-option-club-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+88;LD;cigarette;LD Option Compact;59;;Bessen;0.4;5;https://sigarettenmarkt.com/-ld-/81-ld-option-compact-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+89;LD;cigarette;LD Pink;58.9;;Super licht;0.3;3;https://sigarettenmarkt.com/-ld-/82-ld-pink-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+90;LD;cigarette;LD Red;58.5;;Klassiek sterk;0.4;6;https://sigarettenmarkt.com/-ld-/83-ld-red-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+91;LD;cigarette;LD Silver;58.5;;Licht;0.3;4;https://sigarettenmarkt.com/-ld-/84-ld-silver-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+92;LD;cigarette;LD Violet;58.9;;Licht;0.5;5;https://sigarettenmarkt.com/-ld-/85-ld-violet-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+93;LD;cigarette;LD Option Plus Red;59;;Zoete bessen;0.4;5;https://sigarettenmarkt.com/-ld-/186-ld-option-plus-red-sigaretten.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+94;Bond;cigarette;Bond Street Blue;58.5;;Klassieke smaak;0.5;6;https://sigarettenmarkt.com/bond/25-bond-street-blue.html;200;TRUE;nl;EUR;sigarettenmarkt.com;13-11-2026
+95;Bond;cigarette;"Bond Street Blue Compact";58.5;;Klassieke smaak;0.5;6;https://sigarettenmarkt.com/bond/26-bond-street-blue-compact.html;200;TRUE;nl;EUR;sigarettenmarkt.com;14-11-2026
+96;Bond;cigarette;Bond Street Silver Compact;58.5;;Klassieke smaak;0.3;4;https://sigarettenmarkt.com/bond/27-bond-street-silver-compact.html;200;TRUE;nl;EUR;sigarettenmarkt.com;14-11-2026
+97;Bond;cigarette;Bond Street Red;58.5;;Klassieke smaak;1;12;https://sigarettenmarkt.com/bond/28-bond-street-red.html;200;TRUE;nl;EUR;sigarettenmarkt.com;14-11-2026
+98;Camel;cigarette;Camel Filters;64.9;;Klassieke smaak;0.6;8;https://sigarettenmarkt.com/camel/29-camel-filters-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;14-11-2026
+99;Camel;cigarette;Camel Blue;69.26;71.4;Licht smaak;0.5;6;https://sigarettenmarkt.com/camel/30-camel-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;14-11-2026
+100;Camel;cigarette;Camel Compact Blue;61.9;;Licht smaak;0.5;6;https://sigarettenmarkt.com/camel/31-camel-compact-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;14-11-2026
+101;Camel;cigarette;Camel Compact Silver;61.9;;Super Lights-smaak;0.4;4;https://sigarettenmarkt.com/camel/32-camel-compact-silver-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;14-11-2026
+102;Davidoff;cigarette;Davidoff Classic;64.3;;Klassieke sterke smaak;0.8;9;https://sigarettenmarkt.com/davidoff/33-davidoff-classic-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;14-11-2026
+103;Davidoff;cigarette;"Davidoff Classic Slims";64.3;;Klassieke sterke smaak;0.8;9;https://sigarettenmarkt.com/davidoff/34-davidoff-classic-slims-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;14-11-2026
+104;Davidoff;cigarette;Davidoff Classic Gold;64.3;;Licht smaak;0.6;7;https://sigarettenmarkt.com/davidoff/35-davidoff-gold-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;14-11-2026
+105;Davidoff;cigarette;Davidoff Gold Slims;64.3;;Licht smaak;0.6;6;https://sigarettenmarkt.com/davidoff/36-davidoff-gold-slims-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;14-11-2026
+106;Davidoff;cigarette;Davidoff Reach Blue;61.5;;Lichtsmaak;0.5;6;https://sigarettenmarkt.com/davidoff/37-davidoff-reach-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;14-11-2026
+107;Davidoff;cigarette;Davidoff Reach Purple;64.3;;Moderne smaak;0.5;6;https://sigarettenmarkt.com/davidoff/38-davidoff-reach-purple-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;14-11-2026
+108;Davidoff;cigarette;Davidoff Reach Silver;61.5;;Lichtsmaak;0.5;6;https://sigarettenmarkt.com/davidoff/39-davidoff-reach-silver-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;15-11-2026
+109;Davidoff;cigarette;"Davidoff Refine Black";59.6;;-;0.6;6;https://sigarettenmarkt.com/davidoff/40-davidoff-refine-black-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;15-11-2026
+110;Davidoff;cigarette;"Davidoff Refine White";60.1;;Zeer lichte smaak;0.2;2;https://sigarettenmarkt.com/davidoff/182-davidoff-refine-white-sigaretten.html;200;TRUE;nl;EUR;sigarettenmarkt.com;15-11-2026
+111;Esse;cigarette;Esse Blue;64.5;;Klassieke smaak;0.4;4.5;https://sigarettenmarkt.com/esse/41-esse-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;15-11-2026
+112;Esse;cigarette;Esse Exchange;65.9;;Menthol capsule;0.4;4.5;https://sigarettenmarkt.com/esse/42-esse-exchange-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;15-11-2026
+113;Esse;cigarette;Esse Exchange W;65.9;;Capsule met druivensmaak;0.4;4;https://sigarettenmarkt.com/esse/43-esse-exchange-w.html;200;TRUE;nl;EUR;sigarettenmarkt.com;15-11-2026
+114;Esse;cigarette;Esse Gold;65.6;;Klassieke smaak;0.4;3.5;https://sigarettenmarkt.com/esse/44-esse-gold-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;15-11-2026
+115;Esse;cigarette;Esse Golden Leaf;65.6;;Moderne smaak;0.3;3;https://sigarettenmarkt.com/esse/45-esse-golden-leaf-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+116;Esse;cigarette;Esse One / 1;63.1;;Klassieke smaak;0.1;1;https://sigarettenmarkt.com/esse/46-esse-one-1.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+117;Esse;cigarette;Esse Secret;65.6;;Gearomatiseerde capsule. Licht smaak.;0.3;4;https://sigarettenmarkt.com/esse/47-esse-secret-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+118;Esse;cigarette;Esse Exchange M;65.9;;Mango-capsule. Licht smaak.;0.3;4;https://sigarettenmarkt.com/esse/48-esse-exchange-m-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+119;Esse;cigarette;Esse Silver Nano;63.1;;Ultra Lights-smaak;0.1;1;https://sigarettenmarkt.com/esse/49-esse-silver-nano-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+120;Esse;cigarette;Esse Menthol;65.9;;Menthol smaak;0.4;4.5;https://sigarettenmarkt.com/esse/161-esse-menthol.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+121;Esse;cigarette;Esse Exchange Double;65.9;;Sinaasappel+Appelmunt;0.4;4;https://sigarettenmarkt.com/esse/164-esse-exchange-double.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+122;Esse;cigarette;Esse Himalaya;65.9;;Menthol- en pijnboomsmaak. Licht.;0.1;1;https://sigarettenmarkt.com/esse/165-esse-himalaya.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+123;Esse;cigarette;Esse Exchange Double W;66.4;;druif en menthol;0.4;4;https://sigarettenmarkt.com/esse/183-esse-exchange-double-w-sigaretten.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+124;Esse;cigarette;Esse Exchange Summer Red;66.4;;Watermelooncapsule;0.4;4;https://sigarettenmarkt.com/esse/184-esse-exchange-summer-red-sigaretten.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+125;HEETS;heated tobacco;HEETS Purple Label;61.6;;Menthol en Berry;;;https://sigarettenmarkt.com/heets/51-heets-purple-label-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+126;HEETS;heated tobacco;HEETS Amber Label;61.6;;Rijke smaak;;;https://sigarettenmarkt.com/heets/50-heets-amber-label-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+127;HEETS;heated tobacco;HEETS Turquoise Label;61.6;;Cacaosmaak;;;https://sigarettenmarkt.com/heets/52-heets-turquoise-label-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+128;HEETS;heated tobacco;HEETS Yellow Label;61.6;;Cacaosmaak;;;https://sigarettenmarkt.com/heets/53-heets-yellow-label-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+129;Kent;cigarette;Kent 3 in 1 (drie capsules);65.9;;Exotisch, meloen, kauwgom;0.5;6;https://sigarettenmarkt.com/kent/54-kent-3-in-1-drie-capsules-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+130;Kent;cigarette;Kent Crystal Berry;64.1;;Bessen capsule;0.5;6;https://sigarettenmarkt.com/kent/55-kent-crystal-berry-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+131;Kent;cigarette;Kent Crystal Blue;64.1;;Klassieke smaak van gemiddelde sterkte;0.5;6;https://sigarettenmarkt.com/kent/56-kent-crystal-blue-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+132;Kent;cigarette;Kent Crystal Orange;64.1;;Capsule met sinaasappelsmaak;0.5;6;https://sigarettenmarkt.com/kent/57-kent-crystal-orange-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+133;Kent;cigarette;Kent Crystal Silver;64.1;;Capsule met sinaasappelsmaak;0.5;6;https://sigarettenmarkt.com/kent/58-kent-crystal-silver-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+134;Kent;cigarette;Kent Crystal Yellow;64.1;;Citrus capsule;0.5;6;https://sigarettenmarkt.com/kent/59-kent-crystal-yellow-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+135;Kent;cigarette;Kent Double Mix;65.1;;watermeloen, menthol;0.5;6;https://sigarettenmarkt.com/kent/60-kent-double-mix-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+136;Kent;cigarette;Kent HD Blue 8;64.5;;Klassieke smaak;0.6;8;https://sigarettenmarkt.com/kent/61-kent-hd-blue-8-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+137;Kent;cigarette;Kent HD Silver 4 Neo;64.5;;Lichten;0.3;4;https://sigarettenmarkt.com/kent/62-kent-hd-silver-4-neo-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+138;Kent;cigarette;Kent iSwitch;64.5;;Nieuwe smaak;0.3;4;https://sigarettenmarkt.com/kent/63-kent-iswitch-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+139;Kent;cigarette;Kent Micro;61.4;;Milde en lichte smaak;0.4;4;https://sigarettenmarkt.com/kent/64-kent-micro-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+140;Kent;cigarette;Kent Mode;64.1;;Klassieke smaak samen met tabak van goede kwaliteit;0.6;6;https://sigarettenmarkt.com/kent/66-kent-mode-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+141;Kent;cigarette;Kent Nanotek 1 White;64.3;;Moderne smaak;0.1;1;https://sigarettenmarkt.com/kent/67-kent-nanotek-1-white-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+142;Kent;cigarette;Kent Nanotek 4 Silver;64.3;;Moderne smaak;0.4;4;https://sigarettenmarkt.com/kent/68-kent-nanotek-4-silver-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+143;Kent;cigarette;Kent Mix;64.5;;Menthol capsul;0.5;6;https://sigarettenmarkt.com/kent/159-kent-mix-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+144;Kiss;cigarette;Kiss Choco;60.1;;Licht smaak;0.5;5;https://sigarettenmarkt.com/kiss/69-kiss-choco-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+145;Kiss;cigarette;Kiss Energy;60.1;;Licht smaak;0.5;5;https://sigarettenmarkt.com/kiss/70-kiss-energy-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+146;Kiss;cigarette;Kiss Fresh Apple;60.1;;Licht smaak;0.5;5;https://sigarettenmarkt.com/kiss/71-kiss-fresh-apple-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+147;Kiss;cigarette;Kiss Mango;60.1;;Licht smaak;0.5;5;https://sigarettenmarkt.com/kiss/72-kiss-mango-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026
+148;Kiss;cigarette;Kiss Strawberry;60.1;;Licht smaak;0.5;5;https://sigarettenmarkt.com/kiss/73-kiss-strawberry-.html;200;TRUE;nl;EUR;sigarettenmarkt.com;17-11-2026

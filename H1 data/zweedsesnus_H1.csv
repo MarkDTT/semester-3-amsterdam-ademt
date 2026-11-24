@@ -1,0 +1,698 @@
+id;title;handle;tags;in_stock;price;old_price;product_category;currency;shop;language
+11477790654791;ZYN Blackcurrant Ice Slim S5;zyn-blackcurrant-ice-slim-s5;"ALL; ZYN";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477790556487;ZYN Cool Mint Ice Slim;zyn-cool-mint-ice-slim;"ALL; ZYN";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477790490951;ZYN Menthol Ice Slim S6;zyn-menthol-ice-slim-s6;"ALL; ZYN";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477790425415;ZYN Menthol Ice Slim S5;zyn-menthol-ice-slim-s5;"ALL; ZYN";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477790753095;ZYN Cool Mint Slim S2;zyn-cool-mint-slim-s2;"ALL; ZYN";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477791015239;ZYN Red Berry Fizz Slim S4;zyn-red-berry-fizz-slim-s4;"ALL; ZYN";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477790949703;ZYN Red Berry Fizz Slim S3;zyn-red-berry-fizz-slim-s3;"ALL; ZYN";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477790916935;ZYN Red Berry Fizz Slim S2;zyn-red-berry-fizz-slim-s2;"ALL; ZYN";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477790851399;ZYN Watermelon Mint Slim;zyn-watermelon-mint-slim;"ALL; ZYN";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477791244615;ZYN Black Cherry Slim;zyn-black-cherry-slim;"ALL; ZYN";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477791179079;ZYN Cactus Spice Slim S4;zyn-cactus-spice-slim-s4;"ALL; ZYN";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477791113543;ZYN Cactus Spice Slim S3;zyn-cactus-spice-slim-s3;"ALL; ZYN";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477791605063;ZYN Peppermint Slim;zyn-peppermint-slim;"ALL; ZYN";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477791506759;ZYN Passion Pineapple Slim;zyn-passion-pineapple-slim;"ALL; ZYN";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477791441223;ZYN Black Licorice Mini;zyn-black-licorice-mini;"ALL; ZYN";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477791310151;ZYN Blueberry Mint Slim;zyn-blueberry-mint-slim;"ALL; ZYN";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477691433287;XQS The Spearmint;xqs-the-spearmint;"ALL; XQS";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477691760967;XQS Zero Virgin Peppermint;xqs-zero-virgin-peppermint;"ALL; Nicotinefree; XQS Free";FALSE;6.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+11477691629895;XQS The Menthol X-Strong;xqs-the-menthol-x-strong;"ALL; XQS";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477691564359;XQS The Menthol Strong;xqs-the-menthol-strong;"ALL; XQS";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477691531591;XQS The Peppermint;xqs-the-peppermint;"ALL; XQS";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477692154183;XQS Cola Lime;xqs-cola-lime;"ALL; XQS";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477692088647;XQS Hot Lime;xqs-hot-lime;"ALL; XQS";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477691957575;XQS Citrus Burning;xqs-citrus-burning;"ALL; XQS";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477691859271;XQS Citrus Light;xqs-citrus-light;"ALL; XQS";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477692481863;XQS Berrynana Twist Strong;xqs-berrynana-twist-strong;"ALL; XQS";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477692383559;XQS Raspberry Blackcurrant Slim Strong;xqs-raspberry-blackcurrant-slim-strong;"ALL; XQS";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477692285255;XQS Strawberry Kiwi Strong;xqs-strawberry-kiwi-strong;"ALL; XQS";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477692219719;XQS Orange Squeeze Slim Strong;xqs-orange-squeeze-slim-strong;"ALL; XQS";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477692809543;XQS Hallon Lakrits Slim Strong;xqs-hallon-lakrits-slim-strong;"ALL; XQS";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477692711239;XQS Apple Crisp Slim Strong;xqs-apple-crisp-slim-strong;"ALL; XQS";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477692645703;XQS Fizzy Peach Slim Strong;xqs-fizzy-peach-slim-strong;"ALL; XQS";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11477692580167;XQS Dark Banana Slim Strong;xqs-dark-banana-slim-strong;"ALL; XQS";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476699971911;Velo Sour Lime Slim;velo-sour-lime-slim;"ALL; VELO";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476699382087;Velo Bright Spearmint Strong;velo-bright-spearmint-strong;"ALL; VELO";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476699087175;Velo Bright Peppermint;velo-bright-peppermint;"ALL; VELO";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+10769556242759;Velo Purple Grape Zero;velo-purple-grape-zero;"ALL; Nicotinefree";TRUE;6.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+11476700954951;Velo Mango Ice Slim;velo-mango-ice-slim;"ALL; VELO";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476700758343;Velo Blueberry Ice Slim;velo-blueberry-ice-slim;"ALL; VELO";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476700561735;Velo Dark Blackcurrant;velo-dark-blackcurrant;"ALL; VELO";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476700430663;Velo Dark Cherry Mini;velo-dark-cherry-mini;"ALL; VELO";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476701610311;Velo McLaren Spicy Papaya Slim;velo-mclaren-spicy-papaya-slim;"ALL; VELO";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476701348167;Velo Coconut Lime Slim;velo-coconut-lime-slim;"ALL; VELO";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476701217095;Velo Guava Jalapeño Slim;velo-guava-jalapeno-slim;"ALL; VELO";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476701118791;Velo Guava Passionfruit Slim;velo-guava-passionfruit-slim;"ALL; VELO";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476702134599;Velo Shift Cool Peppermint;velo-shift-cool-peppermint;"ALL; VELO";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476702953799;Velo Shift Hot Dragon Fruit;velo-shift-hot-dragon-fruit;"ALL; VELO";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476702822727;Velo Shift Hot Peach;velo-shift-hot-peach;"ALL; VELO";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476702626119;Velo Shift Hot Spearmint;velo-shift-hot-spearmint;"ALL; VELO";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476703412551;Velo Shift Pomelo Peppercorn;velo-shift-pomelo-peppercorn;"ALL; VELO";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476703314247;Velo Shift Kumquat Citron;velo-shift-kumquat-citron;"ALL; VELO";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476703183175;Velo Shift Mango Yuzu;velo-shift-mango-yuzu;"ALL; VELO";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476703117639;Velo Shift Hot Grape;velo-shift-hot-grape;"ALL; VELO";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476159496519;SKRUF Intense Spearmint Ice;skruf-intense-spearmint-ice;"ALL; SKRUF";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476159430983;SKRUF Intense Peppermint Ice;skruf-intense-peppermint-ice;"ALL; SKRUF";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476159398215;SKRUF Superwhite Crystal Fresh;skruf-superwhite-crystal-fresh;"ALL; SKRUF";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+9502862016839;SKRUF Superwhite Fresh Freeze Ultra;skruf-superwhite-fresh-freeze-ultra;"ALL; SKRUF";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476159660359;SKRUF Intense Strawberry Ice S7;skruf-intense-strawberry-ice-s7;"ALL; SKRUF";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476159627591;SKRUF Intense Strawberry Ice S5;skruf-intense-strawberry-ice-s5;"ALL; SKRUF";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476159594823;SKRUF Intense Blueberry Ice S7;skruf-intense-blueberry-ice-s7;"ALL; SKRUF";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11476159562055;SKRUF Intense Blueberry Ice S5;skruf-intense-blueberry-ice-s5;"ALL; SKRUF";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474786550087;RAVE Frozen Citrus Extra Strong;rave-frozen-citrus-extra-strong;"ALL; RAVE";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11474785567047;RAVE Frozen Citrus Strong;rave-frozen-citrus-strong;"ALL; RAVE";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11474790252871;RAVE Juicy Apple Extra Strong;rave-juicy-apple-extra-strong;"ALL; RAVE";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11474789237063;RAVE Juicy Apple Strong;rave-juicy-apple-strong;"ALL; RAVE";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11474788286791;RAVE Lemoncello Extra Strong;rave-lemoncello-extra-strong;"ALL; RAVE";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11474787434823;RAVE Lemoncello Strong;rave-lemoncello-strong;"ALL; RAVE";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11474794119495;RAVE La Passion Fruit Extra Strong;rave-la-passion-fruit-extra-strong;"ALL; RAVE";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11474793038151;RAVE La Passion Fruit Strong;rave-la-passion-fruit-strong;"ALL; RAVE";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11474792120647;RAVE Merry Cherry Extra Strong;rave-merry-cherry-extra-strong;"ALL; RAVE";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11474791137607;RAVE Merry Cherry Strong;rave-merry-cherry-strong;"ALL; RAVE";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11474797396295;RAVE Minty Berry Strong;rave-minty-berry-strong;"ALL; RAVE";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11474796413255;RAVE Mango Django Extra Strong;rave-mango-django-extra-strong;"ALL; RAVE";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11474795168071;RAVE Mango Django Strong;rave-mango-django-strong;"ALL; RAVE";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11474799329607;RAVE Skittler Strong;rave-skittler-strong;"ALL; RAVE";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11474798412103;RAVE Minty Berry Extra Strong;rave-minty-berry-extra-strong;"ALL; RAVE";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11474805457223;RAVE Cola Explosion Extra Strong;rave-cola-explosion-extra-strong;"ALL; RAVE";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11474802311495;RAVE Cola Explosion Strong;rave-cola-explosion-strong;"ALL; RAVE";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11474800738631;RAVE Skittler Extra Strong;rave-skittler-extra-strong;"ALL; RAVE";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10769556341063;Loop Zero Cool Mint;loop-zero-cool-mint;"ALL; LOOP; LOOP ZERO; Nicotinefree";TRUE;6.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+11474636996935;Loop Jalapeno Lime Hyper Strong;loop-jalapeno-lime-hyper-strong;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474636898631;Loop Red Chili Melon Strong;loop-red-chili-melon-strong;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474636865863;Loop Smooth Mint Extra Strong;loop-smooth-mint-extra-strong;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474637259079;Loop Hot Rhubarb;loop-hot-rhubarb;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474637160775;Loop Licorice Fusion;loop-licorice-fusion;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474637062471;Loop Jalapeno Lime Mini;loop-jalapeno-lime-mini;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474637029703;Loop Habanero Mint Hyper Strong;loop-habanero-mint-hyper-strong;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474637422919;Loop Spicy Apple;loop-spicy-apple;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474637357383;Loop Smooth Mint Mini;loop-smooth-mint-mini;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474637324615;Loop Hot Peach Strong;loop-hot-peach-strong;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474637291847;Loop Red Chili Melon Extra Strong;loop-red-chili-melon-extra-strong;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474637619527;Loop Strawberry Ice;loop-strawberry-ice;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474637586759;Loop Blueberry Ice;loop-blueberry-ice;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474637553991;Loop Red Chili Melon Hyper Strong;loop-red-chili-melon-hyper-strong;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474637521223;Loop Creamy Cappuccino Strong;loop-creamy-cappuccino-strong;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474637783367;Loop Fresh Peppermint Hyper Strong;loop-fresh-peppermint-hyper-strong;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474637750599;Loop Fresh Peppermint Mini Hyper Strong;loop-fresh-peppermint-mini-hyper-strong;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474637717831;Loop Pineapple Ice;loop-pineapple-ice;"ALL; Loop";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474637685063;Loop Red Chili Melon Mini;loop-red-chili-melon-mini;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474638340423;Loop Smooth Mint Hyper Strong;loop-smooth-mint-hyper-strong;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474638307655;Loop Blackcurrant;loop-blackcurrant;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474637914439;Loop Fresh Spearmint Mini Hyper Strong;loop-fresh-spearmint-mini-hyper-strong;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474637881671;Loop Fresh Spearmint Hyper Strong;loop-fresh-spearmint-hyper-strong;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474638537031;Loop Creamy Cappuccino Mini;loop-creamy-cappuccino-mini;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474638504263;Loop Hot Peach Hyper Strong;loop-hot-peach-hyper-strong;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474638471495;Loop Smooth Mint Mini Hyper Strong;loop-smooth-mint-mini-hyper-strong;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474638438727;Loop Red Chili Melon Medium;loop-red-chili-melon-medium;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474638700871;Loop Ice Cool Mint;loop-ice-cool-mint;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474638668103;Loop Smooth Mint Mini Xtended;loop-smooth-mint-mini-xtended;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474638635335;Loop Wild Cherry;loop-wild-cherry;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11474638569799;Loop Smooth Mint Mega Hyper Strong;loop-smooth-mint-mega-hyper-strong;"ALL; Loop";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+10769556439367;LEO Blue Razz Zero;leo-blue-razz-zero;"ALL; LEO; LEO ZERO; Nicotinefree";TRUE;5.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+10769556373831;LEO Black Cherry Zero;leo-bleck-cherry-zero;"ALL; LEO; LEO ZERO; Nicotinefree";FALSE;5.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+10769556570439;LEO Watermelon Ice Zero;leo-watermelon-ice-zero;"ALL; LEO; LEO ZERO; Nicotinefree";TRUE;5.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+10769556504903;LEO Sour Peach Zero;leo-sour-peach-zero;"ALL; LEO; LEO ZERO; Nicotinefree";TRUE;5.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+10769556472135;LEO Freeze Ice Zero;leo-freeze-ice-zero;"ALL; LEO; LEO ZERO; Nicotinefree";TRUE;5.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+11473112695111;LEO Watermelon Ice Strong;leo-watermelon-ice-strong;"ALL; LEO";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11473112596807;LEO Freeze Ice Strong;leo-freeze-ice-strong;"ALL; LEO";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11473112498503;LEO Blue Razz Ice Strong;leo-blue-razz-ice-strong;"ALL; LEO";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11473112301895;LEO Black Ice Zero;leo-black-ice-zero;"ALL; LEO; LEO ZERO; Nicotinefree";TRUE;5.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+11473114333511;LEO Strawberry Kiwi Lime Strong;leo-strawberry-kiwi-lime-strong;"ALL; LEO";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11473113645383;LEO Black Cherry Strong;leo-black-cherry-strong;"ALL; LEO";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11473113416007;LEO Freeze Ice Max;leo-freeze-ice-max;"ALL; LEO";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11473112858951;LEO Sour Peach Strong;leo-sour-peach-strong;"ALL; LEO";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11460845928775;KLAR Mint Strong Mini;klar-mint-strong-mini;"ALL; KLAR";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11460845797703;KLAR Blank Regular Mini;klar-blank-regular-mini;"ALL; KLAR";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11460847403335;KLAR Afterglow Strong Mini;klar-afterglow-strong-mini;"ALL; KLAR";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11460847272263;KLAR Strawberry Basil Strong Mini;klar-strawberry-basil-strong-mini;"ALL; KLAR";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11460846911815;KLAR Blueberry Mint Strong Mini;klar-blueberry-mint-strong-mini;"ALL; KLAR";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11460846321991;KLAR Blank Strong Mini;klar-blank-strong-mini;"ALL; KLAR";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11460847796551;KLAR Afterglow Regular Mini;klar-afterglow-regular-mini;"ALL; KLAR";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11460847763783;KLAR Mint Regular Mini;klar-mint-regular-mini;"ALL; KLAR";FALSE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11460847665479;KLAR Strawberry Basil Regular Mini;klar-strawberry-basil-regular-mini;"ALL; KLAR";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11460847534407;KLAR Blueberry Mint Regular Mini;klar-blueberry-mint-regular-mini;"ALL; KLAR";TRUE;6.95;;pouch;EUR;zweedsesnus.com;nl
+11372905824583;77 Ghost Mini Peppermint;77-ghost-mini-peppermint;"77; ALL";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11372905693511;77 Ghost Mini Freeze Mint;77-ghost-mini-freeze-mint;"77; ALL";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11421011706183;ACE Spearmint;ace-spearmint;"ACE; ALL";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11421011542343;ACE X Black Raspberry Chili;ace-x-black-raspberry-chili;"ACE; ALL";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+11372907102535;77 Watermelon Ice;77-watermelon-ice;"77; ALL";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11372906545479;77 Raspberry Vanilla;77-raspberry-vanilla;"77; ALL";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11372906479943;77 Pink Punch;77-pink-punch;"77; ALL";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11372906316103;77 Peppermint;77-peppermint;"77; ALL";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11372906217799;77 Grape Ice;77-grape-ice;"77; ALL";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11372906053959;77 Ghost Mini Watermelon Ice;77-ghost-mini-watermelon-ice;"77; ALL";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11456547717447;Cuba Black Grape;cuba-black-grape;"ALL; CUBA";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456547651911;Cuba Black Raspberry;cuba-black-raspberry;"ALL; CUBA";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456547586375;Cuba Black Lollipop;cuba-black-lollipop;"ALL; CUBA";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456547488071;Cuba Black Apple Juice;cuba-black-apple-juice;"ALL; CUBA";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456548012359;Cuba White Cold Dry;cuba-white-cold-dry;"ALL; CUBA";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456547914055;Cuba Black Mango;cuba-black-mango;"ALL; CUBA";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456547881287;Cuba Black Tropical Fruit;cuba-black-tropical-fruit;"ALL; CUBA";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456547750215;Cuba Black Cold Dry;cuba-black-cold-dry;"ALL; CUBA";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456548241735;Cuba White Black Currant;cuba-white-black-currant;"ALL; CUBA";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456548176199;Cuba Black Blackberry;cuba-black-blackberry;"ALL; CUBA";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456548110663;Cuba White Grape;cuba-white-grape;"ALL; CUBA";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456548045127;Cuba White Apple Juice;cuba-white-apple-juice;"ALL; CUBA";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456597000519;GARANT Fresh Mint Extreme;garant-fresh-mint-extreme;"ALL; grant";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11456596967751;GARANT Freeze Extreme;garant-freeze-extreme;"ALL; grant";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11456548340039;Cuba White Peach;cuba-white-peach;"ALL; CUBA";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456548307271;Cuba White Banana Hit;cuba-white-banana-hit;"ALL; CUBA";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456597131591;GARANT Ice Cool Peppermint Extreme;garant-ice-cool-peppermint-extreme;"ALL; grant";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11456597098823;GARANT Wintergreen Extreme;garant-wintergreen-extreme;"ALL; grant";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11456597066055;GARANT Frost Berry Extreme;garant-frost-berry-extreme;"ALL; grant";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11456597033287;GARANT Cola Extreme;garant-cola-extreme;"ALL; grant";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11456597360967;GARANT Prime Wintergreen;garant-prime-wintergreen;"ALL; grant";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11456597328199;GARANT Prime Arctic Frost;garant-prime-arctic-frost;"ALL; grant";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11456597229895;GARANT Prime Ice Cool;garant-prime-ice-cool;"ALL; grant";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11456597164359;GARANT Prime Frost Berry;garant-prime-frost-berry;"ALL; grant";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11456782598471;ICEBERG Black Ultra;iceberg-black-ultra;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456782565703;ICEBERG Energy Ultra;iceberg-energy-ultra;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456597459271;GARANT Prime Extreme;garant-prime-extreme;"ALL; grant";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11456597393735;GARANT Prime Ice Cool Peppermint;garant-prime-ice-cool-peppermint;"ALL; grant";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11456782762311;ICEBERG Watermelon Mint Gum Ultra;iceberg-watermelon-mint-gum-ultra;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456782729543;ICEBERG Grape Ultra;iceberg-grape-ultra;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456782696775;ICEBERG Strawberry Banana Gum Ultra;iceberg-strawberry-banana-gum-ultra;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456782664007;ICEBERG Emerald Ultra;iceberg-emerald-ultra;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456782926151;ICEBERG Green Apple Extreme;iceberg-green-apple-extreme;"ALL; ICEBERG";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456782860615;ICEBERG Arctic Mint Extreme;iceberg-arctic-mint-extreme;"ALL; ICEBERG";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456782827847;ICEBERG Ice Cool Extreme;iceberg-ice-cool-extreme;"ALL; ICEBERG";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456782795079;ICEBERG Sweet Mint Ultra;iceberg-sweet-mint-ultra;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456783089991;ICEBERG Kiwi Strawberry Ultra;iceberg-kiwi-strawberry-ultra;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456783024455;ICEBERG Arasaka Ultra;iceberg-arasaka-ultra;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456782991687;ICEBERG Sour Berries Ultra;iceberg-sour-berries-ultra;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+11456782958919;ICEBERG Citrus Mix Extreme;iceberg-citrus-mix-extreme;"ALL; ICEBERG";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+10769556963655;RAVE Energy Bubble Gun Medium;rave-energy-bubble-gun-100mg;"Energy; RAVE";FALSE;5.95;;caffeine pouch;EUR;zweedsesnus.com;nl
+10769556308295;Velo Wintery Watermelon Zero;velo-wintery-watermelon-zero;"ALL; Nicotinefree";TRUE;5.65;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+10769556209991;Velo Bright Peppermint Zero;velo-bright-peppermint-zero;"ALL; Nicotinefree";TRUE;5.65;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+11372903563591;77 Cola & Cherry;77-cola-cherry;"77; ALL";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+10769557061959;RAVE Energy Strawberry Shake Medium;rave-energy-strawberry-shake-100mg;"Energy; RAVE";FALSE;5.95;;caffeine pouch;EUR;zweedsesnus.com;nl
+10769557029191;RAVE Energy Mint Man Medium;rave-energy-mint-man-100mg;"Energy; RAVE";FALSE;5.95;;caffeine pouch;EUR;zweedsesnus.com;nl
+10769556996423;RAVE Energy Grapper Medium;rave-energy-grapper-100mg;"Energy; RAVE";FALSE;5.95;;caffeine pouch;EUR;zweedsesnus.com;nl
+11372905169223;77 Ghost Mini Mango;77-ghost-mini-mango;"77; ALL";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11372905070919;77 Ghost Mini Cola Ice;77-ghost-mini-cola-ice;"77; ALL";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11372904218951;77 Ghost Mini Bubble Gum;77-ghost-mini-bubble-gum;"77; ALL";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11372903661895;77 Cola;77-cola;"77; ALL";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11372905595207;77 Ghost Mini Cola & Vanilla;77-ghost-mini-cola-vanilla;"77; ALL";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11372905496903;77 Bubbly Blizz;77-bubbly-blizz;"77; ALL";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11372905365831;77 Arctic Berry;77-arctic-berry;"77; ALL";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+11372905267527;77 Salted Caramel;77-salted-caramel;"77; ALL";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+8909031276871;ICEBERG Grape Gum Extreme;iceberg-limited-edition-grape-gum;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909028852039;ICEBERG Berries Extreme;iceberg-berries;"ALL; ICEBERG";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+10038060843335;ZYN Spearmint Slim Strong;zyn-spearmint-slim-strong;ZYN;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10079675547975;Zeronito Espresso Slim;zeronito-espresso-slim;"ALL; Nicotinefree; ZERONITO";TRUE;4.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+10079685542215;Zeronito Lakrits Slim;zeronito-lakrits-slim;"ALL; ZERONITO";TRUE;4.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+8909019054407;ACE X Guarana Chili;ace-x-guarana-chili-boost-20mg-g;"ACE; ALL";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8909018923335;ACE Cool Mint Low;ace-cool-mint-low;"ACE; ALL";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8909023838535;Cuba Ninja Energy;cuba-energy-ninja;"ALL; CUBA";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909023772999;Cuba Ninja Bubblegum;cuba-bubblegum-ninja;"ALL; CUBA";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909023609159;Cuba Black Ice Spearmint;cuba-black-ice-spearmint;"ALL; CUBA";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909024330055;Cuba Ninja Strawberry;cuba-ninja-strawberry;"ALL; CUBA";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909032325447;ICEBERG Ninja Orange Extreme;iceberg-ninja-orange;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909032128839;ICEBERG Menthol Extreme;iceberg-menthol-50mg-g;"ALL; ICEBERG";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909031637319;ICEBERG Gummy Bears Extreme;iceberg-gummy-bears-extreme;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909034357063;ICEBERG Watermelon Mint Gum Strong;iceberg-watermelon-mint-gum-strong;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909029081415;ICEBERG Black Extreme;iceberg-black;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909031342407;ICEBERG Grape Gum Strong;iceberg-grape-gum-strong;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909034422599;ICEBERG Wild Berries Extreme;iceberg-wild-berries-extreme;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909029507399;ICEBERG Cherry Apricot Gum Extreme;iceberg-limited-edition-cherry-apricot-gum;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909031899463;ICEBERG Kiwi Strawberry Medium;iceberg-kiwi-strawberry-20mg-g;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+10157136085319;ICEBERG Berries Light;iceberg-berries-light;ICEBERG;FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909032030535;ICEBERG Mango Banana Medium;iceberg-mango-banana-20mg-g;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909030359367;ICEBERG Double Apple Extreme;iceberg-double-apple-extreme;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909029179719;ICEBERG Black Medium;iceberg-black-20mg-g;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909034225991;ICEBERG Sweet Mint Extreme;iceberg-sweet-mint-extreme;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909032882503;ICEBERG Pineapple Coconut Mango Extreme;iceberg-pineapple-coconut-mango-extreme;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909033996615;ICEBERG Strawberry Pomegranate Extreme;iceberg-strawberry-pomgranate-extreme;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909030457671;ICEBERG Double Mint Extreme;iceberg-double-mint-extreme;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909028589895;ICEBERG Apple Lemon Pineapple Extreme;iceberg-apple-lemon-pineapple-extreme;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+10155589501255;ICEBERG Cherry Light;iceberg-cherry-light;ICEBERG;FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909034324295;ICEBERG Watermelon Mint Gum Extreme;iceberg-limited-edition-watermelon-mint-gum;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909033800007;ICEBERG Strawberry Mango Gum Extreme;iceberg-limited-edition-strawberry-mango-gum;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909031014727;ICEBERG Energy Mango Extreme;iceberg-energy-mango-extreme;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909028688199;ICEBERG Arasaka Extreme;iceberg-arasaka;"ALL; ICEBERG";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8909030687047;ICEBERG Dragon Fruit Extreme;iceberg-dragon-fruit;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909033472327;ICEBERG Sour Berries Extreme;iceberg-sour-berries-extreme;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909031768391;ICEBERG Kiwi Strawberry Extreme;iceberg-kiwi-strawberry-50mg;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+10079683248455;Zeronito Jalapeno Lime Slim;zeronito-jalapeno-lime-slim;"ALL; Nicotinefree; ZERONITO";TRUE;4.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+10131293438279;Zeronito Cola Slim;zeronito-cola-slim;"ALL; Nicotinefree; ZERONITO";TRUE;4.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+8909023576391;Cuba Black Forest Berries;cuba-black-forest-berries;"ALL; CUBA";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+9944756781383;X-Booster Cool Mint 80MG;x-booster-cool-mint-80mg;X-Booster;FALSE;4.95;;caffeine pouch;EUR;zweedsesnus.com;nl
+9944708776263;X-Booster Energy Drink 80MG;x-booster-energy-drink-80mg;X-Booster;FALSE;4.95;;caffeine pouch;EUR;zweedsesnus.com;nl
+9545646932295;PABLO Exclusive Passion Fruit;pablo-exclusive-passion-fruit;"ALL; PABLO";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+9944816058695;X-Booster Bubble Gum 40MG;x-booster-bubble-gum-40mg;X-Booster;FALSE;4.95;;caffeine pouch;EUR;zweedsesnus.com;nl
+9944814977351;X-Booster Energy Drink 40MG;x-booster-energy-drink-40mg;X-Booster;FALSE;4.95;;caffeine pouch;EUR;zweedsesnus.com;nl
+9944758583623;X-Booster Bubble Gum 80MG;x-booster-bubble-gum;X-Booster;FALSE;4.95;;caffeine pouch;EUR;zweedsesnus.com;nl
+9944757535047;X-Booster Coffee & Caramel 80MG;x-booster-coffee-caramel;X-Booster;FALSE;4.95;;caffeine pouch;EUR;zweedsesnus.com;nl
+9944818319687;X-Booster Cool Mint 40MG;x-booster-cool-mint-40mg;X-Booster;FALSE;4.95;;caffeine pouch;EUR;zweedsesnus.com;nl
+9944816877895;X-Booster Coffee & Caramel 40MG;x-booster-coffee-caramel-40mg;X-Booster;FALSE;4.95;;caffeine pouch;EUR;zweedsesnus.com;nl
+9545632317767;PABLO Exclusive grape ice;pablo-exclusive-grape-ice;PABLO;FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+10038092333383;ZYN Violet Licorice Slim Extra Strong;zyn-violet-licorice-slim-extra-strong;ZYN;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10038037545287;ZYN Red Fruits Slim;zyn-red-fruits-slim;"ALL; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10038030205255;ZYN Cool Frost Slim Extra Strong;zyn-cool-frost-slim-extra-strong;ZYN;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10038016573767;ZYN Citrus Slim Extra Strong;zyn-citrus-slim-extra-strong;ZYN;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10038013493575;ZYN Apple Mint Slim Extra Strong;zyn-apple-mint-slim-extra-strong;"ALL; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10038126936391;ZYN Black Cherry Mini 6mg;zyn-black-cherry-mini-6mg;"ALL; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10038120513863;ZYN Apple Mint Mini 6mg;zyn-apple-mint-mini-6mg;ZYN;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10038117302599;ZYN Apple Mint Mini 3mg;zyn-apple-mint-mini-3mg;"ALL; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8909065584967;ZYN Cool Mint Mini Dry Strong;zyn-cool-mint-mini-dry-strong-15mg-g;"ALL; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10039501160775;Velo Green Spearmint;velo-green-spearmint;;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10039508500807;Velo Ruby Berry Slim;velo-ruby-berry-slim;;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10039502307655;Velo Tropical Mango;velo-tropical-mango;;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10039512727879;Velo Bright Spearmint;velo-bright-spearmint-mini;;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10039511941447;Velo Purple Grape Mini;velo-purple-grape-mini;;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10039510466887;Velo Freezing Peppermint;velo-mighty-peppermint-1;;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10039509320007;Velo Salty Liquorice;velo-salty-liquorice;"ALL; VELO";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10039569154375;Velo Blue Raspberry;velo-blue-raspberry;;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10039568302407;Velo Simply Spearmint Mini;velo-simply-spearmint-mini;;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10039565877575;Velo Sour Lime Mini;velo-sour-lime-mini;;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10039564337479;Velo Purple Grape;velo-purple-grape;;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10038054224199;ZYN Red Fruits Slim Strong;zyn-red-fruits-slim-strong;ZYN;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8909065847111;ZYN Spearmint Mini;zyn-spearmint-mini-2mg-g;"ALL; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032140616007;XQS Chili Mango X-Strong;xqs-chili-mango-x-strong;XQS;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032123412807;XQS Wintergreen Light;xqs-wintergreen-light;XQS;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032112959815;XQS Arctic Freeze X-Strong;xqs-arctic-freeze-x-strong;XQS;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032105095495;XQS Arctic Freeze Ultra;xqs-arctic-freeze-ultra;XQS;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032101982535;XQS Elderflower Light;xqs-elderflower-light;XQS;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032098738503;XQS Black Cherry Slim Light;xqs-black-cherry-slim-light;XQS;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032095330631;XQS Fizzy Cola Light;xqs-fizzy-cola-light;XQS;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032090448199;XQS Tropical Light;xqs-tropical-light;XQS;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032086352199;XQS Tropical Strong;xqs-tropical-strong;"ALL; XQS";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032083927367;XQS Twin Apple Light;xqs-twin-apple-light;XQS;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032049684807;XQS Citrus Strong;xqs-citrus-strong;"ALL; XQS";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032046080327;XQS Orange Apple Slim Strong;xqs-orange-apple-slim-strong;XQS;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032043884871;XQS Elderflower Strong;xqs-elderflower-strong;XQS;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032041427271;XQS Hallonsoda Strong;xqs-hallonsoda-strong;"ALL; XQS";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032039657799;XQS Blueberry Mint Strong;xqs-blueberry-mint-strong;"ALL; XQS";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032036512071;XQS Fizzy Cola Strong;xqs-fizzy-cola-strong;XQS;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032034513223;XQS Black Cherry Slim Strong;xqs-black-cherry-slim-strong;XQS;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032031400263;XQS Orange Apple Light;xqs-orange-apple-light;XQS;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032027402567;XQS Twin Apple Strong;xqs-twin-apple-strong;XQS;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032024551751;XQS Cactus Sour Slim Light;xqs-cactus-sour-slim-light;XQS;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10031978873159;XQS Soft Toffee Light;xqs-soft-toffee-light;XQS;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10031970419015;XQS Cactus Sour Slim Strong;xqs-cactus-sour-slim-strong;XQS;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10031967469895;XQS Epic Freeze Strong;xqs-epic-freeze-strong;XQS;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10031360049479;XQS Blueberry Mint Light;xqs-blueberry-mint-light;XQS;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+9945029509447;XQS Black Cherry;xqs-black-cherry-1;XQS Free;FALSE;5.95;;caffeine pouch;EUR;zweedsesnus.com;nl
+9945027707207;XQS Tropical;xqs-tropical;XQS Free;FALSE;5.95;;caffeine pouch;EUR;zweedsesnus.com;nl
+9945024725319;XQS Citrus Cooling;xqs-citrus-cooling;XQS Free;FALSE;5.95;;caffeine pouch;EUR;zweedsesnus.com;nl
+10031353856327;KILLA Dry Passion Fruit;killa-dry-passion-fruit;KILLA;FALSE;4.50;;pouch;EUR;zweedsesnus.com;nl
+10031348187463;ZYN Spearmint Mini Dry;zyn-spearmint-mini-dry;"ALL; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10031346450759;Zeronito Blueberry Chilli Slim;zeronito-blueberry-chilli-slim;"ALL; Nicotinefree; ZERONITO";TRUE;4.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+10031350776135;ZYN Gentle Mint Slim;zyn-gentle-mint-slim;"ALL; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+10032155263303;KILLA Exclusive Strawberry Watermelon;killa-exclusive-strawberry-watermelon;KILLA;FALSE;4.50;;pouch;EUR;zweedsesnus.com;nl
+8909065486663;ZYN Cool Mint Mini Dry;zyn-cool-mint-mini-dry;"ALL; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+9502744707399;ZYN Fresh Mint Slim;zyn-fresh-mint-slim;"ALL; ZYN";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+9516701745479;Velo Breezy Mango Strong;velo-breezy-mango-strong;"ALL; VELO";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8909030588743;ICEBERG Dragon Fire Extreme;iceberg-dragon-fire-extreme;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909030293831;ICEBERG Crazy Mix Extreme;iceberg-crazy-mix-extreme;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909029376327;ICEBERG Bubblegum Extreme;iceberg-bubblegum;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909031571783;ICEBERG Guava Lime Extreme;iceberg-guava-lime-strong;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+9502772298055;Siberia All White Mini Portion;siberia-all-white-mini-portion;"ALL; Siberia";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+9502774853959;ZYN Cucumber Lime Slim;zyn-cucumber-lime-slim;"ALL; ZYN";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+9502742151495;ZYN Violet Licorice Slim Strong;zyn-violet-licorice-slim-strong;"ALL; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+9502713577799;ZYN Cool Frost Slim;zyn-cool-frost-slim;"ALL; ZYN";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+9721782567239;ZYN Black Cherry Mini 3mg;zyn-black-cherry-mini-3mg;"ALL; ZYN";TRUE;5.95;6.95;pouch;EUR;zweedsesnus.com;nl
+8909018988871;ACE X Cosmic Cool;ace-x-cosmic-cool-20mg-g;"ACE; ALL";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+9731587113287;KILLA Freeze Gold;killa-freeze-gold;"ALL; KILLA";FALSE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+9731505488199;KILLA Mini Mocca;killa-mini-mocca;"ALL; KILLA";FALSE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+9731532620103;KILLA Mini Cappuccino;killa-mini-cappuccino;"ALL; KILLA";FALSE;4.50;;pouch;EUR;zweedsesnus.com;nl
+9731612082503;KILLA Mini Banana Ice;killa-mini-banana-ice;"ALL; KILLA";FALSE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+9731629023559;KILLA White Coffee;killa-white-coffee;"ALL; KILLA";FALSE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+9731620143431;KILLA Cappuccino;killa-cappuccino;"ALL; KILLA";FALSE;4.50;;pouch;EUR;zweedsesnus.com;nl
+9502721573191;Garant Licorice Extreme;garant-licorice-extreme;"ALL; grant";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+9502902419783;Garant Pineapple Extreme;garant-pineapple-extreme;"ALL; grant";FALSE;5.50;4.95;pouch;EUR;zweedsesnus.com;nl
+9502821548359;GARANT Grape Extreme;garant-grape-extreme;"ALL; grant";TRUE;5.50;4.95;pouch;EUR;zweedsesnus.com;nl
+9502728388935;GARANT energy drink extreme;garant-energy-drink-extreme;"ALL; grant";TRUE;5.50;4.95;pouch;EUR;zweedsesnus.com;nl
+9502895604039;GARANT Raspberry Extreme;garant-raspberry-extreme;"ALL; grant";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+9502816338247;Garant Citrus Extreme;garant-citrus-extreme;"ALL; grant";FALSE;5.50;4.95;pouch;EUR;zweedsesnus.com;nl
+9502893932871;GARANT Cherry Extreme;garant-cherry-extreme;"ALL; grant";FALSE;5.50;4.95;pouch;EUR;zweedsesnus.com;nl
+8909027508551;Grant Ice Cool Extreme Edition;grant-extreme-edition-ice-cool;"ALL; GRANT";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+9731483009351;PABLO Exclusive Mocca;pablo-exclusive-mocca;"ALL; PABLO";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+9731558179143;Pablo Exclusive Liquorice;pablo-exclusive-liquorice;"ALL; PABLO";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+9731516039495;Pablo Exclusive Cappuccino;pablo-exclusive-cappuccino;"ALL; PABLO";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+9749153939783;Pablo Exclusive Blue Mint;pablo-exclusive-blue-mint;"ALL; PABLO";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+9749155512647;Pablo Exclusive Cherry Cola;pablo-exclusive-cherry-cola;"ALL; PABLO";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+9749155938631;Pablo Exclusive Blue Raspberry;pablo-exclusive-blue-raspberry;"ALL; PABLO";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+9545610002759;Pablo Exclusive Kiwi;pablo-exclusive-kiwi;"ALL; PABLO";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+9545619374407;Pablo exclusive pear;pablo-exclusive-pear;"ALL; PABLO";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+9502927978823;ZYN Cool Mint Strong;zyn-cool-mint-strong;"ALL; ZYN";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8909036912967;KILLA Strawberry Cheesecake;killa-strawberry-cheesecake;"ALL; KILLA";TRUE;4.50;;pouch;EUR;zweedsesnus.com;nl
+9721748554055;VELO Icy Cherry;velo-icy-cherry;"ALL; VELO";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8909024100679;Cuba Ninja Orange;cuba-ninja-orange;"ALL; CUBA";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8909023904071;Cuba Ninja Liquorice;cuba-liqorice-ninja;"ALL; CUBA";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8909023871303;Cuba Ninja Ice Cool;cuba-ice-cool-ninja;"ALL; CUBA";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8909024690503;Cuba Ice Spearmint;cuba-white-ice-spearmint;"ALL; CUBA";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8909024559431;Cuba Forest Berries;cuba-white-forest-berries;"ALL; CUBA";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8909024493895;Cuba Cola;cuba-white-cola;"ALL; CUBA";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+9502739136839;Cuba Black Peach;cuba-black-peach;"ALL; Cuba";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8909023641927;Cuba Black Jogurt;cuba-black-jogurt;"ALL; CUBA";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+9502748377415;Cuba Black Currant;cuba-black-currant;"ALL; Cuba";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+9516710822215;CUBA White Double Fresh;cuba-white-double-fresh;"ALL; Cuba";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+9502753096007;Cuba Black Banana Hit;cuba-black-banana-hit;"ALL; Cuba";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8909023674695;Cuba Black Watermelon;cuba-black-watermelon;"ALL; CUBA";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8909023543623;Cuba Black Cola;cuba-black-cola;"ALL; CUBA";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+9721748980039;Zeronito Exotic Slim;zeronito-exotic-slim;"ALL; Nicotinefree; ZERONITO";TRUE;4.95;4.95;nicotine-free pouch;EUR;zweedsesnus.com;nl
+8909064536391;ZERONITO Lakrits;zeronito-lakrits;"Nicotinefree; ZERONITO";TRUE;4.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+9721768149319;Zeronito Icy Mint Slim;zeronito-icy-mint-slim;"ALL; Nicotinefree; ZERONITO";TRUE;4.95;3.95;nicotine-free pouch;EUR;zweedsesnus.com;nl
+8909064503623;ZERONITO Icy Mint;zeronito-mint-1;"Nicotinefree; ZERONITO";FALSE;4.95;3.95;nicotine-free pouch;EUR;zweedsesnus.com;nl
+8909064405319;ZERONITO Enbär;zeronito-enbar;"Nicotinefree; ZERONITO";FALSE;4.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+8909064438087;ZERONITO Espresso;zeronito-espresso;"Nicotinefree; ZERONITO";FALSE;4.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+9721749438791;VELO Crispy Peppermint ZERO;velo-crispy-peppermint-zero;"ALL; Nicotinefree";FALSE;5.95;5.95;nicotine-free pouch;EUR;zweedsesnus.com;nl
+9502873321799;77 Tropical Mint Medium;77-tropical-mint-medium;"77; ALL";FALSE;5.50;5.50;pouch;EUR;zweedsesnus.com;nl
+6622100979798;77 Tropical Mint;77-tropical-mint;"77; ALL";FALSE;5.50;5.50;pouch;EUR;zweedsesnus.com;nl
+6622099538006;77 Cola & Vanilla;77-cola-vanilla;"77; ALL";FALSE;4.95;5.50;pouch;EUR;zweedsesnus.com;nl
+8909030916423;ICEBERG Energy Extreme;iceberg-energy-50-mg-g;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+9034620043591;Velo Crispy Peppermint MINI;velo-crispy-peppermint-mini;"ALL; VELO";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+9034616930631;Velo Breezy Mango;velo-breezy-mango;"ALL; VELO";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+9034615193927;Velo Blushy Berry;velo-blushy-berry;"ALL; VELO";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+9034629873991;Velo Lofty Liquorice;velo-lofty-liquorice;"ALL; VELO";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+9034628006215;Velo Lime Flame;velo-lime-flame;"ALL; VELO";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+9034624500039;Velo Groovy Grape;velo-groovy-grape;"ALL; VELO";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+9034621223239;Velo Crispy Peppermint;velo-crispy-peppermint;"ALL; VELO";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+9034640654663;Velo Mighty Peppermint;velo-mighty-peppermint;"ALL; VELO";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+9034637476167;Velo Mighty Peppermint ULTRA;velo-mighty-peppermint-ultra;"ALL; VELO";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+9034636001607;Velo Mighty Peppermint MAX;velo-mighty-peppermint-max;"ALL; VELO";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+9034632069447;Velo Mango Flame;velo-mango-flame;"ALL; VELO";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+9034649731399;Velo Peppermint Storm;velo-peppermint-storm;"ALL; VELO";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+9034647732551;Velo Orange Spark;velo-orange-spark;"ALL; VELO";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+9034645832007;Velo Spiffy Spearmint MINI;velo-spiffy-spearmint-mini;"ALL; VELO";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+9034644291911;Velo Groovy Grape MINI;velo-groovy-grape-mini;"ALL; VELO";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+9034670833991;Velo Witty Spearmint;velo-witty-spearmint;"ALL; VELO";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+9034668441927;Velo Twisted Pineapple;velo-twisted-pineapple;"ALL; VELO";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+9034666082631;Velo Tropic Breeze Zero;velo-tropic-breeze-zero;"ALL; Nicotinefree";TRUE;5.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+9034651271495;Velo Tangled Berry;velo-tangled-berry;"ALL; VELO";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+9034697802055;Velo Zesty Elderflower;velo-zesty-elderflower;"ALL; VELO";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+9034695344455;Velo Wintery Watermelon MINI;velo-wintery-watermelon-mini;"ALL; VELO";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+9034692690247;Velo Zingy Eucalyptus;velo-zingy-eucalyptus;"ALL; VELO";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+9034680074567;Velo Zest Flame;velo-zest-flame;"ALL; VELO";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+9034613031239;Velo Arctic Grapefruit;velo-artic-grapefruit;"ALL; VELO";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8909033603399;ICEBERG Strawberry Banana Gum Extreme;iceberg-limited-edition-strawberry-banana-gum;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909033013575;ICEBERG Raspberry Gum Extreme;iceberg-limited-edition-rasberry-gum;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909028720967;ICEBERG Arasaka Medium;iceberg-arasaka-20mg-g;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909029802311;ICEBERG Coco Jambo Extreme;iceberg-coco-jambo;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8909031964999;ICEBERG Mango Banana Extreme;iceberg-mango-banana;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8966809387335;Siberia All White Ultra Slim;siberia-all-white-ultra-slim;"ALL; Siberia";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8966806012231;Velo Icy Berries;velo-icy-berries;"ALL; VELO";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8966805651783;Velo Humble Spearmint MINI;velo-humble-spearmint-mini;"ALL; VELO";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8457437249863;Siberia All White Long;siberia-all-white-long;"ALL; Siberia";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8457438036295;Siberia All White Maxi;siberia-all-white-maxi;"ALL; Siberia";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8891115995463;Velo Punchy Lime MINI;velo-punchy-lime-mini;"ALL; VELO";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8891115929927;Velo Cool Storm Zero;velo-zero-cool-storm;"ALL; Nicotinefree; VELO";FALSE;5.95;5.95;nicotine-free pouch;EUR;zweedsesnus.com;nl
+8891115766087;Velo Ice Cool Zero;velo-zero-ice-cool;"ALL; Nicotinefree; VELO";FALSE;5.95;5.95;nicotine-free pouch;EUR;zweedsesnus.com;nl
+8891118420295;Velo Cinnamon Flame Heating;velo-cinnamon-flame-heating;"ALL; VELO";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8891118190919;Velo Frozen Cloudberry;velo-frozen-cloudberry;"ALL; VELO";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8891117109575;Velo McLaren Watermelon Mint;velo-mclaren-watermelon-mint;"ALL; VELO";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8891116486983;Velo Nutty Virginia MINI;velo-nutty-virginia-mini;"ALL; VELO";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8442912440647;Cuba Watermelon;cuba-watermelon;"ALL; Cuba";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8442918273351;Siberia All White Slim;siberia-all-white-slim;"ALL; Siberia";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8399696036167;Velo Iced Melon MINI;velo-iced-melon-mini;ALL;TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8399696265543;Velo Royal Purple;velo-royal-purple;ALL;TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8399696593223;Velo Fresh Jalapeño;velo-fresh-jalapeno;"ALL; VELO";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8399696691527;Velo Frosty Grapefruit;velo-frosty-grapefruit;ALL;FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8378795163975;Cuba Black Cheese;cuba-black-cheese;"ALL; Cuba";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8378795524423;Cuba Coca Leaf;cuba-coca-leaf;"ALL; Cuba";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8378801520967;Cuba Pineapple;cuba-pineapple;"ALL; Cuba";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8378802307399;Cuba Blueberry;cuba-blueberry;"ALL; Cuba";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8378802831687;Cuba Black Pineapple;cuba-black-pineapple;"ALL; Cuba";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8378803388743;Cuba Black Cherry;cuba-black-cherry;"ALL; Cuba";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8378803847495;Cuba Black Blueberry;cuba-black-blueberry;"ALL; Cuba";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8378804404551;Cuba Black;cuba-black;"ALL; Cuba";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8378807943495;Cuba White;cuba-white;"ALL; Cuba";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8378808598855;Cuba Cherry;cuba-cherry;"ALL; Cuba";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8378792968519;Otis Rush Mint;otis-rush-mint;"ALL; OTIS";FALSE;3.50;;pouch;EUR;zweedsesnus.com;nl
+8378791559495;ICEBERG Frosty Mint Strong;iceberg-frosty-mint-extra-strong;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8378709934407;ICEBERG Cherry;iceberg-cherry;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8378710491463;ICEBERG Grape;iceberg-grape;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8378712228167;ICEBERG Cola Strong;iceberg-cola-extra-strong;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8378793525575;Grant Mango Lime Extreme Edition;grant-mango-lime-extreme-edition;"ALL; grant";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8378793722183;Grant Ice Peach Extreme Edition;grant-ice-peach-extreme-edition;"ALL; grant";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8378794344775;Grant Ice Blueberry Extreme Edition;grant-ice-blueberry-extreme-edition;"ALL; grant";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8378805092679;LYFT Cool Eucalyptus Strong;lyft-cool-eucalyptus-strong;"ALL; lyft";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8378805616967;LYFT Yuzu Cactus;lyft-yuzu-cactus;"ALL; lyft";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8378806436167;LYFT Eucalyptus Honey;lyft-eucalyptus-honey;"ALL; lyft";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8144563601681;Siberia All White Extremely Strong;siberia-all-white-extremely-strong;"ALL; Siberia";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8144560849169;Velo Cool Storm;velo-cool-storm;ALL;TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8144560357649;Velo Freeze ULTRA;velo-freeze-ultra;ALL;TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8144557113617;Velo Freeze MAX;lyf;ALL;TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8107833262353;PABLO Mini Ice Cold;pablo-ice-cold-mini;"ALL; PABLO";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8103116013841;PABLO Mini X Ice Cold;pablo-x-ice-cold-mini;"ALL; PABLO";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8103114014993;PABLO Exclusive Strawberry Lychee;pablo-strawberry-lychee-exclusive;"ALL; PABLO";TRUE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8103112769809;PABLO Exclusive Strawberry Cheesecake;pablo-strawberry-cheesecake-exclusive;"ALL; PABLO";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8103111491857;PABLO Exclusive Mango Ice;pablo-mango-ice-exclusive;"ALL; PABLO";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8103066239249;PABLO Exclusive Frosted Mint;pablo-frosted-mint-exclusive;"ALL; PABLO";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8103037763857;PABLO Exclusive Frosted Ice;pablo-frosted-ice-exclusive;"ALL; PABLO";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8103005225233;PABLO Exclusive Bubblegum;pablo-bubblegum-exclusive;"ALL; PABLO";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8103004143889;PABLO Exclusive Banana Ice;pablo-banana-ice-exclusive;"ALL; PABLO";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+8102993920273;KILLA Mini Mango Ice;killa-mango-ice-mini;"ALL; KILLA";FALSE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+8102992806161;KILLA Mini Frosted Mint;killa-frosted-mint-mini;"ALL; KILLA";FALSE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+8102991429905;KILLA Mini Cold Mint;killa-cold-mint-mini;"ALL; KILLA";FALSE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+8102988939537;Killa Mini Blueberry;killa-blueberry-mini;"ALL; KILLA";FALSE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+8102987333905;KILLA Strawberry Lychee;killa-strawberry-lychee;"ALL; KILLA";TRUE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+8102986678545;KILLA Mango Ice;killa-mango-ice;"ALL; KILLA";TRUE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+8102985564433;KILLA Grape Ice;killa-grape-ice;"ALL; KILLA";TRUE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+8102976356625;KILLA Frosted Mint;killa-frosted-mint;"ALL; KILLA";TRUE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+8102973964561;KILLA Bubblegum;killa-bubblegum;"ALL; KILLA";TRUE;4.50;;pouch;EUR;zweedsesnus.com;nl
+8102968197393;KILLA Banana Ice;killa-banana-ice;"ALL; KILLA";TRUE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+8073090171153;Shiro 03 Tingling Mint Low;shiro-03-tingling-mint-low;"ALL; SHIRO";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+8073088008465;ZYN Violet Licorice;zyn-violet-licorice;"ALL; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8073085059345;VOLT Spearmint Breeze;volt-spearmint-breeze;"ALL; VOLT";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8073081389329;77 Fresh Mint Medium;77-fresh-mint-medium;"77; ALL";FALSE;5.50;5.50;pouch;EUR;zweedsesnus.com;nl
+8073077195025;RABBIT Ice Hemp;rabbit-ice-hemp;"ALL; RABBIT";FALSE;4.95;5.50;pouch;EUR;zweedsesnus.com;nl
+8073075917073;RABBIT Blue Ice;rabbit-blue-ice;"ALL; RABBIT";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8073074802961;RABBIT Pepper Mint;rabbit-pepper-mint;"ALL; RABBIT";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+8073054617873;BIT Orange Ice;bit-orange-ice;"ALL; BIT";FALSE;3.95;;pouch;EUR;zweedsesnus.com;nl
+8073053405457;BIT Tropic Mix;bit-tropic-mix;"ALL; BIT";FALSE;3.95;;pouch;EUR;zweedsesnus.com;nl
+8073052127505;BIT Ice Mint;bit-ice-mint;"ALL; BIT";FALSE;3.95;;pouch;EUR;zweedsesnus.com;nl
+8073048457489;BIT Fresh Mint;bit-fresh-mint;"ALL; BIT";FALSE;3.95;;pouch;EUR;zweedsesnus.com;nl
+8047318171921;Velo Spicy Pineapple;velo-spicy-pineapple;"ALL; VELO";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8047331639569;Siberia All White Super Slim;siberia-all-white-super-slim;"ALL; Siberia";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8047324102929;Velo Eucalyptus;velo-eucalyptus;ALL;FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+8047230189841;Skruf Superwhite No.71 Purple Cassice;skruf-superwhite-no-71-purple-cassice;"ALL; SKRUF";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8047297855761;Skruf Superwhite No.66 Fresh Mint Max;skruf-superwhite-no-66-fresh-mint-max;"ALL; SKRUF";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8047242051857;Skruf Superwhite No.63 Purple Cassice Strong;skruf-superwhite-no-63-purple-cassice-strong;"ALL; SKRUF";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8046878884113;Skruf Superwhite No.62 Indigo Berry;skruf-superwhite-no-62-indigo-berry;"ALL; SKRUF";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8047236481297;Skruf Superwhite No.60 Frozen Mint Xtra Strong;skruf-superwhite-no-60-frozen-mint-xtra-strong;"ALL; SKRUF";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8047220949265;Skruf Superwhite No.58 Nordic Liquorice Xtra Strong;skruf-superwhite-no-58-nordic-liquorice-xtra-strong;"ALL; SKRUF";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8047300215057;Skruf Superwhite No.57 Polar Eucalyptus;skruf-superwhite-no-57-polar-eucalyptus;"ALL; SKRUF";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8047233106193;Skruf Superwhite No.56 Nordic Liquorice;skruf-superwhite-no-56-nordic-liquorice;"ALL; SKRUF";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8047287107857;Skruf Superwhite No.55 Fresh Mint Ultra Strong;skruf-superwhite-no-55-fresh-mint-ultra-strong;"ALL; SKRUF";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8047284879633;Skruf Superwhite No.54 Fresh Mint Xtra Strong;skruf-superwhite-no-54-fresh-mint-xtra-strong;"ALL; SKRUF";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8047282848017;Skruf Superwhite No.53 Fresh Mint Strong;skruf-superwhite-no-53-fresh-mint-strong;"ALL; SKRUF";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+8047276523793;SKRUF FRESH MINT S2;skruf-superwhite-no-52-fresh-mint;"ALL; SKRUF";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6800780886102;Velo Wild Lavender LIMITED;velo-wild-lavender-limited;"ALL; VELO";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6800757391446;Velo Ice Cool Mint MINI;velo-ice-cool-mint-mini;ALL;TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6756490215510;Velo Royal Purple MINI;velo-royal-purple-mini;ALL;TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6756508598358;Velo Royal Tea;velo-royal-tea;"ALL; VELO";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6764883673174;Lyft Barista Twist Strong SLIM;lyft-barista-twist-strong-slim;"ALL; lyft";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6764883640406;LYFT Barista Twist SLIM;lyft-barista-twist-slim;"ALL; lyft";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6764883607638;LYFT Just Bloom Strong SLIM;lyft-just-bloom-strong-slim;"ALL; lyft";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6764883542102;LYFT Just Bloom SLIM;lyft-just-bloom-slim;"ALL; lyft";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6764883509334;LYFT Cool Air Strong SLIM;lyft-cool-air-strong-slim;"ALL; lyft";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6764883116118;LYFT Cool Air SLIM;lyft-cool-air-slim;"ALL; lyft";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6750039375958;Onico Peppermint White;onico-peppermint-white;"ALL; ONICO";FALSE;5.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+6750039048278;Onico Original;onico-original;"ALL; ONICO";FALSE;5.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+6750038818902;Onico Licorice;onico-licorice;"ALL; ONICO";FALSE;5.95;;nicotine-free pouch;EUR;zweedsesnus.com;nl
+6756467638358;Velo Winter Chill;velo-winter-chill;"ALL; VELO";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6756480876630;Velo Tropic Breeze MINI;velo-tropic-breeze-mini-1;;FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6756464984150;Velo Tropic Breeze;velo-tropic-breeze;"ALL; VELO";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6756467245142;Velo Tokyo Zing;velo-tokyo-zing;;FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6756486774870;Velo Ruby Berry;velo-ruby-berry;ALL;TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6756463280214;Velo Mint;velo-mint;ALL;TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6756494475350;Velo Liqourice;velo-liqourice;ALL;TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6756455776342;Velo Ice Cool;velo-ice-cool;;TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6756454236246;Velo Freeze;velo-freeze;;TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6756506107990;Velo Elderflower Spritz;velo-elderflower-spritz;ALL;TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6756497915990;Velo Easy Mint MINI;velo-easy-mint-mini;ALL;TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6756503519318;Velo Creamy Coffee MINI;velo-creamy-coffee-mini;ALL;FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6756500635734;Velo Caribbean Spirit;velo-caribbean-spirit;ALL;FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6750035902550;Shiro 06 Sour Red Berry MEDIUM SLIM;shiro-06-sour-red-berry-medium-slim;"ALL; SHIRO";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+6750028398678;SHIRO 06 Sour Red Berry MEDIUM MINI;shiro-06-sour-red-berry-medium-mini;"ALL; SHIRO";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+6750027186262;SHIRO 03 Tingeling Mint EXTRA STRONG;shiro-03-tingeling-mint-extra-strong;"ALL; SHIRO";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+6750026596438;Shiro 02 Cooling Mint STRONG;shiro-02-cooling-mint-strong;"ALL; SHIRO";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+6750025842774;Shiro 01 Fresh Mint MEDIUM SLIM;shiro-01-fresh-mint-medium-slim;"ALL; SHIRO";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+6750023155798;Shiro 01 Fresh Mint LOW MINI;shiro-01-fresh-mint-low-mini;"ALL; SHIRO";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+6714310459478;PABLO Red;pablo-red;"ALL; PABLO";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+6722959671382;Zeronito Mint;zeronite-mint;"Nicotinefree; ZERONITO";FALSE;4.95;;caffeine pouch;EUR;zweedsesnus.com;nl
+6722961244246;Zeronito Stark;zeronite-stark;"Nicotinefree; ZERONITO";FALSE;4.95;;caffeine pouch;EUR;zweedsesnus.com;nl
+6722958164054;Zeronito Melon Rush;zeronito-melon-rush;"Nicotinefree; ZERONITO";FALSE;4.95;;caffeine pouch;EUR;zweedsesnus.com;nl
+5009288298582;ZYN Citrus Mini Dry Strong;zyn-citrus-mini-dry-sterk;"ALL; ZYN";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6688855031894;BLCK Spearmint;blck-spearmint;"ALL; BLCK";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+6688586498134;ICEBERG Watermeloen;iceberg-watermeloen;"ALL; ICEBERG";FALSE;4.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6688595673174;ICEBERG Blueberry;iceberg-blueberry;"ALL; ICEBERG";FALSE;4.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6688602456150;ICEBERG Bubble Gum;iceberg-bubble-gum;"ALL; ICEBERG";FALSE;4.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6688568803414;ICEBERG Cola;iceberg-cola;"ALL; ICEBERG";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+6688591642710;ICEBERG COOL MINT;iceberg-cool-mint;"ALL; ICEBERG";FALSE;4.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6688578306134;ICEBERG Energy;iceberg-energy;"ALL; ICEBERG";FALSE;4.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6688575881302;ICEBERG Freeze;iceberg-freeze;"ALL; ICEBERG";FALSE;4.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6609796726870;LIP Melon Twist;lip-melon-twist;;FALSE;5.25;;pouch;EUR;zweedsesnus.com;nl
+6609796005974;LIP Minty Dream;lip-minty-dream;;FALSE;5.25;;pouch;EUR;zweedsesnus.com;nl
+6609796399190;LIP Blue Frost;lip-blue-frost;;FALSE;5.25;;pouch;EUR;zweedsesnus.com;nl
+6609795711062;LIP Berry Blast;lip-berry-blast;;FALSE;5.25;;pouch;EUR;zweedsesnus.com;nl
+6561706410070;V&YOU FOCUS Berry;v-you-focus-berry;;FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+6561706508374;V&YOU FOCUS Citrus;v-you-focus-citrus;;FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+6561706704982;V&YOU FOCUS Mint;v-you-focus-mint;;FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+6561706442838;V&YOU BOOST Citrus;v-you-boost-citrus;;FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+6561705951318;V&YOU BOOST Berry;v-you-boost-berry;;FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+6623557124182;ACE Green Lemon;ace-green-lemon-1;"ACE; ALL";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6601198338134;SKRUF Nordic #4;skruf-nordic-4;;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6599763525718;OrangeMan Artic Tea;orangeman-artic-tea;;FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+6599765917782;OrangeMan Energy + Fruit punch;orangeman-energy-fruit-punch;;FALSE;5.50;5.50;pouch;EUR;zweedsesnus.com;nl
+6599764377686;OrangeMan Menthol + Eucalyptus Xtreme;orangeman-menthol-eucalyptus-xtreme;;FALSE;4.50;5.95;pouch;EUR;zweedsesnus.com;nl
+6599764803670;OrangeMan Menthol Crush Xtreme;orangeman-menthol-crush-xtreme;;FALSE;4.50;5.50;pouch;EUR;zweedsesnus.com;nl
+6599763820630;OrangeMan Apple + Wintergreen Xtreme;orangeman-apple-wintergreen;;FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+6599765196886;OrangeMan Mint + Polka;orangeman-mint-polka;;FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+5006143422550;LIPS Strawberry;lips-strawberry;"ALL; LIPS";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+5006143193174;LIPS Original;lips;"ALL; LIPS";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+5006131134550;ZYN Espressino Strong;zyn-espressino-strong;"ALL; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6577827807318;ZYN Bellini Mini Dry;zyn-bellini-mini-dry;"ALL; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6596547805270;LYFT Tropic Breeze MINI;lyft-tropic-breeze-mini;lyft;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6596544692310;LYFT Midsummer Night SLIM;lyft-midsummer-night-limited-edition-slim;lyft;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6596547280982;LYFT Morning Bloom SLIM;lyft-morning-bloom;lyft;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6540335906902;Beginners MIXPACK;beginner-mixpack;;FALSE;19.95;24.95;pouch;EUR;zweedsesnus.com;nl
+6579183157334;SKRUF Super White #2;skruf-super-white-2;;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6576363307094;LYFT Tokyo Zing;lyft-tokyo-zing;lyft;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6576362782806;SKRUF Super White #5;skruf-super-white-5;;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6577813848150;KILLA Pineapple;killa-pineapple;"ALL; KILLA";TRUE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+6577812963414;KILLA Apple;killa-apple;"ALL; KILLA";TRUE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+6571354390614;Loop Habanero Mint;loop-habanero-mint;"ALL; Loop";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+6571354488918;Loop Mango Tango;loop-mango-tango;"ALL; Loop";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+6571055579222;LYFT Neon Static;lyft-neon-static;lyft;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+6560623231062;ZAFARI Sunset Mango;zafari-sunset-mango;"ALL; ZAFARI";FALSE;4.50;5.50;pouch;EUR;zweedsesnus.com;nl
+6560623362134;ZAFARI Red Sea Orange;zafari-red-sea-orange;"ALL; ZAFARI";FALSE;4.50;5.50;pouch;EUR;zweedsesnus.com;nl
+6560623493206;ZAFARI Desert Mint;zafari-desert-mint;"ALL; ZAFARI";FALSE;4.50;5.50;pouch;EUR;zweedsesnus.com;nl
+6560623296598;ZAFARI Carribean Guava;zafari-carribean-guava;"ALL; ZAFARI";FALSE;4.50;5.50;pouch;EUR;zweedsesnus.com;nl
+6560623034454;ZAFARI Breezy Citrus;zafari-breezy-citrus;"ALL; ZAFARI";FALSE;4.50;5.50;pouch;EUR;zweedsesnus.com;nl
+5009287544918;ZYN Citrus Mini Dry;zyn-citrus-mini-dry;"ALL; ZYN";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+5006456127574;PURE ICE Fresh Mint;pure-ice-fresh-mint;;FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+5006455275606;ACTIV Generation;activ-generation;;FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+5006457143382;ACE Cool Mint-X;ace-cool-mint-x;"ACE; ALL";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+6551801135190;EXTREME X-Lime;extreme-x-lime;"ALL; EXTREME";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+6551801725014;EXTREME X-Iceberry;extreme-x-iceberry;"ALL; EXTREME";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+6551801659478;EXTREME X-Freeze;extreme-x-freeze;"ALL; EXTREME";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+6551801495638;EXTREME X-Cold;extreme-x-cold;"ALL; EXTREME";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+5009375166550;BLCK Melon;blck-melon;"ALL; BLCK";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+5007860727894;LYFT Caribbean Spirit SLIM;lyft-caribbean-spirit;"ALL; lyft";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4975549939798;77 Black Currant;77-black-currant;"77; ALL";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4945601724502;77 Apple Mint;77-apple-mint;"77; ALL";TRUE;5.50;5.50;pouch;EUR;zweedsesnus.com;nl
+5009223286870;LYFT Easy Mint MINI;lyft-easy-mint-mini;"ALL; lyft";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+5006481293398;77 Fresh Mint;77-fresh-mint-extra-sterk;"77; ALL";FALSE;5.50;5.50;pouch;EUR;zweedsesnus.com;nl
+4975535620182;77 Strawberry;77-strawberry;"77; ALL";TRUE;5.50;5.50;pouch;EUR;zweedsesnus.com;nl
+4975547875414;77 Raspberry;77-raspberry;"77; ALL";FALSE;5.50;5.50;pouch;EUR;zweedsesnus.com;nl
+4975546269782;77 Peach & Mint;77-peach-mint;"77; ALL";TRUE;5.50;5.50;pouch;EUR;zweedsesnus.com;nl
+5006475100246;77 Forest Fruits Medium;77-forest-fruits-extra-sterk;"77; ALL";TRUE;5.50;5.50;pouch;EUR;zweedsesnus.com;nl
+4975551840342;77 Classic Tobacco;77-classic-tobacco;"77; ALL";FALSE;5.50;5.50;pouch;EUR;zweedsesnus.com;nl
+4986962018390;BLCK Cola;blck-cola;"ALL; BLCK";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+4986957594710;BLCK Cold Mint;blck-cold-mint;"ALL; BLCK";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+4986959790166;BLCK Watermelon;blck-watermelon;"ALL; BLCK";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+4986961068118;BLCK Blueberry;blck-blueberry;"ALL; BLCK";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+4975558066262;EXTREME Lime Paradise;extreme-lime-paradise;"ALL; EXTREME";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+4975560425558;EXTREME Fruit Vibes;extreme-fruit-vibes;"ALL; EXTREME";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+4975555903574;EXTREME Neuron Freeze;extreme-neuron-freeze;"ALL; EXTREME";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+4975561867350;EXTREME Arctic Mint;extreme-arctic-mint;"ALL; EXTREME";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+4945551229014;KILLA Spearmint;killa-spearmint;"ALL; KILLA";TRUE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+4945579180118;VELO Ice Cool Strong;velo-ice-cool-strong;;FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+4945580097622;VELO Polar Mint;velo-polar-mint;;FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+4945581244502;VELO Tropic Breeze X Strong;velo-tropic-breeze-x-strong;;FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+4945584324694;VELO Freeze X Strong;velo-x-freeze-strong;;FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+4945691869270;VELO X Freeze Ultra;velo-x-freeze-ultra;;FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+4945588420694;SWAVE Daiquiri;swave-daiquiri;;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4945589239894;SWAVE Tropic Spritz;swave-tropic-spritz;;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4836203528278;Loop Jalapeno Lime;loop-jalapeno-lime;"ALL; Loop";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4836208017494;Loop Salty Ludicris;loop-salty-ludicris;"ALL; Loop";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4836206280790;Loop Sicily Spritz;loop-sicily-spritz;"ALL; Loop";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4836205428822;Loop Mint Mania Strong;loop-mint-mania-strong;"ALL; Loop";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4836204445782;Loop Mint Mania;loop-mint-mania;"ALL; Loop";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4836250353750;77 Ice Mint;77-ice-mint-sterk;"77; ALL";FALSE;5.50;5.50;pouch;EUR;zweedsesnus.com;nl
+4836249108566;77 Fresh Mint Strong;77-fresh-mint-sterk;"77; ALL";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4836250091606;77 Forest Fruits Light;77-forest-fruits-sterk;"77; ALL";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4945685413974;Lyft Royal Purple MINI;lyft-mini-royal-purple;"ALL; lyft";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+4945670176854;LYFT London Flair SLIM;lyft-london-flair;;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4945660772438;ON! Berry 8mg;on-berry-8mg;"ALL; ON!";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4945606705238;Nordic Spirit Spearmint Intense;nordic-spirit-spearmint-slim;"ALL; Nordic Spirit";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4945596612694;ZYN Spearmint;zyn-spearmint;"ALL; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4945573675094;White Fox Peppered Mint;white-fox-peppered-mint;"ALL; WHITE FOX";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4945571971158;SNOW Red Breeze;snow-red-breeze;;FALSE;5.25;;pouch;EUR;zweedsesnus.com;nl
+4945570529366;SNOW Green Breeze;snow-green-breeze;;FALSE;5.25;;pouch;EUR;zweedsesnus.com;nl
+4945564237910;SNOW Blue Breeze;snow-blue-breeze;;FALSE;5.25;;pouch;EUR;zweedsesnus.com;nl
+4945558175830;Shiro Pina Colada;shiro-pina-colada;"ALL; SHIRO";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4945553588310;Shiro Mojito;shiro-mojito;"ALL; SHIRO";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4945553424470;Shiro Cuba Libre;shiro-cuba-libre;"ALL; SHIRO";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4945552408662;LYFT Blonde Roast SLIM;lyft-blonde-roast;lyft;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4571348828246;SKRUF Blueberry;skruf-blueberry;;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+3590695551062;ZYN Apple Mint;zyn-apple-mint;"ALL; nicotine; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4571347058774;SKRUF Polar;skruf-polar;;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+3551484084310;KILLA Cola;killa-cola-extreme;"ALL; KILLA";FALSE;4.50;;pouch;EUR;zweedsesnus.com;nl
+4813676904534;PABLO X Ice Cold;pablo-x-ice-cold;"ALL; PABLO";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+4700580151382;ACE Citrus;ace-citrus;"ACE; ALL";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+4813712392278;Grant Orange;grant-orange;"ALL; grant";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+4813715341398;Grant Mint;grant-mint;"ALL; grant";FALSE;4.95;;pouch;EUR;zweedsesnus.com;nl
+4813716488278;Grant Melon;grant-melon;"ALL; grant";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+4813713604694;Grant Ice Cool;grant-ice-cool;"ALL; grant";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+4813709541462;Grant Hemp;grant-hemp;"ALL; grant";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+4813714358358;Grant Extreme Edition;grant-extreme-edition;"ALL; grant";TRUE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+4829368680534;Lyft Urban Vibe Storm;lyft-urban-vibe-storm;lyft;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4829366091862;Lyft Storm Ultra;lyft-storm-ultra;lyft;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4817615847510;Nordic Spirit Berry & Stripes;nordic-spirit-berry-stripes;Nordic Spirit;FALSE;5.95;6.25;pouch;EUR;zweedsesnus.com;nl
+4817841520726;SKRUF Super White #4;skruf-super-white-strong-1;;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4813717962838;ON! Mint 8mg;on-mint-8mg;"ALL; ON!";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4815934980182;ZYN Espressino;zyn-espressino;"ALL; ZYN";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+4813683785814;White Fox Black Edition;white-fox-black-edition;"ALL; WHITE FOX";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4813681885270;ZYN Northern Woods;zyn-northern-woods;"ALL; ZYN";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4813682868310;ZYN Dark Frost;zyn-dark-frost;"ALL; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4813673988182;ACE Liquorice;ace-liquorice;"ACE; ALL";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+4813680738390;SKRUF Solbaer;skruf-solbear;;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4813679788118;Lyft Summer Beat;lyft-summer-beat;lyft;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4813678084182;Lyft Ruby Berry SLIM;lyft-ruby-berry;"ALL; lyft";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+4670360485974;KILLA X Cold Mint;killa-x-cold-mint;"ALL; KILLA";TRUE;4.50;;pouch;EUR;zweedsesnus.com;nl
+4635005419606;SKRUF Nordic #2;skruf-nordic;;FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+4635003355222;LYFT Easy Mint SLIM;lyft-easy-mint;lyft;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+3551497125974;KILLA Fusion;killa-fusion-extreme;"ALL; KILLA";FALSE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+4622083457110;Shiro Sweet Mint;shiro-sweet-mint;"ALL; SHIRO";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4622081032278;Shiro Virginia Classic;shiro-virginia-classic;"ALL; SHIRO";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4622065500246;Shiro True North;shiro-true-north;"ALL; SHIRO";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4622063042646;Shiro Cool Mint;shiro-cool-mint;"ALL; SHIRO";FALSE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4605546856534;Nordic Spirit Spearmint Intense Strong;nordic-spirit-spearmint-intense;"ALL; Nordic Spirit";FALSE;5.95;6.25;pouch;EUR;zweedsesnus.com;nl
+4605538762838;Nordic Spirit Smooth Mint;nordic-spirit-smooth-mint;"ALL; Nordic Spirit";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4605534339158;Nordic Spirit Elderflower;nordic-spirit-elderflower;"ALL; Nordic Spirit";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+4605530374230;Nordic Spirit Berry Citrus;nordic-spirit-berry-citrus;"ALL; Nordic Spirit";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+4603828535382;ON! Koffie 3mg;on-koffie-3mg;"ALL; ON!";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4603827716182;ON! Koffie 6mg;on-koffie-6mg;"ALL; ON!";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4603822407766;ON! Citrus 6mg;on-citrus;"ALL; ON!";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4603814117462;ON! Mint 6mg;on-mint-6mg;"ALL; ON!";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4603811692630;ON! Mint 3mg;on-mint-3mg;"ALL; ON!";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4603808219222;ON! Licorice 6mg;on-licorice-6mg;"ALL; ON!";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4603801469014;ON! Licorice 3mg;on-licorice-3mg;"ALL; ON!";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4571511947350;ZYN Cool Mint;zyn-cool-mint;"ALL; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4571351285846;SKRUF Frozen Shot;skruf-frozen-shot;;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4571335032918;ZYN Blood Orange;zyn-blood-orange;"ALL; ZYN";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4463612788822;ZYN Lemon Spiritz;zyn-lemon-spiritz;"ALL; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4571317272662;ZYN Deep Freeze;zyn-deep-freeze;"ALL; ZYN";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4565688746070;ACE Extreme Cool;ace-extreme-cool;"ACE; ALL";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4565681045590;LYFT Urban Vibe SLIM;lyft-urban-vibe;lyft;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+4560401334358;ACE Cool Mint;ace-cool-mint;"ACE; ALL";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+4560386064470;ACE Eucalyptus;ace-eucalyptus;"ACE; ALL";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+4499216007254;White Fox Double Mint;white-fox-double-mint;"ALL; WHITE FOX";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4499213221974;White Fox Full Charge;white-fox-full-charge;"ALL; WHITE FOX";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4499132383318;White Fox Mint;white-fox-mint;"ALL; WHITE FOX";TRUE;5.50;;pouch;EUR;zweedsesnus.com;nl
+4463602892886;KILLA Melon Extreme;killa-melon;"ALL; KILLA";TRUE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+4463596568662;SKRUF Super White #3;skruf-super-white-strong;;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+3590572703830;SKRUF Cassice;skruf-cassice;;TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+3590546718806;SKRUF Red Rhuby;skruf-red-rhuby;;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+3585719861334;PABLO Ice Cold;killa-pablo;"ALL; PABLO";FALSE;4.95;4.95;pouch;EUR;zweedsesnus.com;nl
+3551496208470;KILLA Blueberry;killa-blueberry;"ALL; KILLA";TRUE;4.50;;pouch;EUR;zweedsesnus.com;nl
+3590674579542;ZYN Citrus;zyn-citrus;"ALL; ZYN";TRUE;5.95;;pouch;EUR;zweedsesnus.com;nl
+3585757577302;LYFT Mint SLIM;lyft-mint;"ALL; lyft";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+3585755218006;LYFT Berry Frost SLIM;lyft-berry-frost;lyft;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+3585667039318;KILLA Watermelon;killa-watermelon;"ALL; KILLA";TRUE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+3551412322390;LYFT Liquorice SLIM;lyft-liquorice-slim-strong;"ALL; lyft";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+3551525142614;KILLA Redbull;killa-redbull;"ALL; KILLA";FALSE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+3551486607446;KILLA 13;killa-13-extreme;"ALL; KILLA";TRUE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+3551467700310;KILLA Cold Mint;killa-cold-mint;"ALL; KILLA";FALSE;4.50;4.50;pouch;EUR;zweedsesnus.com;nl
+3551421136982;LYFT Tropic SLIM;lyft-tropic-breeze-slim;"ALL; lyft";FALSE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+3551413403734;LYFT Blueberry SLIM;lyft-blueberry-slim;lyft;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+3551406686294;LYFT Winter Chill SLIM;lyft-winter-chill-x-strong-slim;"ALL; lyft";FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+3550332846166;LYFT Lime SLIM;lyft-lime-slim;lyft;FALSE;5.95;;pouch;EUR;zweedsesnus.com;nl
+3550277304406;LYFT Ice Cool SLIM;lyft-ice-cool-mint-slim-strong;"ALL; lyft";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
+3549929701462;LYFT Freeze SLIM;lyft-x-freeze;"ALL; lyft";TRUE;5.95;5.95;pouch;EUR;zweedsesnus.com;nl
